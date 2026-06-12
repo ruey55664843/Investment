@@ -8,18 +8,26 @@ from zoneinfo import ZoneInfo
 
 TZ = ZoneInfo("Asia/Taipei")
 FINMIND_TOKEN = os.environ.get("FINMIND_TOKEN", "")
+MARKET_MODE = os.environ.get("MARKET_MODE", "full")
+
 FINMIND_URL = "https://api.finmindtrade.com/api/v4/data"
 
-LOOKBACK_DAYS = 14
+TW_LOOKBACK_DAYS = 90
+US_LOOKBACK_PERIOD = "1y"
 
 TW_STOCKS = {
     "0050": "元大台灣50",
+    "00988A": "主動統一台股增長",
     "6005": "群益證",
 }
 
 US_TICKERS = [
+    "SPY",
     "QQQ",
     "^IXIC",
+    "SOXX",
+    "SMH",
+    "^VIX",
     "NVDA",
     "TSM",
     "AVGO",
@@ -43,6 +51,12 @@ def safe_float(x):
         return float(x)
     except Exception:
         return None
+
+
+def pct_change(new, old):
+    if new is None or old in (None, 0):
+        return None
+    return (new / old - 1) * 100
 
 
 def latest_row(rows, date_key="date"):
@@ -70,7 +84,7 @@ def freshness_label(date_str):
 
 def finmind_fetch(dataset, stock_id=None, start_date=None, end_date=None):
     if not FINMIND_TOKEN:
-        raise RuntimeError("Missing FINMIND_TOKEN. Please set GitHub Secret: FINMIND_TOKEN")
+        raise RuntimeError("Missing FINMIND_TOKEN")
 
     params = {
         "dataset": dataset,
@@ -124,9 +138,36 @@ def margin_change(row):
     return buy - sell - repay
 
 
+def calc_tw_technical(price_rows):
+    if not price_rows:
+        return {}
+
+    rows = sorted(price_rows, key=lambda x: x.get("date", ""))
+
+    closes = [safe_float(r.get("close")) for r in rows]
+    closes = [x for x in closes if x is not None]
+
+    latest_close = closes[-1] if closes else None
+    close_5 = closes[-6] if len(closes) >= 6 else None
+    close_20 = closes[-21] if len(closes) >= 21 else None
+
+    recent_60 = closes[-60:] if len(closes) >= 1 else []
+    high_60 = max(recent_60) if recent_60 else None
+    low_60 = min(recent_60) if recent_60 else None
+
+    return {
+        "pct_change_5d": pct_change(latest_close, close_5),
+        "pct_change_20d": pct_change(latest_close, close_20),
+        "high_60d": high_60,
+        "low_60d": low_60,
+        "pct_from_60d_high": pct_change(latest_close, high_60),
+        "pct_from_60d_low": pct_change(latest_close, low_60),
+    }
+
+
 def fetch_tw_data():
     today = now_tw().date()
-    start = today - timedelta(days=LOOKBACK_DAYS)
+    start = today - timedelta(days=TW_LOOKBACK_DAYS)
 
     start_date = start.strftime("%Y-%m-%d")
     end_date = today.strftime("%Y-%m-%d")
@@ -149,14 +190,14 @@ def fetch_tw_data():
     stocks = {}
 
     for stock_id, name in TW_STOCKS.items():
-        price = latest_row(
-            finmind_fetch(
-                "TaiwanStockPrice",
-                stock_id,
-                start_date,
-                end_date,
-            )
+        price_rows = finmind_fetch(
+            "TaiwanStockPrice",
+            stock_id,
+            start_date,
+            end_date,
         )
+
+        price = latest_row(price_rows)
 
         inst_date, inst = get_inst_summary(
             finmind_fetch(
@@ -176,28 +217,39 @@ def fetch_tw_data():
             )
         )
 
+        technical = calc_tw_technical(price_rows)
+
         stocks[stock_id] = {
             "name": name,
             "price_date": price.get("date") if price else None,
-            "close": safe_float(price.get("close")) if price else None,
             "open": safe_float(price.get("open")) if price else None,
             "max": safe_float(price.get("max")) if price else None,
             "min": safe_float(price.get("min")) if price else None,
+            "close": safe_float(price.get("close")) if price else None,
             "spread": safe_float(price.get("spread")) if price else None,
             "trading_volume": price.get("Trading_Volume") if price else None,
+
             "institutional_date": inst_date,
             "foreign_investor_buy_sell": inst.get("Foreign_Investor"),
             "investment_trust_buy_sell": inst.get("Investment_Trust"),
             "dealer_self_buy_sell": inst.get("Dealer_self"),
             "dealer_hedging_buy_sell": inst.get("Dealer_Hedging"),
+
             "margin_date": margin.get("date") if margin else None,
             "margin_today_balance": margin.get("MarginPurchaseTodayBalance") if margin else None,
             "margin_delta_estimated": margin_change(margin),
-            "freshness": freshness_label(price.get("date") if price else None),
+
+            "technical": technical,
+            "freshness": {
+                "price": freshness_label(price.get("date") if price else None),
+                "institutional": freshness_label(inst_date),
+                "margin": freshness_label(margin.get("date") if margin else None),
+            },
         }
 
     return {
         "source": "FinMind",
+        "mode": "tw_intraday_or_latest_available",
         "lookback_start": start_date,
         "lookback_end": end_date,
         "market_margin": {
@@ -211,48 +263,81 @@ def fetch_tw_data():
     }
 
 
+def calc_us_technical(hist):
+    if hist is None or hist.empty:
+        return {}
+
+    closes = [safe_float(x) for x in hist["Close"].tolist()]
+    closes = [x for x in closes if x is not None]
+
+    latest_close = closes[-1] if closes else None
+    close_5 = closes[-6] if len(closes) >= 6 else None
+    close_20 = closes[-21] if len(closes) >= 21 else None
+
+    high_52w = safe_float(hist["High"].max())
+    low_52w = safe_float(hist["Low"].min())
+
+    return {
+        "pct_change_5d": pct_change(latest_close, close_5),
+        "pct_change_20d": pct_change(latest_close, close_20),
+        "high_52w": high_52w,
+        "low_52w": low_52w,
+        "pct_from_52w_high": pct_change(latest_close, high_52w),
+        "pct_from_52w_low": pct_change(latest_close, low_52w),
+    }
+
+
 def fetch_us_data():
     result = {}
 
     for ticker in US_TICKERS:
         try:
             obj = yf.Ticker(ticker)
-            hist = obj.history(period="10d", auto_adjust=False)
 
-            if hist is None or hist.empty:
+            # 1 年日線：用於 52 週高低點與中期漲跌幅
+            hist_daily = obj.history(period=US_LOOKBACK_PERIOD, auto_adjust=False)
+
+            if hist_daily is None or hist_daily.empty:
                 result[ticker] = {
-                    "error": "no_data",
+                    "error": "no_daily_data",
                     "freshness": "missing",
                 }
                 continue
 
-            last = hist.iloc[-1]
-            prev = hist.iloc[-2] if len(hist) >= 2 else None
+            last_daily = hist_daily.iloc[-1]
+            prev_daily = hist_daily.iloc[-2] if len(hist_daily) >= 2 else None
 
-            close = safe_float(last.get("Close"))
-            open_price = safe_float(last.get("Open"))
-            high = safe_float(last.get("High"))
-            low = safe_float(last.get("Low"))
-            volume = safe_float(last.get("Volume"))
+            close = safe_float(last_daily.get("Close"))
+            open_price = safe_float(last_daily.get("Open"))
+            high = safe_float(last_daily.get("High"))
+            low = safe_float(last_daily.get("Low"))
+            volume = safe_float(last_daily.get("Volume"))
+            prev_close = safe_float(prev_daily.get("Close")) if prev_daily is not None else None
+            date = hist_daily.index[-1].strftime("%Y-%m-%d")
 
-            prev_close = safe_float(prev.get("Close")) if prev is not None else None
+            # 盤中資料：若 yfinance 有回傳，額外記錄 regularMarketPrice
+            info_price = None
+            try:
+                fast_info = obj.fast_info
+                info_price = safe_float(getattr(fast_info, "last_price", None))
+            except Exception:
+                info_price = None
 
-            pct_change = None
-            if close is not None and prev_close not in (None, 0):
-                pct_change = (close / prev_close - 1) * 100
-
-            last_date = hist.index[-1].strftime("%Y-%m-%d")
+            technical = calc_us_technical(hist_daily)
 
             result[ticker] = {
-                "date": last_date,
+                "date": date,
                 "open": open_price,
                 "high": high,
                 "low": low,
                 "close": close,
                 "previous_close": prev_close,
-                "pct_change": pct_change,
+                "pct_change": pct_change(close, prev_close),
                 "volume": volume,
-                "freshness": freshness_label(last_date),
+                "intraday_or_latest_price": info_price,
+                "intraday_vs_previous_close_pct": pct_change(info_price, prev_close),
+                "technical": technical,
+                "freshness": freshness_label(date),
             }
 
         except Exception as e:
@@ -263,6 +348,7 @@ def fetch_us_data():
 
     return {
         "source": "Yahoo Finance via yfinance",
+        "mode": "us_intraday_or_latest_available",
         "tickers": result,
     }
 
@@ -271,13 +357,20 @@ def build_market_data():
     generated_at = now_tw().strftime("%Y-%m-%d %H:%M:%S %Z")
 
     data = {
-        "schema_version": "market-data-v1",
+        "schema_version": "market-data-v2",
         "generated_at": generated_at,
         "generated_timezone": "Asia/Taipei",
-        "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
-        "taiwan": fetch_tw_data(),
-        "us": fetch_us_data(),
+        "market_mode": MARKET_MODE,
+        "privacy_note": (
+            "This file contains market data only. "
+            "No personal holdings, cash, target allocation, or buy/sell recommendations are included."
+        ),
     }
+
+    # 簡化：每次都抓台股與美股，方便 ChatGPT 一次讀完整市場狀態。
+    # 排程時間只代表主要用途：11:00 偏台股盤中，00:00 偏美股盤中。
+    data["taiwan"] = fetch_tw_data()
+    data["us"] = fetch_us_data()
 
     return data
 
@@ -292,7 +385,8 @@ def write_public_summary(data, path="market_data.md"):
 
     lines.append("# Public Market Data")
     lines.append("")
-    lines.append(f"- Generated at: {data['generated_at']}")
+    lines.append(f"- Generated at: {data.get('generated_at')}")
+    lines.append(f"- Market mode: {data.get('market_mode')}")
     lines.append("- Privacy: market data only; no personal holdings or recommendations.")
     lines.append("")
 
@@ -314,17 +408,15 @@ def write_public_summary(data, path="market_data.md"):
         lines.append(f"### {stock_id} {row.get('name')}")
         lines.append(f"- Price date: {row.get('price_date')}")
         lines.append(f"- Open: {row.get('open')}")
+        lines.append(f"- High: {row.get('max')}")
+        lines.append(f"- Low: {row.get('min')}")
         lines.append(f"- Close: {row.get('close')}")
         lines.append(f"- Spread: {row.get('spread')}")
         lines.append(f"- Trading volume: {row.get('trading_volume')}")
-        lines.append(f"- Institutional date: {row.get('institutional_date')}")
         lines.append(f"- Foreign investor buy/sell: {row.get('foreign_investor_buy_sell')}")
         lines.append(f"- Investment trust buy/sell: {row.get('investment_trust_buy_sell')}")
-        lines.append(f"- Dealer self buy/sell: {row.get('dealer_self_buy_sell')}")
-        lines.append(f"- Dealer hedging buy/sell: {row.get('dealer_hedging_buy_sell')}")
-        lines.append(f"- Margin date: {row.get('margin_date')}")
-        lines.append(f"- Margin today balance: {row.get('margin_today_balance')}")
         lines.append(f"- Margin delta estimated: {row.get('margin_delta_estimated')}")
+        lines.append(f"- Technical: {row.get('technical')}")
         lines.append(f"- Freshness: {row.get('freshness')}")
         lines.append("")
 
@@ -335,10 +427,14 @@ def write_public_summary(data, path="market_data.md"):
         lines.append(f"### {ticker}")
         lines.append(f"- Date: {row.get('date')}")
         lines.append(f"- Open: {row.get('open')}")
+        lines.append(f"- High: {row.get('high')}")
+        lines.append(f"- Low: {row.get('low')}")
         lines.append(f"- Close: {row.get('close')}")
         lines.append(f"- Previous close: {row.get('previous_close')}")
         lines.append(f"- Pct change: {row.get('pct_change')}")
-        lines.append(f"- Volume: {row.get('volume')}")
+        lines.append(f"- Intraday/latest price: {row.get('intraday_or_latest_price')}")
+        lines.append(f"- Intraday vs previous close pct: {row.get('intraday_vs_previous_close_pct')}")
+        lines.append(f"- Technical: {row.get('technical')}")
         lines.append(f"- Freshness: {row.get('freshness')}")
         if row.get("error"):
             lines.append(f"- Error: {row.get('error')}")
@@ -355,6 +451,7 @@ def main():
 
     print("Generated market_data.json")
     print("Generated market_data.md")
+    print(f"Market mode: {MARKET_MODE}")
     print(json.dumps(data, ensure_ascii=False, indent=2)[:3000])
 
 
