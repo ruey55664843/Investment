@@ -2,9 +2,19 @@ name: Market Data
 
 on:
   schedule:
-    # 00:20 UTC = 08:20 Asia/Taipei, Monday-Friday
-    - cron: "20 0 * * 1-5"
+    # 台股盤中：台灣時間 11:00，UTC 03:00
+    - cron: "0 3 * * 1-5"
+
+    # 美股盤中：台灣時間 00:00，UTC 16:00
+    # UTC 16:00 Mon-Fri = Taiwan Tue-Sat 00:00
+    - cron: "0 16 * * 1-5"
+
   workflow_dispatch:
+    inputs:
+      market_mode:
+        description: "tw_intraday, us_intraday, full"
+        required: false
+        default: "full"
 
 permissions:
   contents: write
@@ -25,9 +35,25 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Decide market mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "MARKET_MODE=${{ github.event.inputs.market_mode }}" >> $GITHUB_ENV
+          else
+            HOUR_UTC=$(date -u +%H)
+            if [ "$HOUR_UTC" = "03" ]; then
+              echo "MARKET_MODE=tw_intraday" >> $GITHUB_ENV
+            elif [ "$HOUR_UTC" = "16" ]; then
+              echo "MARKET_MODE=us_intraday" >> $GITHUB_ENV
+            else
+              echo "MARKET_MODE=full" >> $GITHUB_ENV
+            fi
+          fi
+
       - name: Fetch market data
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
+          MARKET_MODE: ${{ env.MARKET_MODE }}
         run: python fetch_market_data.py
 
       - name: Commit market data
