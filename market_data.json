@@ -1,0 +1,162 @@
+{
+  "schema_version": "market-data-v1",
+  "generated_at": "2026-06-12 14:17:49 CST",
+  "generated_timezone": "Asia/Taipei",
+  "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
+  "taiwan": {
+    "source": "FinMind",
+    "lookback_start": "2026-05-29",
+    "lookback_end": "2026-06-12",
+    "market_margin": {
+      "date": "2026-06-11",
+      "today_balance": 549176982000,
+      "yesterday_balance": 546812469000,
+      "delta": 2364513000,
+      "freshness": "fresh"
+    },
+    "stocks": {
+      "0050": {
+        "name": "元大台灣50",
+        "price_date": "2026-06-12",
+        "close": 101.95,
+        "open": 103.25,
+        "max": 103.75,
+        "min": 101.55,
+        "spread": 2.1,
+        "trading_volume": 73116000,
+        "institutional_date": "2026-06-11",
+        "foreign_investor_buy_sell": -91840299,
+        "investment_trust_buy_sell": 2846000,
+        "dealer_self_buy_sell": -223000,
+        "dealer_hedging_buy_sell": -78520648,
+        "margin_date": "2026-06-11",
+        "margin_today_balance": 12383,
+        "margin_delta_estimated": 1201,
+        "freshness": "fresh"
+      },
+      "6005": {
+        "name": "群益證",
+        "price_date": "2026-06-12",
+        "close": 39.0,
+        "open": 39.7,
+        "max": 39.9,
+        "min": 38.9,
+        "spread": 0.7,
+        "trading_volume": 14038000,
+        "institutional_date": "2026-06-11",
+        "foreign_investor_buy_sell": 5618766,
+        "investment_trust_buy_sell": -4214000,
+        "dealer_self_buy_sell": 0,
+        "dealer_hedging_buy_sell": 0,
+        "margin_date": "2026-06-11",
+        "margin_today_balance": 5518,
+        "margin_delta_estimated": -347,
+        "freshness": "fresh"
+      }
+    }
+  },
+  "us": {
+    "source": "Yahoo Finance via yfinance",
+    "tickers": {
+      "QQQ": {
+        "date": "2026-06-11",
+        "open": 699.2899780273438,
+        "high": 718.3699951171875,
+        "low": 695.0,
+        "close": 717.1199951171875,
+        "previous_close": 693.6900024414062,
+        "pct_change": 3.3775883454166156,
+        "volume": 71471100.0,
+        "freshness": "fresh"
+      },
+      "^IXIC": {
+        "date": "2026-06-11",
+        "open": 25309.779296875,
+        "high": 25846.560546875,
+        "low": 25109.390625,
+        "close": 25809.66015625,
+        "previous_close": 25169.5,
+        "pct_change": 2.543396397425446,
+        "volume": 10101910000.0,
+        "freshness": "fresh"
+      },
+      "NVDA": {
+        "date": "2026-06-11",
+        "open": 201.49000549316406,
+        "high": 205.66000366210938,
+        "low": 199.5399932861328,
+        "close": 204.8699951171875,
+        "previous_close": 200.4199981689453,
+        "pct_change": 2.220335789291372,
+        "volume": 157872000.0,
+        "freshness": "fresh"
+      },
+      "TSM": {
+        "date": "2026-06-11",
+        "open": 413.260009765625,
+        "high": 422.25,
+        "low": 408.8599853515625,
+        "close": 421.07000732421875,
+        "previous_close": 408.75,
+        "pct_change": 3.0140690701452533,
+        "volume": 13779500.0,
+        "freshness": "fresh"
+      },
+      "AVGO": {
+        "date": "2026-06-11",
+        "open": 372.82000732421875,
+        "high": 389.5,
+        "low": 370.54998779296875,
+        "close": 385.57000732421875,
+        "previous_close": 372.1000061035156,
+        "pct_change": 3.6199948937802207,
+        "volume": 35108000.0,
+        "freshness": "fresh"
+      },
+      "MSFT": {
+        "date": "2026-06-11",
+        "open": 395.2099914550781,
+        "high": 396.8500061035156,
+        "low": 384.0,
+        "close": 390.3399963378906,
+        "previous_close": 397.3599853515625,
+        "pct_change": -1.7666572560045224,
+        "volume": 47114000.0,
+        "freshness": "fresh"
+      },
+      "GOOGL": {
+        "date": "2026-06-11",
+        "open": 355.92999267578125,
+        "high": 358.79998779296875,
+        "low": 346.3599853515625,
+        "close": 357.7699890136719,
+        "previous_close": 356.3800048828125,
+        "pct_change": 0.3900286525099661,
+        "volume": 35441500.0,
+        "freshness": "fresh"
+      },
+      "META": {
+        "date": "2026-06-11",
+        "open": 565.8300170898438,
+        "high": 572.1699829101562,
+        "low": 557.010009765625,
+        "close": 568.4299926757812,
+        "previous_close": 570.97998046875,
+        "pct_change": -0.4465984588242988,
+        "volume": 17586900.0,
+        "freshness": "fresh"
+      },
+      "AMZN": {
+        "date": "2026-06-11",
+        "open": 237.92999267578125,
+        "high": 242.13999938964844,
+        "low": 235.17999267578125,
+        "close": 241.50999450683594,
+        "previous_close": 238.0,
+        "pct_change": 1.474787607914263,
+        "volume": 41250200.0,
+        "freshness": "fresh"
+      }
+    }
+  }
+}
