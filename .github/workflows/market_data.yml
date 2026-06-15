@@ -29,6 +29,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        
+      - name: Debug trigger
+        run: |
+          echo "event=${{ github.event_name }}"
+          echo "EVENT_NAME=${{ github.event_name }}"
+          echo "HOUR_UTC=$(date -u +%H)"
+          echo "MARKET_MODE=$MARKET_MODE"
+          date
+          date -u
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -66,9 +75,4 @@ jobs:
           git add market_data.json market_data.md
           git commit -m "Update public market data" || echo "No changes to commit"
           git push
-          
-      - name: Debug trigger
-        run: |
-          echo "event=${{ github.event_name }}"
-          date
-          date -u
+
