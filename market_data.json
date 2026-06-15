@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-06-16 04:19:42 CST",
+  "generated_at": "2026-06-16 06:32:17 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -139,13 +139,13 @@
       },
       "QQQ": {
         "date": "2026-06-15",
-        "open": 738.0999755859375,
+        "open": 738.0900268554688,
         "high": 744.7598876953125,
         "low": 737.3800048828125,
         "close": 744.0,
         "previous_close": 721.3400268554688,
         "pct_change": 3.141371932916659,
-        "volume": 42483656.0,
+        "volume": 45976556.0,
         "intraday_or_latest_price": 744.0,
         "intraday_vs_previous_close_pct": 3.141371932916659,
         "technical": {
@@ -166,7 +166,7 @@
         "close": 26683.94140625,
         "previous_close": 25888.83984375,
         "pct_change": 3.0712135703985677,
-        "volume": 9413411000.0,
+        "volume": 9592155000.0,
         "intraday_or_latest_price": 26683.94140625,
         "intraday_vs_previous_close_pct": 3.0712135703985677,
         "technical": {
@@ -181,7 +181,7 @@
       },
       "SOXX": {
         "date": "2026-06-15",
-        "open": 622.6099853515625,
+        "open": 622.6849975585938,
         "high": 629.7199096679688,
         "low": 618.4500122070312,
         "close": 628.4500122070312,
@@ -202,13 +202,13 @@
       },
       "SMH": {
         "date": "2026-06-15",
-        "open": 643.5,
+        "open": 643.3599853515625,
         "high": 649.239990234375,
         "low": 639.25,
         "close": 647.0999755859375,
         "previous_close": 619.9600219726562,
         "pct_change": 4.377694149846056,
-        "volume": 9086002.0,
+        "volume": 9439486.0,
         "intraday_or_latest_price": 647.0999755859375,
         "intraday_vs_previous_close_pct": 4.377694149846056,
         "technical": {
@@ -226,25 +226,25 @@
         "open": 16.780000686645508,
         "high": 16.850000381469727,
         "low": 15.979999542236328,
-        "close": 16.110000610351562,
+        "close": 16.200000762939453,
         "previous_close": 17.68000030517578,
-        "pct_change": -8.880088618350335,
+        "pct_change": -8.371037990327757,
         "volume": 0.0,
-        "intraday_or_latest_price": 16.110000610351562,
-        "intraday_vs_previous_close_pct": -8.880088618350335,
+        "intraday_or_latest_price": 16.200000762939453,
+        "intraday_vs_previous_close_pct": -8.371037990327757,
         "technical": {
-          "pct_change_5d": -14.852005574054983,
-          "pct_change_20d": -9.595954622655366,
+          "pct_change_5d": -14.376317665889182,
+          "pct_change_20d": -9.09090325268238,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -54.362603516891596,
-          "pct_from_52w_low": 20.403590975789143
+          "pct_from_52w_high": -54.10764557203872,
+          "pct_from_52w_low": 21.076237850363945
         },
         "freshness": "fresh"
       },
       "NVDA": {
         "date": "2026-06-15",
-        "open": 208.9199981689453,
+        "open": 208.85499572753906,
         "high": 212.710693359375,
         "low": 208.33999633789062,
         "close": 212.4499969482422,
@@ -271,7 +271,7 @@
         "close": 441.3999938964844,
         "previous_close": 423.92999267578125,
         "pct_change": 4.120963725740467,
-        "volume": 11066287.0,
+        "volume": 11156909.0,
         "intraday_or_latest_price": 441.3999938964844,
         "intraday_vs_previous_close_pct": 4.120963725740467,
         "technical": {
@@ -286,7 +286,7 @@
       },
       "AVGO": {
         "date": "2026-06-15",
-        "open": 395.510009765625,
+        "open": 395.79998779296875,
         "high": 396.20001220703125,
         "low": 388.6000061035156,
         "close": 393.94000244140625,
@@ -370,7 +370,7 @@
       },
       "AMZN": {
         "date": "2026-06-15",
-        "open": 245.02000427246094,
+        "open": 245.16400146484375,
         "high": 247.80499267578125,
         "low": 244.72999572753906,
         "close": 246.02000427246094,
