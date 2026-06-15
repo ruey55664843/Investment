@@ -15,6 +15,9 @@ on:
         description: "tw_intraday, us_intraday, full"
         required: false
         default: "full"
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -63,3 +66,9 @@ jobs:
           git add market_data.json market_data.md
           git commit -m "Update public market data" || echo "No changes to commit"
           git push
+          
+      - name: Debug trigger
+        run: |
+          echo "event=${{ github.event_name }}"
+          date
+          date -u
