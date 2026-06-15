@@ -4,7 +4,7 @@ on:
   schedule:
     # 台股盤中：台灣時間 11:00，UTC 03:00
     - cron: "0 3 * * 1-5"
-
+    - cron: "*/30 * * * *"
     # 美股盤中：台灣時間 00:00，UTC 16:00
     # UTC 16:00 Mon-Fri = Taiwan Tue-Sat 00:00
     - cron: "0 16 * * 1-5"
