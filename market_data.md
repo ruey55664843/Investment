@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-06-17 16:28:41 CST
+- Generated at: 2026-06-17 20:00:14 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 104.5
 - Close: 106.0
 - Spread: 0.1
-- Trading volume: 80331952
+- Trading volume: 100331952
 - Foreign investor buy/sell: 3116293
 - Investment trust buy/sell: 4700000
 - Margin delta estimated: 352
@@ -125,14 +125,14 @@
 ### ^VIX
 - Date: 2026-06-17
 - Open: 16.079999923706055
-- High: 16.329999923706055
+- High: 16.510000228881836
 - Low: 16.06999969482422
-- Close: 16.329999923706055
+- Close: 16.420000076293945
 - Previous close: 16.40999984741211
-- Pct change: -0.48750715691610047
-- Intraday/latest price: 16.329999923706055
-- Intraday vs previous close pct: -0.48750715691610047
-- Technical: {'pct_change_5d': -26.50764883736282, 'pct_change_20d': -6.364682203901905, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -53.739375986836805, 'pct_from_52w_low': 22.04783097184899}
+- Pct change: 0.06093984750044079
+- Intraday/latest price: 16.420000076293945
+- Intraday vs previous close pct: 0.06093984750044079
+- Technical: {'pct_change_5d': -26.102607634081586, 'pct_change_20d': -5.848626298902737, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -53.484418041983936, 'pct_from_52w_low': 22.72047784642379}
 - Freshness: fresh
 
 ### NVDA
@@ -202,15 +202,15 @@
 
 ### META
 - Date: 2026-06-16
-- Open: 593.6500244140625
-- High: 605.8099975585938
+- Open: 593.489990234375
+- High: 605.780029296875
 - Low: 592.0
-- Close: 600.2100219726562
+- Close: None
 - Previous close: 593.47998046875
-- Pct change: 1.1339963815781395
-- Intraday/latest price: 600.2100219726562
-- Intraday vs previous close pct: 1.1339963815781395
-- Technical: {'pct_change_5d': 2.6719571664963304, 'pct_change_20d': -1.79970870969981, 'high_52w': 796.25, 'low_52w': 520.260009765625, 'pct_from_52w_high': -24.620405403748038, 'pct_from_52w_low': 15.367318399707175}
+- Pct change: None
+- Intraday/latest price: 600.21
+- Intraday vs previous close pct: 1.1339926792365285
+- Technical: {'pct_change_5d': 1.3819787864285615, 'pct_change_20d': -3.3782134802610275, 'high_52w': 796.25, 'low_52w': 520.260009765625, 'pct_from_52w_high': -25.465622547095755, 'pct_from_52w_low': 14.073726469214943}
 - Freshness: fresh
 
 ### AMZN
