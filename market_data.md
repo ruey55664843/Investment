@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-06-20 02:14:36 CST
+- Generated at: 2026-06-20 04:10:31 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -21,8 +21,8 @@
 - Close: 107.3
 - Spread: 1.3
 - Trading volume: 78557448
-- Foreign investor buy/sell: -1261000
-- Investment trust buy/sell: 0
+- Foreign investor buy/sell: 14338704
+- Investment trust buy/sell: 2200000
 - Margin delta estimated: -193
 - Technical: {'pct_change_5d': 7.46119178768152, 'pct_change_20d': 11.945748565466886, 'high_60d': 107.6, 'low_60d': 72.35, 'pct_from_60d_high': -0.27881040892192566, 'pct_from_60d_low': 48.306841741534214}
 - Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'fresh', 'margin': 'weekend_or_holiday_possible'}
@@ -39,7 +39,7 @@
 - Investment trust buy/sell: 200000
 - Margin delta estimated: 3268
 - Technical: {'pct_change_5d': 15.667506297229217, 'pct_change_20d': 19.7080291970803, 'high_60d': 22.96, 'low_60d': 11.85, 'pct_from_60d_high': 0.0, 'pct_from_60d_low': 93.75527426160339}
-- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
+- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'fresh', 'margin': 'weekend_or_holiday_possible'}
 
 ### 6005 群益證
 - Price date: 2026-06-18
@@ -49,8 +49,8 @@
 - Close: 39.65
 - Spread: 0.2
 - Trading volume: 20145609
-- Foreign investor buy/sell: -61000
-- Investment trust buy/sell: 839000
+- Foreign investor buy/sell: 7188074
+- Investment trust buy/sell: -5728000
 - Margin delta estimated: 55
 - Technical: {'pct_change_5d': 3.524804177545704, 'pct_change_20d': 25.47468354430378, 'high_60d': 45.05, 'low_60d': 27.4, 'pct_from_60d_high': -11.98668146503884, 'pct_from_60d_low': 44.7080291970803}
 - Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'fresh', 'margin': 'weekend_or_holiday_possible'}
