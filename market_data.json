@@ -1,14 +1,14 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-06-20 23:19:52 CST",
+  "generated_at": "2026-06-21 00:58:27 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "full",
+  "market_mode": "us_intraday",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
     "mode": "tw_intraday_or_latest_available",
-    "lookback_start": "2026-03-22",
-    "lookback_end": "2026-06-20",
+    "lookback_start": "2026-03-23",
+    "lookback_end": "2026-06-21",
     "market_margin": {
       "date": "2026-06-18",
       "today_balance": 593046547000,
@@ -44,7 +44,7 @@
         },
         "freshness": {
           "price": "weekend_or_holiday_possible",
-          "institutional": "fresh",
+          "institutional": "weekend_or_holiday_possible",
           "margin": "weekend_or_holiday_possible"
         }
       },
@@ -75,7 +75,7 @@
         },
         "freshness": {
           "price": "weekend_or_holiday_possible",
-          "institutional": "fresh",
+          "institutional": "weekend_or_holiday_possible",
           "margin": "weekend_or_holiday_possible"
         }
       },
@@ -106,7 +106,7 @@
         },
         "freshness": {
           "price": "weekend_or_holiday_possible",
-          "institutional": "fresh",
+          "institutional": "weekend_or_holiday_possible",
           "margin": "weekend_or_holiday_possible"
         }
       }
@@ -240,7 +240,7 @@
           "pct_from_52w_high": -53.54107656378546,
           "pct_from_52w_low": 22.570997595357987
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "NVDA": {
         "date": "2026-06-18",
