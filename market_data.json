@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-06-21 02:08:31 CST",
+  "generated_at": "2026-06-21 04:00:47 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -160,22 +160,22 @@
       },
       "^IXIC": {
         "date": "2026-06-18",
-        "open": 26410.623046875,
-        "high": 26559.7421875,
-        "low": 26188.6875,
-        "close": null,
+        "open": 26410.619140625,
+        "high": 26559.740234375,
+        "low": 26188.689453125,
+        "close": 26517.9296875,
         "previous_close": 26021.66015625,
-        "pct_change": null,
-        "volume": 18110701000.0,
-        "intraday_or_latest_price": 26517.932,
-        "intraday_vs_previous_close_pct": 1.907149047255552,
+        "pct_change": 1.9071401604282556,
+        "volume": 18286150000.0,
+        "intraday_or_latest_price": 26517.9296875,
+        "intraday_vs_previous_close_pct": 1.9071401604282556,
         "technical": {
-          "pct_change_5d": 3.3856856761159237,
-          "pct_change_20d": 0.583475340568218,
+          "pct_change_5d": 2.7442032439101594,
+          "pct_change_20d": 0.942394083636322,
           "high_52w": 27190.2109375,
           "low_52w": 19334.98046875,
-          "pct_from_52w_high": -4.297689282131922,
-          "pct_from_52w_low": 34.58332786168204
+          "pct_from_52w_high": -2.472512079973632,
+          "pct_from_52w_low": 37.150020556573
         },
         "freshness": "weekend_or_holiday_possible"
       },
@@ -227,18 +227,18 @@
         "high": 17.270000457763672,
         "low": 16.719999313354492,
         "close": null,
-        "previous_close": 18.440000534057617,
+        "previous_close": 16.399999618530273,
         "pct_change": null,
         "volume": 0.0,
         "intraday_or_latest_price": 16.78,
-        "intraday_vs_previous_close_pct": -9.002171832867855,
+        "intraday_vs_previous_close_pct": 2.3170755506626284,
         "technical": {
-          "pct_change_5d": -17.01169620210137,
-          "pct_change_20d": 5.733944778540323,
+          "pct_change_5d": -15.637864362202357,
+          "pct_change_20d": -2.147974972763944,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -47.762037018125646,
-          "pct_from_52w_low": 37.81764107875818
+          "pct_from_52w_high": -53.54107656378546,
+          "pct_from_52w_low": 22.570997595357987
         },
         "freshness": "weekend_or_holiday_possible"
       },
