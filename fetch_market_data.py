@@ -35,6 +35,7 @@ US_TICKERS = [
     "GOOGL",
     "META",
     "AMZN",
+    "AMBA",
 ]
 
 
