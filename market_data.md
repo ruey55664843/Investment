@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-06-25 05:04:48 CST
+- Generated at: 2026-06-25 06:43:46 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -98,7 +98,7 @@
 
 ### SOXX
 - Date: 2026-06-24
-- Open: 606.1900024414062
+- Open: 606.3400268554688
 - High: 609.6900024414062
 - Low: 586.6599731445312
 - Close: 601.5
@@ -189,7 +189,7 @@
 
 ### GOOGL
 - Date: 2026-06-24
-- Open: 349.0350036621094
+- Open: 348.9649963378906
 - High: 353.47601318359375
 - Low: 341.92999267578125
 - Close: 345.2900085449219
@@ -228,7 +228,7 @@
 
 ### AMBA
 - Date: 2026-06-24
-- Open: 65.55999755859375
+- Open: 65.52999877929688
 - High: 65.68499755859375
 - Low: 61.810001373291016
 - Close: 62.9900016784668
