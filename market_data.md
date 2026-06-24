@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-06-24 14:07:28 CST
+- Generated at: 2026-06-24 14:49:13 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -14,45 +14,45 @@
 - Freshness: fresh
 
 ### 0050 元大台灣50
-- Price date: 2026-06-23
-- Open: 112.0
-- High: 112.3
-- Low: 110.05
-- Close: 110.1
-- Spread: -1.05
-- Trading volume: 130786727
+- Price date: 2026-06-24
+- Open: 108.0
+- High: 108.1
+- Low: 106.15
+- Close: 107.15
+- Spread: -2.95
+- Trading volume: 208055000
 - Foreign investor buy/sell: -27630722
 - Investment trust buy/sell: 1000000
 - Margin delta estimated: -328
-- Technical: {'pct_change_5d': 4.608076009501172, 'pct_change_20d': 9.226190476190466, 'high_60d': 111.15, 'low_60d': 72.35, 'pct_from_60d_high': -0.9446693657220062, 'pct_from_60d_low': 52.1769177608846}
+- Technical: {'pct_change_5d': 1.1803588290840494, 'pct_change_20d': 7.042957042957054, 'high_60d': 111.15, 'low_60d': 72.35, 'pct_from_60d_high': -3.5987404408457047, 'pct_from_60d_low': 48.0995162404976}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 00988A 主動統一台股增長
-- Price date: 2026-06-23
-- Open: 23.81
-- High: 23.86
-- Low: 22.91
-- Close: 22.91
-- Spread: -0.82
-- Trading volume: 129932536
+- Price date: 2026-06-24
+- Open: 22.4
+- High: 22.54
+- Low: 22.01
+- Close: 22.53
+- Spread: -0.38
+- Trading volume: 129730000
 - Foreign investor buy/sell: -11036107
 - Investment trust buy/sell: 0
 - Margin delta estimated: 1821
-- Technical: {'pct_change_5d': 2.4597495527728164, 'pct_change_20d': 3.759057971014501, 'high_60d': 23.73, 'low_60d': 11.85, 'pct_from_60d_high': -3.4555415086388597, 'pct_from_60d_low': 93.33333333333333}
+- Technical: {'pct_change_5d': -0.6613756613756516, 'pct_change_20d': 2.7828467153284686, 'high_60d': 23.73, 'low_60d': 11.85, 'pct_from_60d_high': -5.056890012642223, 'pct_from_60d_low': 90.12658227848102}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 6005 群益證
-- Price date: 2026-06-23
-- Open: 39.9
-- High: 40.3
-- Low: 39.55
-- Close: 39.75
-- Spread: -0.05
-- Trading volume: 15260426
+- Price date: 2026-06-24
+- Open: 39.4
+- High: 39.4
+- Low: 38.0
+- Close: 38.55
+- Spread: -1.2
+- Trading volume: 21547000
 - Foreign investor buy/sell: 6846903
 - Investment trust buy/sell: -4788000
 - Margin delta estimated: -263
-- Technical: {'pct_change_5d': -0.7490636704119757, 'pct_change_20d': 21.559633027522928, 'high_60d': 45.05, 'low_60d': 27.4, 'pct_from_60d_high': -11.764705882352933, 'pct_from_60d_low': 45.07299270072993}
+- Technical: {'pct_change_5d': -3.0188679245283123, 'pct_change_20d': 16.641452344931928, 'high_60d': 45.05, 'low_60d': 27.4, 'pct_from_60d_high': -14.428412874583795, 'pct_from_60d_low': 40.6934306569343}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ## US
@@ -132,7 +132,7 @@
 - Pct change: 12.789346045458249
 - Intraday/latest price: 19.489999771118164
 - Intraday vs previous close pct: 12.789346045458249
-- Technical: {'pct_change_5d': 20.308634896519283, 'pct_change_20d': 16.706580124057613, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -44.78753486584747, 'pct_from_52w_low': 45.66516894183563}
+- Technical: {'pct_change_5d': 20.308634896519283, 'pct_change_20d': 17.480407425300104, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -44.78753486584747, 'pct_from_52w_low': 45.66516894183563}
 - Freshness: fresh
 
 ### NVDA
