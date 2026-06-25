@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-06-26 04:27:06 CST
+- Generated at: 2026-06-26 05:58:39 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -62,17 +62,17 @@
 - Open: 738.9099731445312
 - High: 739.3499755859375
 - Low: 729.5999755859375
-- Close: 733.5
+- Close: 734.2999877929688
 - Previous close: 733.239990234375
-- Pct change: 0.0354603907435358
-- Intraday/latest price: 733.5
-- Intraday vs previous close pct: 0.0354603907435358
-- Technical: {'pct_change_5d': -1.0068049221866882, 'pct_change_20d': -2.259950094086982, 'high_52w': 760.4000244140625, 'low_52w': 608.3699951171875, 'pct_from_52w_high': -3.537614880377038, 'pct_from_52w_low': 20.568076316569382}
+- Pct change: 0.14456352254532678
+- Intraday/latest price: 734.2999877929688
+- Intraday vs previous close pct: 0.14456352254532678
+- Technical: {'pct_change_5d': -0.8988385313902003, 'pct_change_20d': -2.1533504392691416, 'high_52w': 760.4000244140625, 'low_52w': 608.3699951171875, 'pct_from_52w_high': -3.4324087037221673, 'pct_from_52w_low': 20.69957323446301}
 - Freshness: fresh
 
 ### QQQ
 - Date: 2026-06-25
-- Open: 725.9000244140625
+- Open: 725.9099731445312
 - High: 726.8300170898438
 - Low: 705.2999877929688
 - Close: 716.3800048828125
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-06-25
-- Open: 649.3699951171875
+- Open: 649.47998046875
 - High: 650.030029296875
 - Low: 613.9299926757812
 - Close: 636.8800048828125
@@ -127,12 +127,12 @@
 - Open: 18.110000610351562
 - High: 19.950000762939453
 - Low: 17.719999313354492
-- Close: 18.93000030517578
+- Close: 18.889999389648438
 - Previous close: 18.6299991607666
-- Pct change: 1.610312173502182
-- Intraday/latest price: 18.93000030517578
-- Intraday vs previous close pct: 1.610312173502182
-- Technical: {'pct_change_5d': 2.6572654930956396, 'pct_change_20d': 16.206256852521328, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -46.373935653512234, 'pct_from_52w_low': 41.47982169854241}
+- Pct change: 1.3955997884818938
+- Intraday/latest price: 18.889999389648438
+- Intraday vs previous close pct: 1.3955997884818938
+- Technical: {'pct_change_5d': 2.440340794783058, 'pct_change_20d': 15.9607018293217, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -46.4872526971153, 'pct_from_52w_low': 41.1808611964108}
 - Freshness: fresh
 
 ### NVDA
@@ -176,7 +176,7 @@
 
 ### MSFT
 - Date: 2026-06-25
-- Open: 362.7699890136719
+- Open: 362.70001220703125
 - High: 364.2300109863281
 - Low: 349.20001220703125
 - Close: 352.8299865722656
@@ -215,7 +215,7 @@
 
 ### AMZN
 - Date: 2026-06-25
-- Open: 232.02000427246094
+- Open: 231.92999267578125
 - High: 232.32000732421875
 - Low: 225.55499267578125
 - Close: 227.00999450683594
