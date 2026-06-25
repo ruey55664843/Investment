@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-06-26 05:58:39 CST
+- Generated at: 2026-06-26 07:15:52 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -123,17 +123,17 @@
 - Freshness: fresh
 
 ### ^VIX
-- Date: 2026-06-25
-- Open: 18.110000610351562
-- High: 19.950000762939453
-- Low: 17.719999313354492
-- Close: 18.889999389648438
-- Previous close: 18.6299991607666
-- Pct change: 1.3955997884818938
-- Intraday/latest price: 18.889999389648438
-- Intraday vs previous close pct: 1.3955997884818938
-- Technical: {'pct_change_5d': 2.440340794783058, 'pct_change_20d': 15.9607018293217, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -46.4872526971153, 'pct_from_52w_low': 41.1808611964108}
-- Freshness: fresh
+- Date: 2026-06-24
+- Open: 19.1299991607666
+- High: 20.34000015258789
+- Low: 18.040000915527344
+- Close: 18.6299991607666
+- Previous close: 19.489999771118164
+- Pct change: -4.412522424068877
+- Intraday/latest price: 18.63
+- Intraday vs previous close pct: -4.412518118099628
+- Technical: {'pct_change_5d': 13.528332321737292, 'pct_change_20d': 9.523803116322815, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -47.22379727077316, 'pct_from_52w_low': 39.23766069821932}
+- Freshness: weekend_or_holiday_possible
 
 ### NVDA
 - Date: 2026-06-25
