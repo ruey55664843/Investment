@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-06-25 10:27:35 CST
+- Generated at: 2026-06-25 14:31:11 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -14,45 +14,45 @@
 - Freshness: fresh
 
 ### 0050 元大台灣50
-- Price date: 2026-06-24
+- Price date: 2026-06-25
 - Open: 108.0
-- High: 108.1
-- Low: 106.15
-- Close: 107.15
-- Spread: -2.95
-- Trading volume: 235939737
+- High: 108.05
+- Low: 106.35
+- Close: 107.2
+- Spread: 0.05
+- Trading volume: 88961000
 - Foreign investor buy/sell: -126206899
 - Investment trust buy/sell: 1100000
 - Margin delta estimated: 1007
-- Technical: {'pct_change_5d': 1.1803588290840494, 'pct_change_20d': 7.042957042957054, 'high_60d': 111.15, 'low_60d': 72.35, 'pct_from_60d_high': -3.5987404408457047, 'pct_from_60d_low': 48.0995162404976}
+- Technical: {'pct_change_5d': 1.132075471698113, 'pct_change_20d': 4.534373476353015, 'high_60d': 111.15, 'low_60d': 72.35, 'pct_from_60d_high': -3.553756185335133, 'pct_from_60d_low': 48.168624740843136}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 00988A 主動統一台股增長
-- Price date: 2026-06-24
-- Open: 22.4
-- High: 22.54
-- Low: 22.01
-- Close: 22.53
-- Spread: -0.38
-- Trading volume: 131974087
+- Price date: 2026-06-25
+- Open: 23.0
+- High: 23.08
+- Low: 22.7
+- Close: 23.07
+- Spread: 0.54
+- Trading volume: 84940000
 - Foreign investor buy/sell: -33985008
 - Investment trust buy/sell: 0
 - Margin delta estimated: -1438
-- Technical: {'pct_change_5d': -0.6613756613756516, 'pct_change_20d': 2.7828467153284686, 'high_60d': 23.73, 'low_60d': 11.85, 'pct_from_60d_high': -5.056890012642223, 'pct_from_60d_low': 90.12658227848102}
+- Technical: {'pct_change_5d': 2.442273534635886, 'pct_change_20d': 4.531037607612154, 'high_60d': 23.73, 'low_60d': 11.85, 'pct_from_60d_high': -2.7812895069532217, 'pct_from_60d_low': 94.68354430379749}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 6005 群益證
-- Price date: 2026-06-24
-- Open: 39.4
-- High: 39.4
-- Low: 38.0
-- Close: 38.55
-- Spread: -1.2
-- Trading volume: 21762523
+- Price date: 2026-06-25
+- Open: 38.65
+- High: 39.2
+- Low: 38.5
+- Close: 38.8
+- Spread: 0.25
+- Trading volume: 10082000
 - Foreign investor buy/sell: -4097757
 - Investment trust buy/sell: -4495252
 - Margin delta estimated: 397
-- Technical: {'pct_change_5d': -3.0188679245283123, 'pct_change_20d': 16.641452344931928, 'high_60d': 45.05, 'low_60d': 27.4, 'pct_from_60d_high': -14.428412874583795, 'pct_from_60d_low': 40.6934306569343}
+- Technical: {'pct_change_5d': -1.647655259822578, 'pct_change_20d': 10.857142857142854, 'high_60d': 45.05, 'low_60d': 27.4, 'pct_from_60d_high': -13.873473917869038, 'pct_from_60d_low': 41.6058394160584}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ## US
@@ -60,8 +60,8 @@
 ### SPY
 - Date: 2026-06-24
 - Open: 735.1699829101562
-- High: 739.9450073242188
-- Low: 730.85498046875
+- High: 739.9500122070312
+- Low: 730.8400268554688
 - Close: 733.239990234375
 - Previous close: 733.5800170898438
 - Pct change: -0.04635170636431152
@@ -72,7 +72,7 @@
 
 ### QQQ
 - Date: 2026-06-24
-- Open: 714.7999877929688
+- Open: 715.3699951171875
 - High: 719.9299926757812
 - Low: 704.4500122070312
 - Close: 710.6199951171875
@@ -85,20 +85,20 @@
 
 ### ^IXIC
 - Date: 2026-06-24
-- Open: 25578.623046875
-- High: 25840.564453125
-- Low: 25354.65625
-- Close: 25476.634765625
+- Open: 25578.619140625
+- High: 25840.560546875
+- Low: 25354.66015625
+- Close: 25476.640625
 - Previous close: 25587.0390625
-- Pct change: -0.4314852398721203
-- Intraday/latest price: 25476.634765625
-- Intraday vs previous close pct: -0.4314852398721203
-- Technical: {'pct_change_5d': -3.411030808120974, 'pct_change_20d': -4.425033653371302, 'high_52w': 27190.2109375, 'low_52w': 19918.080078125, 'pct_from_52w_high': -6.3021805009672915, 'pct_from_52w_low': 27.907080731162814}
+- Pct change: -0.4314623400946682
+- Intraday/latest price: 25476.640625
+- Intraday vs previous close pct: -0.4314623400946682
+- Technical: {'pct_change_5d': -3.4110085936096546, 'pct_change_20d': -4.425011672070644, 'high_52w': 27190.2109375, 'low_52w': 19918.080078125, 'pct_from_52w_high': -6.302158951391911, 'pct_from_52w_low': 27.907110148531245}
 - Freshness: fresh
 
 ### SOXX
 - Date: 2026-06-24
-- Open: 606.3400268554688
+- Open: 606.1900024414062
 - High: 609.6900024414062
 - Low: 586.6599731445312
 - Close: 601.5
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-06-24
-- Open: 622.4000244140625
+- Open: 622.280029296875
 - High: 625.22998046875
 - Low: 606.22998046875
 - Close: 618.9199829101562
@@ -137,8 +137,8 @@
 
 ### NVDA
 - Date: 2026-06-24
-- Open: 200.07000732421875
-- High: 201.64999389648438
+- Open: 200.1199951171875
+- High: 201.6699981689453
 - Low: 196.5800018310547
 - Close: 199.0
 - Previous close: 200.0399932861328
@@ -150,9 +150,9 @@
 
 ### TSM
 - Date: 2026-06-24
-- Open: 433.9750061035156
-- High: 443.8450012207031
-- Low: 432.57501220703125
+- Open: 433.9800109863281
+- High: 443.8599853515625
+- Low: 432.5799865722656
 - Close: 440.8299865722656
 - Previous close: 436.3900146484375
 - Pct change: 1.017432061869017
@@ -176,7 +176,7 @@
 
 ### MSFT
 - Date: 2026-06-24
-- Open: 371.5799865722656
+- Open: 371.57000732421875
 - High: 378.8800048828125
 - Low: 364.7799987792969
 - Close: 365.4599914550781
@@ -189,8 +189,8 @@
 
 ### GOOGL
 - Date: 2026-06-24
-- Open: 348.9649963378906
-- High: 353.47601318359375
+- Open: 349.0400085449219
+- High: 353.4800109863281
 - Low: 341.92999267578125
 - Close: 345.2900085449219
 - Previous close: 346.1300048828125
@@ -202,9 +202,9 @@
 
 ### META
 - Date: 2026-06-24
-- Open: 562.1500244140625
+- Open: 561.8900146484375
 - High: 569.0399780273438
-- Low: 555.55029296875
+- Low: 555.5499877929688
 - Close: 557.6699829101562
 - Previous close: 562.2000122070312
 - Pct change: -0.8057682672562461
@@ -215,8 +215,8 @@
 
 ### AMZN
 - Date: 2026-06-24
-- Open: 233.84500122070312
-- High: 242.41990661621094
+- Open: 233.85000610351562
+- High: 242.4199981689453
 - Low: 232.9499969482422
 - Close: 234.27000427246094
 - Previous close: 234.11000061035156
@@ -228,8 +228,8 @@
 
 ### AMBA
 - Date: 2026-06-24
-- Open: 65.52999877929688
-- High: 65.68499755859375
+- Open: 65.55999755859375
+- High: 65.69000244140625
 - Low: 61.810001373291016
 - Close: 62.9900016784668
 - Previous close: 65.51000213623047
