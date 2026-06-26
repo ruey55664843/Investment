@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-06-26 13:59:11 CST",
+  "generated_at": "2026-06-26 14:55:20 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -19,13 +19,13 @@
     "stocks": {
       "0050": {
         "name": "元大台灣50",
-        "price_date": "2026-06-25",
-        "open": 108.0,
-        "max": 108.05,
-        "min": 106.35,
-        "close": 107.2,
-        "spread": 0.05,
-        "trading_volume": 96345582,
+        "price_date": "2026-06-26",
+        "open": 105.4,
+        "max": 105.85,
+        "min": 102.8,
+        "close": 103.1,
+        "spread": -4.1,
+        "trading_volume": 291814760,
         "institutional_date": "2026-06-25",
         "foreign_investor_buy_sell": -23490994,
         "investment_trust_buy_sell": 2150000,
@@ -35,12 +35,12 @@
         "margin_today_balance": 13124,
         "margin_delta_estimated": 511,
         "technical": {
-          "pct_change_5d": 1.132075471698113,
-          "pct_change_20d": 4.534373476353015,
+          "pct_change_5d": -3.9142590866728777,
+          "pct_change_20d": 2.5870646766169125,
           "high_60d": 111.15,
           "low_60d": 72.35,
-          "pct_from_60d_high": -3.553756185335133,
-          "pct_from_60d_low": 48.168624740843136
+          "pct_from_60d_high": -7.242465137201992,
+          "pct_from_60d_low": 42.50172771250864
         },
         "freshness": {
           "price": "fresh",
@@ -50,13 +50,13 @@
       },
       "00988A": {
         "name": "主動統一台股增長",
-        "price_date": "2026-06-25",
-        "open": 23.0,
-        "max": 23.08,
-        "min": 22.7,
-        "close": 23.07,
-        "spread": 0.54,
-        "trading_volume": 85629188,
+        "price_date": "2026-06-26",
+        "open": 22.65,
+        "max": 22.74,
+        "min": 21.91,
+        "close": 21.92,
+        "spread": -1.15,
+        "trading_volume": 136392452,
         "institutional_date": "2026-06-25",
         "foreign_investor_buy_sell": -1018335,
         "investment_trust_buy_sell": 0,
@@ -66,12 +66,12 @@
         "margin_today_balance": 81483,
         "margin_delta_estimated": 1455,
         "technical": {
-          "pct_change_5d": 2.442273534635886,
-          "pct_change_20d": 4.531037607612154,
+          "pct_change_5d": -4.529616724738672,
+          "pct_change_20d": 3.3474776049033483,
           "high_60d": 23.73,
           "low_60d": 11.85,
-          "pct_from_60d_high": -2.7812895069532217,
-          "pct_from_60d_low": 94.68354430379749
+          "pct_from_60d_high": -7.627475769068681,
+          "pct_from_60d_low": 84.97890295358653
         },
         "freshness": {
           "price": "fresh",
@@ -81,13 +81,13 @@
       },
       "6005": {
         "name": "群益證",
-        "price_date": "2026-06-25",
-        "open": 38.65,
-        "max": 39.2,
-        "min": 38.5,
-        "close": 38.8,
-        "spread": 0.25,
-        "trading_volume": 10154612,
+        "price_date": "2026-06-26",
+        "open": 38.5,
+        "max": 39.0,
+        "min": 37.65,
+        "close": 37.8,
+        "spread": -1.0,
+        "trading_volume": 14232867,
         "institutional_date": "2026-06-25",
         "foreign_investor_buy_sell": 3547091,
         "investment_trust_buy_sell": -5154430,
@@ -97,12 +97,12 @@
         "margin_today_balance": 5332,
         "margin_delta_estimated": 60,
         "technical": {
-          "pct_change_5d": -1.647655259822578,
-          "pct_change_20d": 10.857142857142854,
+          "pct_change_5d": -4.6658259773013855,
+          "pct_change_20d": 4.999999999999982,
           "high_60d": 45.05,
           "low_60d": 27.4,
-          "pct_from_60d_high": -13.873473917869038,
-          "pct_from_60d_low": 41.6058394160584
+          "pct_from_60d_high": -16.093229744728077,
+          "pct_from_60d_low": 37.95620437956204
         },
         "freshness": {
           "price": "fresh",
