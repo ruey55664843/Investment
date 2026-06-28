@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-06-28 10:08:13 CST
+- Generated at: 2026-06-28 14:40:47 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -163,15 +163,15 @@
 
 ### AVGO
 - Date: 2026-06-26
-- Open: 370.45001220703125
+- Open: 370.0
 - High: 373.69000244140625
 - Low: 363.8299865722656
-- Close: 365.0199890136719
+- Close: None
 - Previous close: 378.9100036621094
-- Pct change: -3.665781983635308
-- Intraday/latest price: 365.0199890136719
-- Intraday vs previous close pct: -3.665781983635308
-- Technical: {'pct_change_5d': -11.262918780213871, 'pct_change_20d': -14.431056190247471, 'high_52w': 495.0, 'low_52w': 262.6600036621094, 'pct_from_52w_high': -26.258588078046085, 'pct_from_52w_low': 38.970526126711036}
+- Pct change: None
+- Intraday/latest price: 365.02
+- Intraday vs previous close pct: -3.665779084179499
+- Technical: {'pct_change_5d': -3.5607000386110643, 'pct_change_20d': -10.181098748595508, 'high_52w': 495.0, 'low_52w': 262.6600036621094, 'pct_from_52w_high': -23.452524512705175, 'pct_from_52w_low': 44.25873691433666}
 - Freshness: weekend_or_holiday_possible
 
 ### MSFT
