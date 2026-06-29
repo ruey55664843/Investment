@@ -1,8 +1,8 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-06-29 11:29:35 CST",
+  "generated_at": "2026-06-29 16:12:09 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "tw_intraday",
+  "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
@@ -19,13 +19,13 @@
     "stocks": {
       "0050": {
         "name": "元大台灣50",
-        "price_date": "2026-06-26",
-        "open": 105.4,
-        "max": 105.85,
-        "min": 102.8,
-        "close": 103.1,
-        "spread": -4.1,
-        "trading_volume": 291814760,
+        "price_date": "2026-06-29",
+        "open": 103.35,
+        "max": 105.35,
+        "min": 103.3,
+        "close": 104.45,
+        "spread": 1.35,
+        "trading_volume": 106661221,
         "institutional_date": "2026-06-26",
         "foreign_investor_buy_sell": -130305489,
         "investment_trust_buy_sell": 4900000,
@@ -35,28 +35,28 @@
         "margin_today_balance": 13103,
         "margin_delta_estimated": -21,
         "technical": {
-          "pct_change_5d": -3.9142590866728777,
-          "pct_change_20d": 2.5870646766169125,
+          "pct_change_5d": -6.027890238416555,
+          "pct_change_20d": -0.9013282732447836,
           "high_60d": 111.15,
-          "low_60d": 72.35,
-          "pct_from_60d_high": -7.242465137201992,
-          "pct_from_60d_low": 42.50172771250864
+          "low_60d": 73.95,
+          "pct_from_60d_high": -6.027890238416555,
+          "pct_from_60d_low": 41.24408384043272
         },
         "freshness": {
-          "price": "weekend_or_holiday_possible",
+          "price": "fresh",
           "institutional": "weekend_or_holiday_possible",
           "margin": "weekend_or_holiday_possible"
         }
       },
       "00988A": {
         "name": "主動統一台股增長",
-        "price_date": "2026-06-26",
-        "open": 22.65,
-        "max": 22.74,
-        "min": 21.91,
-        "close": 21.92,
-        "spread": -1.15,
-        "trading_volume": 136392452,
+        "price_date": "2026-06-29",
+        "open": 21.85,
+        "max": 21.93,
+        "min": 21.3,
+        "close": 21.45,
+        "spread": -0.47,
+        "trading_volume": 100802017,
         "institutional_date": "2026-06-26",
         "foreign_investor_buy_sell": -46084787,
         "investment_trust_buy_sell": 0,
@@ -66,28 +66,28 @@
         "margin_today_balance": 78749,
         "margin_delta_estimated": -2734,
         "technical": {
-          "pct_change_5d": -4.529616724738672,
-          "pct_change_20d": 3.3474776049033483,
+          "pct_change_5d": -9.608091024020226,
+          "pct_change_20d": -2.985074626865669,
           "high_60d": 23.73,
-          "low_60d": 11.85,
-          "pct_from_60d_high": -7.627475769068681,
-          "pct_from_60d_low": 84.97890295358653
+          "low_60d": 12.44,
+          "pct_from_60d_high": -9.608091024020226,
+          "pct_from_60d_low": 72.42765273311898
         },
         "freshness": {
-          "price": "weekend_or_holiday_possible",
+          "price": "fresh",
           "institutional": "weekend_or_holiday_possible",
           "margin": "weekend_or_holiday_possible"
         }
       },
       "6005": {
         "name": "群益證",
-        "price_date": "2026-06-26",
-        "open": 38.5,
-        "max": 39.0,
-        "min": 37.65,
-        "close": 37.8,
-        "spread": -1.0,
-        "trading_volume": 14232867,
+        "price_date": "2026-06-29",
+        "open": 38.3,
+        "max": 38.35,
+        "min": 37.5,
+        "close": 37.55,
+        "spread": -0.25,
+        "trading_volume": 10065553,
         "institutional_date": "2026-06-26",
         "foreign_investor_buy_sell": 1459260,
         "investment_trust_buy_sell": -5254944,
@@ -97,15 +97,15 @@
         "margin_today_balance": 5191,
         "margin_delta_estimated": -141,
         "technical": {
-          "pct_change_5d": -4.6658259773013855,
-          "pct_change_20d": 4.999999999999982,
+          "pct_change_5d": -5.6532663316582905,
+          "pct_change_20d": -2.467532467532474,
           "high_60d": 45.05,
-          "low_60d": 27.4,
-          "pct_from_60d_high": -16.093229744728077,
-          "pct_from_60d_low": 37.95620437956204
+          "low_60d": 27.6,
+          "pct_from_60d_high": -16.648168701442845,
+          "pct_from_60d_low": 36.05072463768116
         },
         "freshness": {
-          "price": "weekend_or_holiday_possible",
+          "price": "fresh",
           "institutional": "weekend_or_holiday_possible",
           "margin": "weekend_or_holiday_possible"
         }
@@ -222,25 +222,25 @@
         "freshness": "weekend_or_holiday_possible"
       },
       "^VIX": {
-        "date": "2026-06-26",
-        "open": 19.700000762939453,
-        "high": 20.719999313354492,
-        "low": 18.200000762939453,
-        "close": 18.40999984741211,
-        "previous_close": 18.889999389648438,
-        "pct_change": -2.5410246572022843,
+        "date": "2026-06-29",
+        "open": 18.600000381469727,
+        "high": 18.600000381469727,
+        "low": 18.440000534057617,
+        "close": 18.5,
+        "previous_close": 18.40999984741211,
+        "pct_change": 0.4888655803033215,
         "volume": 0.0,
-        "intraday_or_latest_price": 18.40999984741211,
-        "intraday_vs_previous_close_pct": -2.5410246572022843,
+        "intraday_or_latest_price": 18.5,
+        "intraday_vs_previous_close_pct": 0.4888655803033215,
         "technical": {
-          "pct_change_5d": 12.256099241677699,
-          "pct_change_20d": 16.963151938497578,
+          "pct_change_5d": 7.0601809309958075,
+          "pct_change_20d": 20.757182562151932,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -47.84702480082795,
-          "pct_from_52w_low": 37.59342070215945
+          "pct_from_52w_high": -47.59206685597508,
+          "pct_from_52w_low": 38.26606757673425
         },
-        "freshness": "weekend_or_holiday_possible"
+        "freshness": "fresh"
       },
       "NVDA": {
         "date": "2026-06-26",
