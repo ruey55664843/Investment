@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-01 05:11:18 CST
+- Generated at: 2026-07-01 06:46:32 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -72,7 +72,7 @@
 
 ### QQQ
 - Date: 2026-06-30
-- Open: 724.1799926757812
+- Open: 724.1699829101562
 - High: 737.6199951171875
 - Low: 723.9199829101562
 - Close: 736.4000244140625
@@ -137,7 +137,7 @@
 
 ### NVDA
 - Date: 2026-06-30
-- Open: 197.24000549316406
+- Open: 197.19500732421875
 - High: 200.6300048828125
 - Low: 195.11000061035156
 - Close: 200.08999633789062
@@ -176,7 +176,7 @@
 
 ### MSFT
 - Date: 2026-06-30
-- Open: 371.0299987792969
+- Open: 370.8800048828125
 - High: 374.1499938964844
 - Low: 367.4700012207031
 - Close: 373.0199890136719
