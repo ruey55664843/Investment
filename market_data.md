@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-02 04:20:19 CST
+- Generated at: 2026-07-02 05:55:51 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -58,22 +58,21 @@
 ## US
 
 ### SPY
-- Date: None
-- Open: None
-- High: None
-- Low: None
-- Close: None
-- Previous close: None
-- Pct change: None
-- Intraday/latest price: None
-- Intraday vs previous close pct: None
-- Technical: None
-- Freshness: missing
-- Error: Too Many Requests. Rate limited. Try after a while.
+- Date: 2026-07-01
+- Open: 745.0
+- High: 749.4349975585938
+- Low: 742.375
+- Close: 745.760009765625
+- Previous close: 746.77001953125
+- Pct change: -0.1352504438058455
+- Intraday/latest price: 745.760009765625
+- Intraday vs previous close pct: -0.1352504438058455
+- Technical: {'pct_change_5d': 1.7074927306198973, 'pct_change_20d': -1.8181336052542463, 'high_52w': 760.4000244140625, 'low_52w': 616.6099853515625, 'pct_from_52w_high': -1.9253043369795497, 'pct_from_52w_low': 20.945172391333735}
+- Freshness: fresh
 
 ### QQQ
 - Date: 2026-07-01
-- Open: 729.1900024414062
+- Open: 729.1599731445312
 - High: 731.9099731445312
 - Low: 724.5999755859375
 - Close: 725.1699829101562
@@ -112,7 +111,7 @@
 
 ### SMH
 - Date: 2026-07-01
-- Open: 634.3499755859375
+- Open: 634.2899780273438
 - High: 639.8900146484375
 - Low: 618.6651000976562
 - Close: 620.4600219726562
@@ -138,7 +137,7 @@
 
 ### NVDA
 - Date: 2026-07-01
-- Open: 196.1999969482422
+- Open: 196.1699981689453
 - High: 199.85000610351562
 - Low: 193.4499969482422
 - Close: 197.5800018310547
@@ -164,7 +163,7 @@
 
 ### AVGO
 - Date: 2026-07-01
-- Open: 371.8699951171875
+- Open: 371.7900085449219
 - High: 373.75
 - Low: 368.0299987792969
 - Close: 369.3399963378906
@@ -190,7 +189,7 @@
 
 ### GOOGL
 - Date: 2026-07-01
-- Open: 358.3699951171875
+- Open: 358.239990234375
 - High: 362.9700012207031
 - Low: 356.42999267578125
 - Close: 361.2099914550781
@@ -216,7 +215,7 @@
 
 ### AMZN
 - Date: 2026-07-01
-- Open: 239.75
+- Open: 239.97999572753906
 - High: 244.89999389648438
 - Low: 234.89999389648438
 - Close: 241.6999969482422
