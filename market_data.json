@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-02 13:30:21 CST",
+  "generated_at": "2026-07-02 14:40:49 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -19,13 +19,13 @@
     "stocks": {
       "0050": {
         "name": "元大台灣50",
-        "price_date": "2026-07-01",
-        "open": 109.8,
-        "max": 109.95,
-        "min": 108.6,
-        "close": 109.35,
-        "spread": 1.55,
-        "trading_volume": 76131395,
+        "price_date": "2026-07-02",
+        "open": 107.2,
+        "max": 108.95,
+        "min": 106.9,
+        "close": 108.8,
+        "spread": -0.55,
+        "trading_volume": 67361000,
         "institutional_date": "2026-07-01",
         "foreign_investor_buy_sell": 8681068,
         "investment_trust_buy_sell": 6383000,
@@ -35,12 +35,12 @@
         "margin_today_balance": 12610,
         "margin_delta_estimated": -138,
         "technical": {
-          "pct_change_5d": 2.053196453569761,
-          "pct_change_20d": 3.453169347209073,
+          "pct_change_5d": 1.4925373134328401,
+          "pct_change_20d": 1.1152416356877248,
           "high_60d": 111.15,
-          "low_60d": 75.3,
-          "pct_from_60d_high": -1.619433198380582,
-          "pct_from_60d_low": 45.2191235059761
+          "low_60d": 79.15,
+          "pct_from_60d_high": -2.11426000899686,
+          "pct_from_60d_low": 37.46051800379027
         },
         "freshness": {
           "price": "fresh",
@@ -50,13 +50,13 @@
       },
       "00988A": {
         "name": "主動統一台股增長",
-        "price_date": "2026-07-01",
-        "open": 22.9,
-        "max": 23.03,
-        "min": 22.5,
-        "close": 22.78,
-        "spread": 0.5,
-        "trading_volume": 83078372,
+        "price_date": "2026-07-02",
+        "open": 21.84,
+        "max": 22.05,
+        "min": 21.53,
+        "close": 21.84,
+        "spread": -0.94,
+        "trading_volume": 137441000,
         "institutional_date": "2026-07-01",
         "foreign_investor_buy_sell": 25992012,
         "investment_trust_buy_sell": 0,
@@ -66,12 +66,12 @@
         "margin_today_balance": 67078,
         "margin_delta_estimated": -845,
         "technical": {
-          "pct_change_5d": 1.1096316023080366,
-          "pct_change_20d": 4.976958525345632,
+          "pct_change_5d": -5.331599479843952,
+          "pct_change_20d": -3.6187113857016784,
           "high_60d": 23.73,
-          "low_60d": 12.94,
-          "pct_from_60d_high": -4.003371260008426,
-          "pct_from_60d_low": 76.0432766615147
+          "low_60d": 14.34,
+          "pct_from_60d_high": -7.964601769911505,
+          "pct_from_60d_low": 52.30125523012552
         },
         "freshness": {
           "price": "fresh",
@@ -81,13 +81,13 @@
       },
       "6005": {
         "name": "群益證",
-        "price_date": "2026-07-01",
-        "open": 38.8,
-        "max": 39.0,
-        "min": 37.65,
-        "close": 37.65,
-        "spread": -0.6,
-        "trading_volume": 11282608,
+        "price_date": "2026-07-02",
+        "open": 37.65,
+        "max": 37.8,
+        "min": 37.05,
+        "close": 37.35,
+        "spread": -0.3,
+        "trading_volume": 8236000,
         "institutional_date": "2026-07-01",
         "foreign_investor_buy_sell": -365000,
         "investment_trust_buy_sell": -4538996,
@@ -97,12 +97,12 @@
         "margin_today_balance": 5451,
         "margin_delta_estimated": 212,
         "technical": {
-          "pct_change_5d": -2.3346303501945442,
-          "pct_change_20d": -8.727272727272728,
+          "pct_change_5d": -3.7371134020618424,
+          "pct_change_20d": -16.442953020134233,
           "high_60d": 45.05,
           "low_60d": 27.6,
-          "pct_from_60d_high": -16.426193118756938,
-          "pct_from_60d_low": 36.41304347826087
+          "pct_from_60d_high": -17.092119866814638,
+          "pct_from_60d_low": 35.32608695652173
         },
         "freshness": {
           "price": "fresh",
