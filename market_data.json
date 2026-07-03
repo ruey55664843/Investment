@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-04 04:07:50 CST",
+  "generated_at": "2026-07-04 05:36:56 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -89,8 +89,8 @@
         "spread": 0.8,
         "trading_volume": 8477265,
         "institutional_date": "2026-07-03",
-        "foreign_investor_buy_sell": -61000,
-        "investment_trust_buy_sell": 839000,
+        "foreign_investor_buy_sell": 4476658,
+        "investment_trust_buy_sell": -3553189,
         "dealer_self_buy_sell": 0,
         "dealer_hedging_buy_sell": 0,
         "margin_date": "2026-07-03",
