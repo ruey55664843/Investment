@@ -1,7 +1,7 @@
 # Public Market Data
 
-- Generated at: 2026-07-04 23:37:34 CST
-- Market mode: full
+- Generated at: 2026-07-05 00:50:03 CST
+- Market mode: us_intraday
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
@@ -11,7 +11,7 @@
 - Today balance: 630812485000
 - Yesterday balance: 620837289000
 - Delta: 9975196000
-- Freshness: fresh
+- Freshness: weekend_or_holiday_possible
 
 ### 0050 元大台灣50
 - Price date: 2026-07-03
@@ -25,7 +25,7 @@
 - Investment trust buy/sell: 2800000
 - Margin delta estimated: 230
 - Technical: {'pct_change_5d': 5.092143549951511, 'pct_change_20d': 2.120640904806792, 'high_60d': 111.15, 'low_60d': 79.15, 'pct_from_60d_high': -2.5191183085920055, 'pct_from_60d_low': 36.89197725837017}
-- Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
+- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
 
 ### 00988A 主動統一台股增長
 - Price date: 2026-07-03
@@ -39,7 +39,7 @@
 - Investment trust buy/sell: -2625000
 - Margin delta estimated: 2318
 - Technical: {'pct_change_5d': -2.691605839416078, 'pct_change_20d': -3.440470801267548, 'high_60d': 23.73, 'low_60d': 14.43, 'pct_from_60d_high': -10.113780025284457, 'pct_from_60d_low': 47.81704781704781}
-- Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
+- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
 
 ### 6005 群益證
 - Price date: 2026-07-03
@@ -53,7 +53,7 @@
 - Investment trust buy/sell: -3553189
 - Margin delta estimated: 142
 - Technical: {'pct_change_5d': 0.92592592592593, 'pct_change_20d': -10.129564193168438, 'high_60d': 45.05, 'low_60d': 27.6, 'pct_from_60d_high': -15.316315205327413, 'pct_from_60d_low': 38.2246376811594}
-- Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
+- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
 
 ## US
 
@@ -133,7 +133,7 @@
 - Intraday/latest price: 15.81
 - Intraday vs previous close pct: -2.1052608455802257
 - Technical: {'pct_change_5d': -14.50502837294776, 'pct_change_20d': 0.5603994743508478, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -54.24929187654256, 'pct_from_52w_low': 20.702537222699412}
-- Freshness: fresh
+- Freshness: weekend_or_holiday_possible
 
 ### NVDA
 - Date: 2026-07-02
