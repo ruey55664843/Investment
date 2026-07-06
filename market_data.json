@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-07 05:09:35 CST",
+  "generated_at": "2026-07-07 06:43:01 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -139,7 +139,7 @@
       },
       "QQQ": {
         "date": "2026-07-06",
-        "open": 719.9299926757812,
+        "open": 719.7000122070312,
         "high": 726.0800170898438,
         "low": 718.469970703125,
         "close": 722.8200073242188,
@@ -166,7 +166,7 @@
         "close": 26121.16015625,
         "previous_close": 25832.669921875,
         "pct_change": 1.116765070151371,
-        "volume": 6921955000.0,
+        "volume": 6943295000.0,
         "intraday_or_latest_price": 26121.16015625,
         "intraday_vs_previous_close_pct": 1.116765070151371,
         "technical": {
@@ -244,7 +244,7 @@
       },
       "NVDA": {
         "date": "2026-07-06",
-        "open": 194.4199981689453,
+        "open": 194.38999938964844,
         "high": 197.5500030517578,
         "low": 194.0,
         "close": 195.5500030517578,
@@ -307,7 +307,7 @@
       },
       "MSFT": {
         "date": "2026-07-06",
-        "open": 387.0400085449219,
+        "open": 386.80950927734375,
         "high": 389.1499938964844,
         "low": 381.2200012207031,
         "close": 386.739990234375,
