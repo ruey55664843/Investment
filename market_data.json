@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-06 15:12:26 CST",
+  "generated_at": "2026-07-06 19:10:18 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -26,11 +26,11 @@
         "close": 108.25,
         "spread": -0.1,
         "trading_volume": 75784190,
-        "institutional_date": "2026-07-03",
-        "foreign_investor_buy_sell": -19986289,
-        "investment_trust_buy_sell": 2800000,
-        "dealer_self_buy_sell": 907000,
-        "dealer_hedging_buy_sell": -18939953,
+        "institutional_date": "2026-07-06",
+        "foreign_investor_buy_sell": -12552150,
+        "investment_trust_buy_sell": 0,
+        "dealer_self_buy_sell": -891820,
+        "dealer_hedging_buy_sell": -8810694,
         "margin_date": "2026-07-03",
         "margin_today_balance": 13215,
         "margin_delta_estimated": 230,
@@ -44,7 +44,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "weekend_or_holiday_possible",
+          "institutional": "fresh",
           "margin": "weekend_or_holiday_possible"
         }
       },
@@ -57,11 +57,11 @@
         "close": 20.83,
         "spread": -0.5,
         "trading_volume": 87407326,
-        "institutional_date": "2026-07-03",
-        "foreign_investor_buy_sell": -29369117,
-        "investment_trust_buy_sell": -2625000,
-        "dealer_self_buy_sell": 40000,
-        "dealer_hedging_buy_sell": -25367988,
+        "institutional_date": "2026-07-06",
+        "foreign_investor_buy_sell": -16494702,
+        "investment_trust_buy_sell": 0,
+        "dealer_self_buy_sell": 0,
+        "dealer_hedging_buy_sell": -25500749,
         "margin_date": "2026-07-03",
         "margin_today_balance": 69668,
         "margin_delta_estimated": 2318,
@@ -75,7 +75,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "weekend_or_holiday_possible",
+          "institutional": "fresh",
           "margin": "weekend_or_holiday_possible"
         }
       },
@@ -88,9 +88,9 @@
         "close": 38.45,
         "spread": 0.3,
         "trading_volume": 10096284,
-        "institutional_date": "2026-07-03",
-        "foreign_investor_buy_sell": 4476658,
-        "investment_trust_buy_sell": -3553189,
+        "institutional_date": "2026-07-06",
+        "foreign_investor_buy_sell": 2497132,
+        "investment_trust_buy_sell": -3261192,
         "dealer_self_buy_sell": 0,
         "dealer_hedging_buy_sell": 0,
         "margin_date": "2026-07-03",
@@ -106,7 +106,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "weekend_or_holiday_possible",
+          "institutional": "fresh",
           "margin": "weekend_or_holiday_possible"
         }
       }
@@ -222,25 +222,25 @@
         "freshness": "stale_over_one_trading_day"
       },
       "^VIX": {
-        "date": "2026-07-02",
-        "open": 17.049999237060547,
-        "high": 17.209999084472656,
-        "low": 15.789999961853027,
-        "close": 16.149999618530273,
-        "previous_close": 16.59000015258789,
-        "pct_change": -2.6522033153145053,
+        "date": "2026-07-06",
+        "open": 16.399999618530273,
+        "high": 16.399999618530273,
+        "low": 16.239999771118164,
+        "close": 16.350000381469727,
+        "previous_close": 16.149999618530273,
+        "pct_change": 1.2383948462139527,
         "volume": 0.0,
-        "intraday_or_latest_price": 15.81,
-        "intraday_vs_previous_close_pct": -4.701628362952226,
+        "intraday_or_latest_price": 16.350000381469727,
+        "intraday_vs_previous_close_pct": 1.2383948462139527,
         "technical": {
-          "pct_change_5d": -14.50502837294776,
-          "pct_change_20d": 0.5603994743508478,
+          "pct_change_5d": -11.18956807722058,
+          "pct_change_20d": 6.168836275790235,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -54.24929187654256,
-          "pct_from_52w_low": 20.702537222699412
+          "pct_from_52w_high": -53.68271746503528,
+          "pct_from_52w_low": 22.197311222914816
         },
-        "freshness": "stale_over_one_trading_day"
+        "freshness": "fresh"
       },
       "NVDA": {
         "date": "2026-07-02",
