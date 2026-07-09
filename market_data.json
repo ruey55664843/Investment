@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-10 04:59:16 CST",
+  "generated_at": "2026-07-10 06:26:27 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -139,13 +139,13 @@
       },
       "QQQ": {
         "date": "2026-07-09",
-        "open": 718.3300170898438,
+        "open": 718.2899780273438,
         "high": 724.22998046875,
         "low": 715.125,
         "close": 723.280029296875,
         "previous_close": 711.4400024414062,
         "pct_change": 1.664234062582648,
-        "volume": 32485160.0,
+        "volume": 33195424.0,
         "intraday_or_latest_price": 723.280029296875,
         "intraday_vs_previous_close_pct": 1.664234062582648,
         "technical": {
@@ -166,7 +166,7 @@
         "close": 26206.890625,
         "previous_close": 25870.650390625,
         "pct_change": 1.2996976469398902,
-        "volume": 6329147000.0,
+        "volume": 6393019000.0,
         "intraday_or_latest_price": 26206.890625,
         "intraday_vs_previous_close_pct": 1.2996976469398902,
         "technical": {
@@ -208,7 +208,7 @@
         "close": 607.72998046875,
         "previous_close": 593.0,
         "pct_change": 2.4839764702782485,
-        "volume": 8846701.0,
+        "volume": 8897552.0,
         "intraday_or_latest_price": 607.72998046875,
         "intraday_vs_previous_close_pct": 2.4839764702782485,
         "technical": {
@@ -271,7 +271,7 @@
         "close": 436.9599914550781,
         "previous_close": 436.9800109863281,
         "pct_change": -0.004581337989539858,
-        "volume": 9907842.0,
+        "volume": 11404790.0,
         "intraday_or_latest_price": 436.9599914550781,
         "intraday_vs_previous_close_pct": -0.004581337989539858,
         "technical": {
@@ -286,7 +286,7 @@
       },
       "AVGO": {
         "date": "2026-07-09",
-        "open": 402.19000244140625,
+        "open": 402.2850036621094,
         "high": 407.5199890136719,
         "low": 387.95001220703125,
         "close": 401.1099853515625,
@@ -349,7 +349,7 @@
       },
       "META": {
         "date": "2026-07-09",
-        "open": 583.989990234375,
+        "open": 583.9199829101562,
         "high": 633.27001953125,
         "low": 577.0700073242188,
         "close": 631.47998046875,
