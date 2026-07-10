@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-11 04:59:17 CST
+- Generated at: 2026-07-11 06:01:15 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -98,7 +98,7 @@
 
 ### SOXX
 - Date: 2026-07-10
-- Open: 571.989990234375
+- Open: 572.0599975585938
 - High: 585.7899780273438
 - Low: 566.6699829101562
 - Close: 581.3400268554688
@@ -137,7 +137,7 @@
 
 ### NVDA
 - Date: 2026-07-10
-- Open: 202.0
+- Open: 201.9199981689453
 - High: 211.0
 - Low: 201.9199981689453
 - Close: 210.9600067138672
@@ -215,7 +215,7 @@
 
 ### AMZN
 - Date: 2026-07-10
-- Open: 249.5500030517578
+- Open: 249.63999938964844
 - High: 251.02999877929688
 - Low: 244.41000366210938
 - Close: 245.33999633789062
