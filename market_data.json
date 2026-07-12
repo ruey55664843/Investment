@@ -1,20 +1,20 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-12 23:30:50 CST",
+  "generated_at": "2026-07-13 00:42:11 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "full",
+  "market_mode": "us_intraday",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
     "mode": "tw_intraday_or_latest_available",
-    "lookback_start": "2026-04-13",
-    "lookback_end": "2026-07-12",
+    "lookback_start": "2026-04-14",
+    "lookback_end": "2026-07-13",
     "market_margin": {
       "date": "2026-07-09",
       "today_balance": 619648244000,
       "yesterday_balance": 613815722000,
       "delta": 5832522000,
-      "freshness": "weekend_or_holiday_possible"
+      "freshness": "stale_over_one_trading_day"
     },
     "stocks": {
       "0050": {
@@ -43,9 +43,9 @@
           "pct_from_60d_low": 25.727866904337482
         },
         "freshness": {
-          "price": "weekend_or_holiday_possible",
-          "institutional": "weekend_or_holiday_possible",
-          "margin": "weekend_or_holiday_possible"
+          "price": "stale_over_one_trading_day",
+          "institutional": "stale_over_one_trading_day",
+          "margin": "stale_over_one_trading_day"
         }
       },
       "00988A": {
@@ -74,9 +74,9 @@
           "pct_from_60d_low": 23.83720930232558
         },
         "freshness": {
-          "price": "weekend_or_holiday_possible",
-          "institutional": "weekend_or_holiday_possible",
-          "margin": "weekend_or_holiday_possible"
+          "price": "stale_over_one_trading_day",
+          "institutional": "stale_over_one_trading_day",
+          "margin": "stale_over_one_trading_day"
         }
       },
       "6005": {
@@ -105,9 +105,9 @@
           "pct_from_60d_low": 31.884057971014478
         },
         "freshness": {
-          "price": "weekend_or_holiday_possible",
-          "institutional": "weekend_or_holiday_possible",
-          "margin": "weekend_or_holiday_possible"
+          "price": "stale_over_one_trading_day",
+          "institutional": "stale_over_one_trading_day",
+          "margin": "stale_over_one_trading_day"
         }
       }
     }
