@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-13 16:00:32 CST",
+  "generated_at": "2026-07-13 19:34:19 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -26,11 +26,11 @@
         "close": 106.0,
         "spread": 0.2,
         "trading_volume": 71523037,
-        "institutional_date": "2026-07-09",
-        "foreign_investor_buy_sell": -9034841,
-        "investment_trust_buy_sell": 2875000,
-        "dealer_self_buy_sell": 528559,
-        "dealer_hedging_buy_sell": -13237377,
+        "institutional_date": "2026-07-13",
+        "foreign_investor_buy_sell": -19097461,
+        "investment_trust_buy_sell": 838000,
+        "dealer_self_buy_sell": 459969,
+        "dealer_hedging_buy_sell": -6466945,
         "margin_date": "2026-07-09",
         "margin_today_balance": 13306,
         "margin_delta_estimated": -105,
@@ -44,7 +44,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "stale_over_one_trading_day",
+          "institutional": "fresh",
           "margin": "stale_over_one_trading_day"
         }
       },
@@ -57,11 +57,11 @@
         "close": 18.65,
         "spread": -0.52,
         "trading_volume": 81972023,
-        "institutional_date": "2026-07-09",
-        "foreign_investor_buy_sell": -1482544,
+        "institutional_date": "2026-07-13",
+        "foreign_investor_buy_sell": -4250472,
         "investment_trust_buy_sell": 0,
-        "dealer_self_buy_sell": -983000,
-        "dealer_hedging_buy_sell": -13016098,
+        "dealer_self_buy_sell": 0,
+        "dealer_hedging_buy_sell": -21833067,
         "margin_date": "2026-07-09",
         "margin_today_balance": 78815,
         "margin_delta_estimated": 1434,
@@ -75,7 +75,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "stale_over_one_trading_day",
+          "institutional": "fresh",
           "margin": "stale_over_one_trading_day"
         }
       },
@@ -88,9 +88,9 @@
         "close": 35.35,
         "spread": -1.05,
         "trading_volume": 11541213,
-        "institutional_date": "2026-07-09",
-        "foreign_investor_buy_sell": -603899,
-        "investment_trust_buy_sell": -692118,
+        "institutional_date": "2026-07-13",
+        "foreign_investor_buy_sell": -2661202,
+        "investment_trust_buy_sell": -1190626,
         "dealer_self_buy_sell": 0,
         "dealer_hedging_buy_sell": 0,
         "margin_date": "2026-07-09",
@@ -106,7 +106,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "stale_over_one_trading_day",
+          "institutional": "fresh",
           "margin": "stale_over_one_trading_day"
         }
       }
@@ -225,20 +225,20 @@
         "date": "2026-07-13",
         "open": 16.31999969482422,
         "high": 16.469999313354492,
-        "low": 16.31999969482422,
-        "close": 16.40999984741211,
+        "low": 16.1200008392334,
+        "close": 16.31999969482422,
         "previous_close": 15.029999732971191,
-        "pct_change": 9.18163765108806,
+        "pct_change": 8.582834230017756,
         "volume": 0.0,
-        "intraday_or_latest_price": 16.40999984741211,
-        "intraday_vs_previous_close_pct": 9.18163765108806,
+        "intraday_or_latest_price": 16.31999969482422,
+        "intraday_vs_previous_close_pct": 8.582834230017756,
         "technical": {
-          "pct_change_5d": 5.394991451843922,
-          "pct_change_20d": -15.586422857021754,
+          "pct_change_5d": 4.816955778421206,
+          "pct_change_20d": -16.049386592183268,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -53.5127473028847,
-          "pct_from_52w_low": 22.645737720890892
+          "pct_from_52w_high": -53.767705247737574,
+          "pct_from_52w_low": 21.97309084631609
         },
         "freshness": "fresh"
       },
