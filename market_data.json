@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-14 04:47:17 CST",
+  "generated_at": "2026-07-14 05:42:23 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -124,7 +124,7 @@
         "close": 749.1699829101562,
         "previous_close": 754.9500122070312,
         "pct_change": -0.7656174850540931,
-        "volume": 39255891.0,
+        "volume": 43420412.0,
         "intraday_or_latest_price": 749.1699829101562,
         "intraday_vs_previous_close_pct": -0.7656174850540931,
         "technical": {
@@ -166,7 +166,7 @@
         "close": 25873.17578125,
         "previous_close": 26281.609375,
         "pct_change": -1.554066145349975,
-        "volume": 6251210000.0,
+        "volume": 6313046000.0,
         "intraday_or_latest_price": 25873.17578125,
         "intraday_vs_previous_close_pct": -1.554066145349975,
         "technical": {
@@ -187,7 +187,7 @@
         "close": 553.6099853515625,
         "previous_close": 581.3400268554688,
         "pct_change": -4.77002102433941,
-        "volume": 8050958.0,
+        "volume": 8153452.0,
         "intraday_or_latest_price": 553.6099853515625,
         "intraday_vs_previous_close_pct": -4.77002102433941,
         "technical": {
@@ -202,7 +202,7 @@
       },
       "SMH": {
         "date": "2026-07-13",
-        "open": 598.0050048828125,
+        "open": 598.4000244140625,
         "high": 599.3599853515625,
         "low": 583.280029296875,
         "close": 585.6199951171875,
@@ -271,7 +271,7 @@
         "close": 421.5799865722656,
         "previous_close": 434.1099853515625,
         "pct_change": -2.8863650231748306,
-        "volume": 14158006.0,
+        "volume": 14192963.0,
         "intraday_or_latest_price": 421.5799865722656,
         "intraday_vs_previous_close_pct": -2.8863650231748306,
         "technical": {
@@ -307,7 +307,7 @@
       },
       "MSFT": {
         "date": "2026-07-13",
-        "open": 387.7449951171875,
+        "open": 387.7250061035156,
         "high": 393.6400146484375,
         "low": 384.1499938964844,
         "close": 390.989990234375,
@@ -349,7 +349,7 @@
       },
       "META": {
         "date": "2026-07-13",
-        "open": 661.3800048828125,
+        "open": 661.510009765625,
         "high": 676.6199951171875,
         "low": 654.2000122070312,
         "close": 656.72998046875,
@@ -370,7 +370,7 @@
       },
       "AMZN": {
         "date": "2026-07-13",
-        "open": 244.67999267578125,
+        "open": 244.25999450683594,
         "high": 249.64999389648438,
         "low": 244.22999572753906,
         "close": 247.30999755859375,
