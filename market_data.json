@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-15 04:47:55 CST",
+  "generated_at": "2026-07-15 05:44:09 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -139,7 +139,7 @@
       },
       "QQQ": {
         "date": "2026-07-14",
-        "open": 720.219970703125,
+        "open": 720.1400146484375,
         "high": 722.280029296875,
         "low": 714.3400268554688,
         "close": 719.6900024414062,
@@ -166,7 +166,7 @@
         "close": 26107.0078125,
         "previous_close": 25873.1796875,
         "pct_change": 0.9037471537097774,
-        "volume": 6137225000.0,
+        "volume": 6185344000.0,
         "intraday_or_latest_price": 26107.0078125,
         "intraday_vs_previous_close_pct": 0.9037471537097774,
         "technical": {
@@ -181,13 +181,13 @@
       },
       "SOXX": {
         "date": "2026-07-14",
-        "open": 580.510009765625,
+        "open": 580.3599853515625,
         "high": 580.6599731445312,
         "low": 560.239990234375,
         "close": 567.9199829101562,
         "previous_close": 553.6099853515625,
         "pct_change": 2.584851779634434,
-        "volume": 7144565.0,
+        "volume": 7218154.0,
         "intraday_or_latest_price": 567.9199829101562,
         "intraday_vs_previous_close_pct": 2.584851779634434,
         "technical": {
@@ -271,7 +271,7 @@
         "close": 420.3900146484375,
         "previous_close": 421.5799865722656,
         "pct_change": -0.28226480424353717,
-        "volume": 14162977.0,
+        "volume": 14192635.0,
         "intraday_or_latest_price": 420.3900146484375,
         "intraday_vs_previous_close_pct": -0.28226480424353717,
         "technical": {
@@ -286,13 +286,13 @@
       },
       "AVGO": {
         "date": "2026-07-14",
-        "open": 395.7200012207031,
+        "open": 395.6050109863281,
         "high": 397.3299865722656,
         "low": 384.6404113769531,
         "close": 389.1099853515625,
         "previous_close": 384.04998779296875,
         "pct_change": 1.3175361852430179,
-        "volume": 17041674.0,
+        "volume": 19949796.0,
         "intraday_or_latest_price": 389.1099853515625,
         "intraday_vs_previous_close_pct": 1.3175361852430179,
         "technical": {
@@ -307,13 +307,13 @@
       },
       "MSFT": {
         "date": "2026-07-14",
-        "open": 382.82000732421875,
+        "open": 382.5050048828125,
         "high": 388.19000244140625,
         "low": 378.6499938964844,
         "close": 384.92999267578125,
         "previous_close": 390.989990234375,
         "pct_change": -1.5499111767442342,
-        "volume": 26894991.0,
+        "volume": 27741653.0,
         "intraday_or_latest_price": 384.92999267578125,
         "intraday_vs_previous_close_pct": -1.5499111767442342,
         "technical": {
@@ -370,13 +370,13 @@
       },
       "AMZN": {
         "date": "2026-07-14",
-        "open": 245.5500030517578,
+        "open": 245.52999877929688,
         "high": 248.55999755859375,
         "low": 243.8000030517578,
         "close": 247.49000549316406,
         "previous_close": 247.30999755859375,
         "pct_change": 0.07278635572653958,
-        "volume": 28210343.0,
+        "volume": 29883823.0,
         "intraday_or_latest_price": 247.49000549316406,
         "intraday_vs_previous_close_pct": 0.07278635572653958,
         "technical": {
