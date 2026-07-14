@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-14 16:57:15 CST",
+  "generated_at": "2026-07-14 18:39:52 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -224,7 +224,7 @@
       "^VIX": {
         "date": "2026-07-14",
         "open": 17.209999084472656,
-        "high": 17.43000030517578,
+        "high": 17.450000762939453,
         "low": 17.200000762939453,
         "close": 17.299999237060547,
         "previous_close": 17.15999984741211,
