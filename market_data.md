@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-15 13:30:38 CST
+- Generated at: 2026-07-15 14:34:00 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -14,45 +14,45 @@
 - Freshness: fresh
 
 ### 0050 元大台灣50
-- Price date: 2026-07-14
-- Open: 105.5
-- High: 105.5
-- Low: 102.25
-- Close: 104.4
-- Spread: -1.6
-- Trading volume: 259927533
+- Price date: 2026-07-15
+- Open: 105.3
+- High: 106.45
+- Low: 104.65
+- Close: 106.3
+- Spread: 1.9
+- Trading volume: 105926000
 - Foreign investor buy/sell: -92602009
 - Investment trust buy/sell: 5804000
 - Margin delta estimated: 2315
-- Technical: {'pct_change_5d': -3.5565819861431813, 'pct_change_20d': 2.4031387935262494, 'high_60d': 111.15, 'low_60d': 84.15, 'pct_from_60d_high': -6.072874493927127, 'pct_from_60d_low': 24.064171122994658}
+- Technical: {'pct_change_5d': 0.09416195856872811, 'pct_change_20d': 0.9976247030878849, 'high_60d': 111.15, 'low_60d': 84.55, 'pct_from_60d_high': -4.363472784525424, 'pct_from_60d_low': 25.7244234180958}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 00988A 主動統一台股增長
-- Price date: 2026-07-14
-- Open: 18.52
-- High: 18.75
-- Low: 17.9
-- Close: 18.49
-- Spread: -0.16
-- Trading volume: 96072145
+- Price date: 2026-07-15
+- Open: 19.02
+- High: 19.25
+- Low: 18.85
+- Close: 19.21
+- Spread: 0.72
+- Trading volume: 42947000
 - Foreign investor buy/sell: 10936304
 - Investment trust buy/sell: -600000
 - Margin delta estimated: -972
-- Technical: {'pct_change_5d': -11.233797407585211, 'pct_change_20d': -11.446360153256707, 'high_60d': 23.73, 'low_60d': 15.64, 'pct_from_60d_high': -22.081753055204388, 'pct_from_60d_low': 18.22250639386187}
+- Technical: {'pct_change_5d': -2.0897043832823647, 'pct_change_20d': -14.08765652951699, 'high_60d': 23.73, 'low_60d': 15.72, 'pct_from_60d_high': -19.047619047619047, 'pct_from_60d_low': 22.201017811704826}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 6005 群益證
-- Price date: 2026-07-14
-- Open: 35.5
-- High: 35.5
-- Low: 33.55
-- Close: 34.1
-- Spread: -1.25
-- Trading volume: 13010648
+- Price date: 2026-07-15
+- Open: 34.5
+- High: 34.75
+- Low: 34.35
+- Close: 34.4
+- Spread: 0.3
+- Trading volume: 4880000
 - Foreign investor buy/sell: -4419306
 - Investment trust buy/sell: -281000
 - Margin delta estimated: 43
-- Technical: {'pct_change_5d': -11.31339401820547, 'pct_change_20d': -12.564102564102564, 'high_60d': 45.05, 'low_60d': 27.6, 'pct_from_60d_high': -24.30632630410654, 'pct_from_60d_low': 23.550724637681153}
+- Technical: {'pct_change_5d': -9.592641261498025, 'pct_change_20d': -14.107365792759053, 'high_60d': 45.05, 'low_60d': 27.95, 'pct_from_60d_high': -23.64039955604883, 'pct_from_60d_low': 23.076923076923084}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ## US
