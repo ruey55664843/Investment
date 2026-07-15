@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-15 07:39:53 CST
+- Generated at: 2026-07-15 09:11:08 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -75,12 +75,12 @@
 - Open: 720.1400146484375
 - High: 722.280029296875
 - Low: 714.3400268554688
-- Close: 719.6900024414062
+- Close: 719.7100219726562
 - Previous close: 711.739990234375
-- Pct change: 1.1169826504217273
-- Intraday/latest price: 719.6900024414062
-- Intraday vs previous close pct: 1.1169826504217273
-- Technical: {'pct_change_5d': 1.4462328730882934, 'pct_change_20d': -0.22874433036184083, 'high_52w': 748.6500244140625, 'low_52w': 551.5599975585938, 'pct_from_52w_high': -3.868299075435422, 'pct_from_52w_low': 30.482632102947527}
+- Pct change: 1.1197954095085727
+- Intraday/latest price: 719.7100219726562
+- Intraday vs previous close pct: 1.1197954095085727
+- Technical: {'pct_change_5d': 1.449054790889437, 'pct_change_20d': -0.22596900520246432, 'high_52w': 748.6500244140625, 'low_52w': 551.5599975585938, 'pct_from_52w_high': -3.865624991337757, 'pct_from_52w_low': 30.486261722814568}
 - Freshness: fresh
 
 ### ^IXIC
