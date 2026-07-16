@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-16 13:39:57 CST
+- Generated at: 2026-07-16 14:08:27 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -14,31 +14,31 @@
 - Freshness: fresh
 
 ### 0050 元大台灣50
-- Price date: 2026-07-15
-- Open: 105.3
-- High: 106.45
-- Low: 104.65
-- Close: 106.3
-- Spread: 1.9
-- Trading volume: 110911495
+- Price date: 2026-07-16
+- Open: 105.35
+- High: 106.75
+- Low: 104.55
+- Close: 106.4
+- Spread: 0.1
+- Trading volume: 67622000
 - Foreign investor buy/sell: 34254143
 - Investment trust buy/sell: 4925000
 - Margin delta estimated: -21
-- Technical: {'pct_change_5d': 0.09416195856872811, 'pct_change_20d': 0.9976247030878849, 'high_60d': 111.15, 'low_60d': 84.55, 'pct_from_60d_high': -4.363472784525424, 'pct_from_60d_low': 25.7244234180958}
+- Technical: {'pct_change_5d': 0.33003300330034513, 'pct_change_20d': 0.47214353163360645, 'high_60d': 111.15, 'low_60d': 86.0, 'pct_from_60d_high': -4.273504273504269, 'pct_from_60d_low': 23.720930232558146}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 00988A 主動統一台股增長
-- Price date: 2026-07-15
-- Open: 19.02
-- High: 19.25
-- Low: 18.85
-- Close: 19.21
-- Spread: 0.72
-- Trading volume: 43778671
+- Price date: 2026-07-16
+- Open: 18.33
+- High: 18.33
+- Low: 18.08
+- Close: 18.21
+- Spread: -1.0
+- Trading volume: 83277000
 - Foreign investor buy/sell: -639221
 - Investment trust buy/sell: 0
 - Margin delta estimated: 1315
-- Technical: {'pct_change_5d': -2.0897043832823647, 'pct_change_20d': -14.08765652951699, 'high_60d': 23.73, 'low_60d': 15.72, 'pct_from_60d_high': -19.047619047619047, 'pct_from_60d_low': 22.201017811704826}
+- Technical: {'pct_change_5d': -4.908616187989545, 'pct_change_20d': -19.70899470899471, 'high_60d': 23.73, 'low_60d': 16.05, 'pct_from_60d_high': -23.261694058154237, 'pct_from_60d_low': 13.45794392523365}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 6005 群益證
