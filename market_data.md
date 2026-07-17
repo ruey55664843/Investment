@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-18 05:12:22 CST
+- Generated at: 2026-07-18 06:10:35 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -72,7 +72,7 @@
 
 ### QQQ
 - Date: 2026-07-17
-- Open: 691.6500244140625
+- Open: 691.6300048828125
 - High: 702.2999877929688
 - Low: 686.760009765625
 - Close: 695.3300170898438
@@ -98,7 +98,7 @@
 
 ### SOXX
 - Date: 2026-07-17
-- Open: 508.5450134277344
+- Open: 508.7900085449219
 - High: 533.1799926757812
 - Low: 498.5419921875
 - Close: 521.8099975585938
