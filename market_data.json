@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-20 15:54:55 CST",
+  "generated_at": "2026-07-20 18:37:50 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -26,11 +26,11 @@
         "close": 99.2,
         "spread": -0.95,
         "trading_volume": 373784717,
-        "institutional_date": "2026-07-17",
-        "foreign_investor_buy_sell": -222198166,
-        "investment_trust_buy_sell": 2776000,
-        "dealer_self_buy_sell": -4899386,
-        "dealer_hedging_buy_sell": -192691053,
+        "institutional_date": "2026-07-20",
+        "foreign_investor_buy_sell": -97368426,
+        "investment_trust_buy_sell": 3000000,
+        "dealer_self_buy_sell": 8308911,
+        "dealer_hedging_buy_sell": -145578227,
         "margin_date": "2026-07-17",
         "margin_today_balance": 18333,
         "margin_delta_estimated": 2285,
@@ -44,7 +44,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "weekend_or_holiday_possible",
+          "institutional": "fresh",
           "margin": "weekend_or_holiday_possible"
         }
       },
@@ -57,11 +57,11 @@
         "close": 16.56,
         "spread": 0.32,
         "trading_volume": 71023669,
-        "institutional_date": "2026-07-17",
-        "foreign_investor_buy_sell": -30072830,
+        "institutional_date": "2026-07-20",
+        "foreign_investor_buy_sell": 14593042,
         "investment_trust_buy_sell": 0,
-        "dealer_self_buy_sell": 0,
-        "dealer_hedging_buy_sell": -30790330,
+        "dealer_self_buy_sell": -6000,
+        "dealer_hedging_buy_sell": -2631814,
         "margin_date": "2026-07-17",
         "margin_today_balance": 71054,
         "margin_delta_estimated": -6504,
@@ -75,7 +75,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "weekend_or_holiday_possible",
+          "institutional": "fresh",
           "margin": "weekend_or_holiday_possible"
         }
       },
@@ -88,9 +88,9 @@
         "close": 32.8,
         "spread": -0.2,
         "trading_volume": 12635070,
-        "institutional_date": "2026-07-17",
-        "foreign_investor_buy_sell": -456843,
-        "investment_trust_buy_sell": -4911535,
+        "institutional_date": "2026-07-20",
+        "foreign_investor_buy_sell": 4841300,
+        "investment_trust_buy_sell": -5018000,
         "dealer_self_buy_sell": 0,
         "dealer_hedging_buy_sell": 0,
         "margin_date": "2026-07-17",
@@ -106,7 +106,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "weekend_or_holiday_possible",
+          "institutional": "fresh",
           "margin": "weekend_or_holiday_possible"
         }
       }
@@ -225,20 +225,20 @@
         "date": "2026-07-20",
         "open": 18.899999618530273,
         "high": 18.940000534057617,
-        "low": 18.469999313354492,
-        "close": 18.469999313354492,
+        "low": 18.190000534057617,
+        "close": 18.3700008392334,
         "previous_close": 18.770000457763672,
-        "pct_change": -1.5983012098707339,
+        "pct_change": -2.1310581181409938,
         "volume": 0.0,
-        "intraday_or_latest_price": 18.469999313354492,
-        "intraday_vs_previous_close_pct": -1.5983012098707339,
+        "intraday_or_latest_price": 18.3700008392334,
+        "intraday_vs_previous_close_pct": -2.1310581181409938,
         "technical": {
-          "pct_change_5d": 7.63402958969106,
-          "pct_change_20d": 12.62194965227521,
+          "pct_change_5d": 7.051287893826919,
+          "pct_change_20d": 12.012202844670995,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -47.677054638677376,
-          "pct_from_52w_low": 38.04184720013555
+          "pct_from_52w_high": -47.960336441176985,
+          "pct_from_52w_low": 37.29447445524918
         },
         "freshness": "fresh"
       },
