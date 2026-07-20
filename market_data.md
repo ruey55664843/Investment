@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-20 14:17:45 CST
+- Generated at: 2026-07-20 15:54:55 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 98.3
 - Close: 99.2
 - Spread: -0.95
-- Trading volume: 334072000
+- Trading volume: 373784717
 - Foreign investor buy/sell: -222198166
 - Investment trust buy/sell: 2776000
 - Margin delta estimated: 2285
@@ -34,7 +34,7 @@
 - Low: 16.37
 - Close: 16.56
 - Spread: 0.32
-- Trading volume: 70243000
+- Trading volume: 71023669
 - Foreign investor buy/sell: -30072830
 - Investment trust buy/sell: 0
 - Margin delta estimated: -6504
@@ -48,7 +48,7 @@
 - Low: 32.35
 - Close: 32.8
 - Spread: -0.2
-- Trading volume: 12565000
+- Trading volume: 12635070
 - Foreign investor buy/sell: -456843
 - Investment trust buy/sell: -4911535
 - Margin delta estimated: -84
@@ -123,17 +123,17 @@
 - Freshness: weekend_or_holiday_possible
 
 ### ^VIX
-- Date: 2026-07-17
-- Open: 18.010000228881836
-- High: 19.5
-- Low: 17.68000030517578
-- Close: 18.770000457763672
-- Previous close: 16.729999542236328
-- Pct change: 12.193669882519643
-- Intraday/latest price: 18.770000457763672
-- Intraday vs previous close pct: 12.193669882519643
-- Technical: {'pct_change_5d': 24.883571465327915, 'pct_change_20d': 1.7895873869231416, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -46.82719302141645, 'pct_from_52w_low': 40.28400820045863}
-- Freshness: weekend_or_holiday_possible
+- Date: 2026-07-20
+- Open: 18.899999618530273
+- High: 18.940000534057617
+- Low: 18.469999313354492
+- Close: 18.469999313354492
+- Previous close: 18.770000457763672
+- Pct change: -1.5983012098707339
+- Intraday/latest price: 18.469999313354492
+- Intraday vs previous close pct: -1.5983012098707339
+- Technical: {'pct_change_5d': 7.63402958969106, 'pct_change_20d': 12.62194965227521, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -47.677054638677376, 'pct_from_52w_low': 38.04184720013555}
+- Freshness: fresh
 
 ### NVDA
 - Date: 2026-07-17
