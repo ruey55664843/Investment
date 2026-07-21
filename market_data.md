@@ -1,16 +1,16 @@
 # Public Market Data
 
-- Generated at: 2026-07-21 19:44:13 CST
+- Generated at: 2026-07-21 21:10:23 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
 
 ### Market margin
-- Date: 2026-07-20
-- Today balance: 569035788000
-- Yesterday balance: 587963142000
-- Delta: -18927354000
+- Date: 2026-07-21
+- Today balance: 576496237000
+- Yesterday balance: 569035380000
+- Delta: 7460857000
 - Freshness: fresh
 
 ### 0050 元大台灣50
@@ -23,7 +23,7 @@
 - Trading volume: 95733411
 - Foreign investor buy/sell: -4226583
 - Investment trust buy/sell: 3248000
-- Margin delta estimated: 40897
+- Margin delta estimated: -1600
 - Technical: {'pct_change_5d': -1.8199233716475138, 'pct_change_20d': -7.782276203328841, 'high_60d': 111.15, 'low_60d': 89.95, 'pct_from_60d_high': -7.782276203328841, 'pct_from_60d_low': 13.952195664257916}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
@@ -37,7 +37,7 @@
 - Trading volume: 51167236
 - Foreign investor buy/sell: -1458207
 - Investment trust buy/sell: 0
-- Margin delta estimated: 23
+- Margin delta estimated: 2135
 - Technical: {'pct_change_5d': -6.976744186046513, 'pct_change_20d': -27.517909818794784, 'high_60d': 23.73, 'low_60d': 16.24, 'pct_from_60d_high': -27.517909818794784, 'pct_from_60d_low': 5.911330049261099}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
@@ -51,7 +51,7 @@
 - Trading volume: 10039975
 - Foreign investor buy/sell: 3910760
 - Investment trust buy/sell: -5080000
-- Margin delta estimated: -151
+- Margin delta estimated: 16
 - Technical: {'pct_change_5d': -1.4662756598240456, 'pct_change_20d': -15.57788944723617, 'high_60d': 45.05, 'low_60d': 27.95, 'pct_from_60d_high': -25.416204217536066, 'pct_from_60d_low': 20.214669051878364}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
@@ -125,14 +125,14 @@
 ### ^VIX
 - Date: 2026-07-21
 - Open: 17.479999542236328
-- High: 17.809999465942383
+- High: 17.969999313354492
 - Low: 17.420000076293945
-- Close: 17.780000686645508
+- Close: 17.799999237060547
 - Previous close: 18.649999618530273
-- Pct change: -4.664873724824914
-- Intraday/latest price: 17.780000686645508
-- Intraday vs previous close pct: -4.664873724824914
-- Technical: {'pct_change_5d': 7.757579919063673, 'pct_change_20d': 2.8935184035404182, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -49.63172501154405, 'pct_from_52w_low': 32.884906835357256}
+- Pct change: -4.55764288930699
+- Intraday/latest price: 17.799999237060547
+- Intraday vs previous close pct: -4.55764288930699
+- Technical: {'pct_change_5d': 7.878783254912403, 'pct_change_20d': 3.009250750880521, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -49.57507189299655, 'pct_from_52w_low': 33.03437283120172}
 - Freshness: fresh
 
 ### NVDA
