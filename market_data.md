@@ -1,16 +1,16 @@
 # Public Market Data
 
-- Generated at: 2026-07-24 19:28:42 CST
+- Generated at: 2026-07-24 20:55:40 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
 
 ### Market margin
-- Date: 2026-07-23
-- Today balance: 582626351000
-- Yesterday balance: 582823676000
-- Delta: -197325000
+- Date: 2026-07-24
+- Today balance: 577059537000
+- Yesterday balance: 582626349000
+- Delta: -5566812000
 - Freshness: fresh
 
 ### 0050 元大台灣50
@@ -37,7 +37,7 @@
 - Trading volume: 40104828
 - Foreign investor buy/sell: -4859261
 - Investment trust buy/sell: 0
-- Margin delta estimated: -1466
+- Margin delta estimated: -1019
 - Technical: {'pct_change_5d': 6.034482758620685, 'pct_change_20d': -25.35760728218466, 'high_60d': 23.73, 'low_60d': 16.24, 'pct_from_60d_high': -27.43362831858408, 'pct_from_60d_low': 6.034482758620685}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
@@ -126,13 +126,13 @@
 - Date: 2026-07-24
 - Open: 18.959999084472656
 - High: 19.049999237060547
-- Low: 18.600000381469727
-- Close: 18.770000457763672
+- Low: 18.520000457763672
+- Close: 18.690000534057617
 - Previous close: 18.700000762939453
-- Pct change: 0.37432990357384455
-- Intraday/latest price: 18.770000457763672
-- Intraday vs previous close pct: 0.37432990357384455
-- Technical: {'pct_change_5d': 0.0, 'pct_change_20d': -0.6352511157333596, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -46.82719302141645, 'pct_from_52w_low': 40.28400820045863}
+- Pct change: -0.05347715761410132
+- Intraday/latest price: 18.690000534057617
+- Intraday vs previous close pct: -0.05347715761410132
+- Technical: {'pct_change_5d': -0.4262116236282032, 'pct_change_20d': -1.0587552252670718, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -47.05382170536856, 'pct_from_52w_low': 39.686101451416754}
 - Freshness: fresh
 
 ### NVDA
