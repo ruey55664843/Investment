@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-25 15:07:45 CST
+- Generated at: 2026-07-25 17:16:01 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -111,15 +111,15 @@
 
 ### SMH
 - Date: 2026-07-24
-- Open: 574.4299926757812
+- Open: 574.9199829101562
 - High: 578.52001953125
 - Low: 556.489990234375
-- Close: 561.1900024414062
+- Close: None
 - Previous close: 580.1699829101562
-- Pct change: -3.271451648281709
-- Intraday/latest price: 561.1900024414062
-- Intraday vs previous close pct: -3.271451648281709
-- Technical: {'pct_change_5d': 0.8373264512642198, 'pct_change_20d': -11.884499726967157, 'high_52w': 671.8300170898438, 'low_52w': 279.19000244140625, 'pct_from_52w_high': -16.46845360195355, 'pct_from_52w_low': 101.00648215696171}
+- Pct change: None
+- Intraday/latest price: 561.19
+- Intraday vs previous close pct: -3.271452069090486
+- Technical: {'pct_change_5d': 1.9774309811467106, 'pct_change_20d': -6.260906267365584, 'high_52w': 671.8300170898438, 'low_52w': 279.19000244140625, 'pct_from_52w_high': -13.643337131128785, 'pct_from_52w_low': 107.80471286106201}
 - Freshness: fresh
 
 ### ^VIX
@@ -150,15 +150,15 @@
 
 ### TSM
 - Date: 2026-07-24
-- Open: 411.3500061035156
-- High: 412.9200134277344
-- Low: 400.79998779296875
-- Close: 403.4100036621094
+- Open: 411.3450012207031
+- High: 412.8800048828125
+- Low: 400.80010986328125
+- Close: None
 - Previous close: 415.5799865722656
-- Pct change: -2.928433346979764
-- Intraday/latest price: 403.4100036621094
-- Intraday vs previous close pct: -2.928433346979764
-- Technical: {'pct_change_5d': 1.2651576691761868, 'pct_change_20d': -7.25993408612694, 'high_52w': 479.0, 'low_52w': 223.6999969482422, 'pct_from_52w_high': -15.780792554883217, 'pct_from_52w_low': 80.33527454872831}
+- Pct change: None
+- Intraday/latest price: 403.41
+- Intraday vs previous close pct: -2.928434228184218
+- Technical: {'pct_change_5d': 1.4252932291402898, 'pct_change_20d': -5.7278317648794435, 'high_52w': 479.0, 'low_52w': 223.6999969482422, 'pct_from_52w_high': -13.240086310591725, 'pct_from_52w_low': 85.77558884295335}
 - Freshness: fresh
 
 ### AVGO
@@ -215,15 +215,15 @@
 
 ### AMZN
 - Date: 2026-07-24
-- Open: 234.3800048828125
+- Open: 234.3699951171875
 - High: 234.9499969482422
-- Low: 231.33999633789062
-- Close: 232.11000061035156
+- Low: 231.35000610351562
+- Close: None
 - Previous close: 233.66000366210938
-- Pct change: -0.6633583101364859
-- Intraday/latest price: 232.11000061035156
-- Intraday vs previous close pct: -0.6633583101364859
-- Technical: {'pct_change_5d': -6.115760780844148, 'pct_change_20d': 2.2465998092264794, 'high_52w': 278.55999755859375, 'low_52w': 196.0, 'pct_from_52w_high': -16.675042129289096, 'pct_from_52w_low': 18.423469699158957}
+- Pct change: None
+- Intraday/latest price: 232.11
+- Intraday vs previous close pct: -0.6633585713500145
+- Technical: {'pct_change_5d': -6.49485604353136, 'pct_change_20d': -0.2603835741779914, 'high_52w': 278.55999755859375, 'low_52w': 196.0, 'pct_from_52w_high': -16.11860794443031, 'pct_from_52w_low': 19.214287582708867}
 - Freshness: fresh
 
 ### AMBA
