@@ -1,14 +1,14 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-07-26 23:35:13 CST",
+  "generated_at": "2026-07-27 00:43:26 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "full",
+  "market_mode": "us_intraday",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
     "mode": "tw_intraday_or_latest_available",
-    "lookback_start": "2026-04-27",
-    "lookback_end": "2026-07-26",
+    "lookback_start": "2026-04-28",
+    "lookback_end": "2026-07-27",
     "market_margin": {
       "date": "2026-07-24",
       "today_balance": 577059537000,
@@ -139,22 +139,22 @@
       },
       "QQQ": {
         "date": "2026-07-24",
-        "open": 690.4099731445312,
+        "open": 690.25,
         "high": 692.6300048828125,
         "low": 682.47998046875,
-        "close": 684.22998046875,
+        "close": null,
         "previous_close": 691.9600219726562,
-        "pct_change": -1.1171225588826994,
-        "volume": 42783600.0,
-        "intraday_or_latest_price": 684.22998046875,
-        "intraday_vs_previous_close_pct": -1.1171225588826994,
+        "pct_change": null,
+        "volume": 39636030.0,
+        "intraday_or_latest_price": 684.23,
+        "intraday_vs_previous_close_pct": -1.1171197362846663,
         "technical": {
-          "pct_change_5d": -1.596369543709708,
-          "pct_change_20d": -4.487845025674842,
+          "pct_change_5d": -1.980335498824537,
+          "pct_change_20d": -2.625872234492088,
           "high_52w": 748.6500244140625,
           "low_52w": 551.6799926757812,
-          "pct_from_52w_high": -8.60482760228739,
-          "pct_from_52w_low": 24.02660773505112
+          "pct_from_52w_high": -7.5722968800776,
+          "pct_from_52w_low": 25.427789870805896
         },
         "freshness": "weekend_or_holiday_possible"
       },
