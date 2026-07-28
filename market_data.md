@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-29 04:38:23 CST
+- Generated at: 2026-07-29 05:53:45 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -72,7 +72,7 @@
 
 ### QQQ
 - Date: 2026-07-28
-- Open: 676.22998046875
+- Open: 676.1900024414062
 - High: 679.4000244140625
 - Low: 667.8800048828125
 - Close: 675.489990234375
@@ -93,12 +93,12 @@
 - Pct change: -0.22127302887336997
 - Intraday/latest price: 24876.912109375
 - Intraday vs previous close pct: -0.22127302887336997
-- Technical: {'pct_change_5d': -2.474347119921916, 'pct_change_20d': -1.6630301409447434, 'high_52w': 27190.2109375, 'low_52w': 20560.169921875, 'pct_from_52w_high': -8.507837005907747, 'pct_from_52w_low': 20.99565423779499}
+- Technical: {'pct_change_5d': -3.716727902434802, 'pct_change_20d': -3.6530727284720177, 'high_52w': 27190.2109375, 'low_52w': 20560.169921875, 'pct_from_52w_high': -8.507837005907747, 'pct_from_52w_low': 20.99565423779499}
 - Freshness: fresh
 
 ### SOXX
 - Date: 2026-07-28
-- Open: 496.739990234375
+- Open: 495.5400085449219
 - High: 498.4599914550781
 - Low: 480.5
 - Close: 491.4599914550781
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-07-28
-- Open: 531.6500244140625
+- Open: 530.7349853515625
 - High: 535.9400024414062
 - Low: 518.3099975585938
 - Close: 529.5999755859375
@@ -132,12 +132,12 @@
 - Pct change: -2.463851044143117
 - Intraday/latest price: 18.209999084472656
 - Intraday vs previous close pct: -2.463851044143117
-- Technical: {'pct_change_5d': -2.3592522415949113, 'pct_change_20d': -1.086370258539504, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -48.41359921233524, 'pct_from_52w_low': 36.09864670194407}
+- Technical: {'pct_change_5d': 6.803518471078207, 'pct_change_20d': 3.172801575329509, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -48.41359921233524, 'pct_from_52w_low': 36.09864670194407}
 - Freshness: fresh
 
 ### NVDA
 - Date: 2026-07-28
-- Open: 195.0
+- Open: 194.9499969482422
 - High: 198.6999969482422
 - Low: 192.74000549316406
 - Close: 197.00999450683594
@@ -163,7 +163,7 @@
 
 ### AVGO
 - Date: 2026-07-28
-- Open: 374.3599853515625
+- Open: 374.2349853515625
 - High: 385.79998779296875
 - Low: 371.5199890136719
 - Close: 380.9100036621094
@@ -202,7 +202,7 @@
 
 ### META
 - Date: 2026-07-28
-- Open: 596.8200073242188
+- Open: 595.9000244140625
 - High: 601.0
 - Low: 587.0
 - Close: 593.4099731445312
