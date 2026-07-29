@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-29 12:39:00 CST
+- Generated at: 2026-07-29 13:51:53 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -85,15 +85,15 @@
 
 ### ^IXIC
 - Date: 2026-07-28
-- Open: 24825.0703125
+- Open: 24825.072265625
 - High: 24984.5
-- Low: 24581.009765625
-- Close: 24876.91015625
+- Low: 24581.005859375
+- Close: None
 - Previous close: 24932.080078125
-- Pct change: -0.2212808626561591
-- Intraday/latest price: 24876.91015625
-- Intraday vs previous close pct: -0.2212808626561591
-- Technical: {'pct_change_5d': -3.7167354617840154, 'pct_change_20d': -3.653080292818889, 'high_52w': 27190.2109375, 'low_52w': 20560.169921875, 'pct_from_52w_high': -8.507844189099533, 'pct_from_52w_low': 20.995644738238294}
+- Pct change: None
+- Intraday/latest price: 24876.912
+- Intraday vs previous close pct: -0.22127346756519728
+- Technical: {'pct_change_5d': -2.304681111339091, 'pct_change_20d': -1.6819522285146937, 'high_52w': 27190.2109375, 'low_52w': 20560.169921875, 'pct_from_52w_high': -8.304940570581032, 'pct_from_52w_low': 21.263978716433197}
 - Freshness: fresh
 
 ### SOXX
@@ -124,15 +124,15 @@
 
 ### ^VIX
 - Date: 2026-07-28
-- Open: 0.0
-- High: 0.0
-- Low: 0.0
+- Open: 19.049999237060547
+- High: 19.520000457763672
+- Low: 17.8799991607666
 - Close: 18.209999084472656
 - Previous close: 18.670000076293945
 - Pct change: -2.463851044143117
 - Intraday/latest price: 18.209999084472656
 - Intraday vs previous close pct: -2.463851044143117
-- Technical: {'pct_change_5d': 6.803518471078207, 'pct_change_20d': 3.172801575329509, 'high_52w': 35.29999923706055, 'low_52w': 0.0, 'pct_from_52w_high': -48.41359921233524, 'pct_from_52w_low': None}
+- Technical: {'pct_change_5d': 6.803518471078207, 'pct_change_20d': 3.172801575329509, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -48.41359921233524, 'pct_from_52w_low': 36.09864670194407}
 - Freshness: fresh
 
 ### NVDA
@@ -179,12 +179,12 @@
 - Open: 393.1600036621094
 - High: 400.32000732421875
 - Low: 391.29998779296875
-- Close: 393.3500061035156
+- Close: None
 - Previous close: 389.1000061035156
-- Pct change: 1.0922641823010837
-- Intraday/latest price: 393.3500061035156
-- Intraday vs previous close pct: 1.0922641823010837
-- Technical: {'pct_change_5d': -1.1062209670608114, 'pct_change_20d': 6.723281408380788, 'high_52w': 555.4500122070312, 'low_52w': 349.20001220703125, 'pct_from_52w_high': -29.18354533100569, 'pct_from_52w_low': 12.643182231708817}
+- Pct change: None
+- Intraday/latest price: 393.35
+- Intraday vs previous close pct: 1.0922626136772084
+- Technical: {'pct_change_5d': -3.278729812135861, 'pct_change_20d': 4.3247459125453025, 'high_52w': 555.4500122070312, 'low_52w': 349.20001220703125, 'pct_from_52w_high': -29.948690691811976, 'pct_from_52w_low': 11.426114691207045}
 - Freshness: fresh
 
 ### GOOGL
