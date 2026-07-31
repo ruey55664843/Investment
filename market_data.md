@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-07-31 14:12:26 CST
+- Generated at: 2026-07-31 15:43:37 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 99.8
 - Close: 102.85
 - Spread: 9.35
-- Trading volume: 334568000
+- Trading volume: 345660955
 - Foreign investor buy/sell: -60529603
 - Investment trust buy/sell: 5793000
 - Margin delta estimated: 4684
@@ -34,7 +34,7 @@
 - Low: 15.96
 - Close: 16.26
 - Spread: 2.1
-- Trading volume: 95869000
+- Trading volume: 96447905
 - Foreign investor buy/sell: -1212584
 - Investment trust buy/sell: 0
 - Margin delta estimated: 810
@@ -42,17 +42,17 @@
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 6005 群益證
-- Price date: 2026-07-30
-- Open: 32.75
-- High: 33.35
-- Low: 32.15
-- Close: 32.75
-- Spread: -0.1
-- Trading volume: 6888687
+- Price date: 2026-07-31
+- Open: 34.15
+- High: 34.6
+- Low: 33.75
+- Close: 34.2
+- Spread: 1.45
+- Trading volume: 9722673
 - Foreign investor buy/sell: -831202
 - Investment trust buy/sell: 10648
 - Margin delta estimated: -67
-- Technical: {'pct_change_5d': -4.934687953555883, 'pct_change_20d': -13.014608233731739, 'high_60d': 45.05, 'low_60d': 30.0, 'pct_from_60d_high': -27.30299667036625, 'pct_from_60d_low': 9.166666666666657}
+- Technical: {'pct_change_5d': -1.724137931034464, 'pct_change_20d': -8.43373493975903, 'high_60d': 45.05, 'low_60d': 30.55, 'pct_from_60d_high': -24.084350721420634, 'pct_from_60d_low': 11.947626841243864}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ## US
@@ -123,16 +123,16 @@
 - Freshness: fresh
 
 ### ^VIX
-- Date: 2026-07-30
-- Open: 19.559999465942383
-- High: 20.079999923706055
-- Low: 17.0
-- Close: 17.09000015258789
-- Previous close: 20.65999984741211
-- Pct change: -17.27976631747846
-- Intraday/latest price: 17.09000015258789
-- Intraday vs previous close pct: -17.27976631747846
-- Technical: {'pct_change_5d': -8.609628581097905, 'pct_change_20d': 3.013863745637191, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -51.586400787664765, 'pct_from_52w_low': 27.72795221535762}
+- Date: 2026-07-31
+- Open: 16.81999969482422
+- High: 16.889999389648438
+- Low: 16.780000686645508
+- Close: 16.799999237060547
+- Previous close: 17.09000015258789
+- Pct change: -1.6969041131543183
+- Intraday/latest price: 16.799999237060547
+- Intraday vs previous close pct: -1.6969041131543183
+- Technical: {'pct_change_5d': -9.58019749168255, 'pct_change_20d': 4.0247655348825795, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -52.40793314402492, 'pct_from_52w_low': 25.560531340567437}
 - Freshness: fresh
 
 ### NVDA
