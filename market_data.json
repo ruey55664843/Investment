@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-04 05:35:30 CST",
+  "generated_at": "2026-08-04 06:48:45 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -117,25 +117,8 @@
     "mode": "us_intraday_or_latest_available",
     "tickers": {
       "SPY": {
-        "date": "2026-08-03",
-        "open": 749.4400024414062,
-        "high": 758.5800170898438,
-        "low": 748.7999877929688,
-        "close": 757.6699829101562,
-        "previous_close": 747.030029296875,
-        "pct_change": 1.424300656734756,
-        "volume": 51941340.0,
-        "intraday_or_latest_price": 757.6699829101562,
-        "intraday_vs_previous_close_pct": 1.424300656734756,
-        "technical": {
-          "pct_change_5d": 2.513896193909937,
-          "pct_change_20d": 0.8505421898758136,
-          "high_52w": 760.4000244140625,
-          "low_52w": 625.5800170898438,
-          "pct_from_52w_high": -0.3590270142363461,
-          "pct_from_52w_low": 21.114799420030405
-        },
-        "freshness": "fresh"
+        "error": "Too Many Requests. Rate limited. Try after a while.",
+        "freshness": "missing"
       },
       "QQQ": {
         "date": "2026-08-03",
