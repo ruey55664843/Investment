@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-03 12:55:04 CST
+- Generated at: 2026-08-03 14:22:31 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -14,46 +14,46 @@
 - Freshness: weekend_or_holiday_possible
 
 ### 0050 元大台灣50
-- Price date: 2026-07-31
-- Open: 100.0
-- High: 102.85
-- Low: 99.8
-- Close: 102.85
-- Spread: 9.35
-- Trading volume: 345660955
+- Price date: 2026-08-03
+- Open: 102.0
+- High: 102.7
+- Low: 101.0
+- Close: 102.0
+- Spread: -0.85
+- Trading volume: 161548000
 - Foreign investor buy/sell: 84169249
 - Investment trust buy/sell: 2262000
 - Margin delta estimated: -298
-- Technical: {'pct_change_5d': 1.1307767944936042, 'pct_change_20d': -5.46875, 'high_60d': 111.15, 'low_60d': 92.5, 'pct_from_60d_high': -7.46738641475485, 'pct_from_60d_low': 11.189189189189186}
-- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
+- Technical: {'pct_change_5d': 0.5421389847215297, 'pct_change_20d': -5.8606368251038266, 'high_60d': 111.15, 'low_60d': 92.5, 'pct_from_60d_high': -8.232118758434549, 'pct_from_60d_low': 10.270270270270277}
+- Freshness: {'price': 'fresh', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
 
 ### 00988A 主動統一台股增長
-- Price date: 2026-07-31
-- Open: 16.0
-- High: 16.3
-- Low: 15.96
-- Close: 16.26
-- Spread: 2.1
-- Trading volume: 96447905
+- Price date: 2026-08-03
+- Open: 15.92
+- High: 16.24
+- Low: 15.92
+- Close: 16.14
+- Spread: -0.12
+- Trading volume: 41362000
 - Foreign investor buy/sell: -608950
 - Investment trust buy/sell: 0
 - Margin delta estimated: 8491
-- Technical: {'pct_change_5d': -5.574912891986051, 'pct_change_20d': -25.549450549450537, 'high_60d': 23.73, 'low_60d': 14.16, 'pct_from_60d_high': -31.47914032869784, 'pct_from_60d_low': 14.830508474576277}
-- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
+- Technical: {'pct_change_5d': -4.6099290780141855, 'pct_change_20d': -24.331926863572427, 'high_60d': 23.73, 'low_60d': 14.16, 'pct_from_60d_high': -31.98482932996207, 'pct_from_60d_low': 13.983050847457633}
+- Freshness: {'price': 'fresh', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
 
 ### 6005 群益證
-- Price date: 2026-07-31
-- Open: 34.15
-- High: 34.6
-- Low: 33.75
-- Close: 34.2
-- Spread: 1.45
-- Trading volume: 9722673
+- Price date: 2026-08-03
+- Open: 33.95
+- High: 34.95
+- Low: 33.45
+- Close: 34.55
+- Spread: 0.35
+- Trading volume: 7646000
 - Foreign investor buy/sell: 2797772
 - Investment trust buy/sell: 21000
 - Margin delta estimated: 185
-- Technical: {'pct_change_5d': -1.724137931034464, 'pct_change_20d': -8.43373493975903, 'high_60d': 45.05, 'low_60d': 30.55, 'pct_from_60d_high': -24.084350721420634, 'pct_from_60d_low': 11.947626841243864}
-- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
+- Technical: {'pct_change_5d': -2.949438202247201, 'pct_change_20d': -9.436435124508524, 'high_60d': 45.05, 'low_60d': 30.55, 'pct_from_60d_high': -23.30743618201998, 'pct_from_60d_low': 13.09328968903436}
+- Freshness: {'price': 'fresh', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
 
 ## US
 
