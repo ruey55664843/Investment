@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-04 13:45:41 CST",
+  "generated_at": "2026-08-04 15:31:10 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -19,13 +19,13 @@
     "stocks": {
       "0050": {
         "name": "元大台灣50",
-        "price_date": "2026-08-03",
-        "open": 102.0,
-        "max": 102.7,
-        "min": 101.0,
-        "close": 102.0,
-        "spread": -0.85,
-        "trading_volume": 169497151,
+        "price_date": "2026-08-04",
+        "open": 100.65,
+        "max": 102.25,
+        "min": 99.75,
+        "close": 100.65,
+        "spread": -1.35,
+        "trading_volume": 121774200,
         "institutional_date": "2026-08-03",
         "foreign_investor_buy_sell": 55359860,
         "investment_trust_buy_sell": 4604000,
@@ -35,12 +35,12 @@
         "margin_today_balance": 31491,
         "margin_delta_estimated": -2185,
         "technical": {
-          "pct_change_5d": 0.5421389847215297,
-          "pct_change_20d": -5.8606368251038266,
+          "pct_change_5d": 3.6026762738033957,
+          "pct_change_20d": -7.020785219399528,
           "high_60d": 111.15,
           "low_60d": 92.5,
-          "pct_from_60d_high": -8.232118758434549,
-          "pct_from_60d_low": 10.270270270270277
+          "pct_from_60d_high": -9.446693657219974,
+          "pct_from_60d_low": 8.81081081081081
         },
         "freshness": {
           "price": "fresh",
@@ -50,13 +50,13 @@
       },
       "00988A": {
         "name": "主動統一台股增長",
-        "price_date": "2026-08-03",
-        "open": 15.92,
-        "max": 16.24,
-        "min": 15.92,
-        "close": 16.14,
-        "spread": -0.12,
-        "trading_volume": 42076859,
+        "price_date": "2026-08-04",
+        "open": 16.14,
+        "max": 16.4,
+        "min": 16.02,
+        "close": 16.23,
+        "spread": 0.09,
+        "trading_volume": 40541785,
         "institutional_date": "2026-08-03",
         "foreign_investor_buy_sell": 5272497,
         "investment_trust_buy_sell": 0,
@@ -66,12 +66,12 @@
         "margin_today_balance": 69587,
         "margin_delta_estimated": -3352,
         "technical": {
-          "pct_change_5d": -4.6099290780141855,
-          "pct_change_20d": -24.331926863572427,
+          "pct_change_5d": 5.458089668615984,
+          "pct_change_20d": -22.083533365338447,
           "high_60d": 23.73,
           "low_60d": 14.16,
-          "pct_from_60d_high": -31.98482932996207,
-          "pct_from_60d_low": 13.983050847457633
+          "pct_from_60d_high": -31.605562579013903,
+          "pct_from_60d_low": 14.618644067796605
         },
         "freshness": {
           "price": "fresh",
@@ -81,13 +81,13 @@
       },
       "6005": {
         "name": "群益證",
-        "price_date": "2026-08-03",
-        "open": 33.95,
-        "max": 34.95,
-        "min": 33.45,
-        "close": 34.55,
-        "spread": 0.35,
-        "trading_volume": 7725176,
+        "price_date": "2026-08-04",
+        "open": 34.05,
+        "max": 35.2,
+        "min": 34.05,
+        "close": 34.85,
+        "spread": 0.3,
+        "trading_volume": 7340299,
         "institutional_date": "2026-08-03",
         "foreign_investor_buy_sell": -2122494,
         "investment_trust_buy_sell": 2206151,
@@ -97,12 +97,12 @@
         "margin_today_balance": 5154,
         "margin_delta_estimated": -373,
         "technical": {
-          "pct_change_5d": -2.949438202247201,
-          "pct_change_20d": -9.436435124508524,
+          "pct_change_5d": 3.4124629080118707,
+          "pct_change_20d": -9.362808842652804,
           "high_60d": 45.05,
           "low_60d": 30.55,
-          "pct_from_60d_high": -23.30743618201998,
-          "pct_from_60d_low": 13.09328968903436
+          "pct_from_60d_high": -22.64150943396226,
+          "pct_from_60d_low": 14.07528641571194
         },
         "freshness": {
           "price": "fresh",
@@ -222,25 +222,25 @@
         "freshness": "fresh"
       },
       "^VIX": {
-        "date": "2026-07-31",
-        "open": 16.81999969482422,
-        "high": 18.700000762939453,
-        "low": 15.819999694824219,
-        "close": 15.989999771118164,
-        "previous_close": 17.09000015258789,
-        "pct_change": -6.436514755110501,
+        "date": "2026-08-04",
+        "open": 15.760000228881836,
+        "high": 15.760000228881836,
+        "low": 15.75,
+        "close": 15.75,
+        "previous_close": 15.989999771118164,
+        "pct_change": -1.5009366763823362,
         "volume": 0.0,
-        "intraday_or_latest_price": 15.86,
-        "intraday_vs_previous_close_pct": -7.197192168553823,
+        "intraday_or_latest_price": 15.75,
+        "intraday_vs_previous_close_pct": -1.5009366763823362,
         "technical": {
-          "pct_change_5d": -13.939721007659067,
-          "pct_change_20d": -0.9907111528877577,
+          "pct_change_5d": -15.640064618969053,
+          "pct_change_20d": 1.156071346845411,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -54.70254924444677,
-          "pct_from_52w_low": 19.50672372461564
+          "pct_from_52w_high": -55.382435296303115,
+          "pct_from_52w_low": 17.713003477489963
         },
-        "freshness": "stale_over_one_trading_day"
+        "freshness": "fresh"
       },
       "NVDA": {
         "date": "2026-08-03",
