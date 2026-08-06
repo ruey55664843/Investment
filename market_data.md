@@ -1,16 +1,16 @@
 # Public Market Data
 
-- Generated at: 2026-08-06 19:38:09 CST
+- Generated at: 2026-08-06 21:29:07 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
 
 ### Market margin
-- Date: 2026-08-05
-- Today balance: 523492321000
-- Yesterday balance: 521134665000
-- Delta: 2357656000
+- Date: 2026-08-06
+- Today balance: 532804981000
+- Yesterday balance: 523492321000
+- Delta: 9312660000
 - Freshness: fresh
 
 ### 0050 元大台灣50
@@ -23,7 +23,7 @@
 - Trading volume: 78928810
 - Foreign investor buy/sell: -8702495
 - Investment trust buy/sell: 5800000
-- Margin delta estimated: -4406
+- Margin delta estimated: -198
 - Technical: {'pct_change_5d': 10.481283422459885, 'pct_change_20d': -2.5931164545025975, 'high_60d': 111.15, 'low_60d': 92.5, 'pct_from_60d_high': -7.062528115159705, 'pct_from_60d_low': 11.675675675675667}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
@@ -37,7 +37,7 @@
 - Trading volume: 58657010
 - Foreign investor buy/sell: -18535851
 - Investment trust buy/sell: 0
-- Margin delta estimated: -3381
+- Margin delta estimated: 1964
 - Technical: {'pct_change_5d': 17.231638418079108, 'pct_change_20d': -13.31592689295038, 'high_60d': 23.73, 'low_60d': 14.16, 'pct_from_60d_high': -30.046354825115884, 'pct_from_60d_low': 17.231638418079108}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
@@ -51,7 +51,7 @@
 - Trading volume: 6943985
 - Foreign investor buy/sell: -3402708
 - Investment trust buy/sell: 0
-- Margin delta estimated: 314
+- Margin delta estimated: 137
 - Technical: {'pct_change_5d': 5.496183206106853, 'pct_change_20d': -4.689655172413798, 'high_60d': 45.05, 'low_60d': 30.55, 'pct_from_60d_high': -23.30743618201998, 'pct_from_60d_low': 13.09328968903436}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
