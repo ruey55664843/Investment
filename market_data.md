@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-08 04:26:40 CST
+- Generated at: 2026-08-08 05:07:00 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -62,17 +62,17 @@
 - Open: 771.02001953125
 - High: 773.9149780273438
 - Low: 769.6099853515625
-- Close: 773.219970703125
+- Close: 773.260009765625
 - Previous close: 768.5599975585938
-- Pct change: 0.6063252263107666
-- Intraday/latest price: 773.219970703125
-- Intraday vs previous close pct: 0.6063252263107666
-- Technical: {'pct_change_5d': 3.505875316806306, 'pct_change_20d': 2.4200222797113646, 'high_52w': 776.8499755859375, 'low_52w': 629.280029296875, 'pct_from_52w_high': -0.4672723172932547, 'pct_from_52w_low': 22.873750112025814}
+- Pct change: 0.6115348472417681
+- Intraday/latest price: 773.260009765625
+- Intraday vs previous close pct: 0.6115348472417681
+- Technical: {'pct_change_5d': 3.5112350829374694, 'pct_change_20d': 2.4253258179393944, 'high_52w': 776.8499755859375, 'low_52w': 629.280029296875, 'pct_from_52w_high': -0.46211828964849433, 'pct_from_52w_low': 22.880112790108043}
 - Freshness: fresh
 
 ### QQQ
 - Date: 2026-08-07
-- Open: 720.1500244140625
+- Open: 720.1900024414062
 - High: 723.6300048828125
 - Low: 716.52001953125
 - Close: 723.030029296875
@@ -127,12 +127,12 @@
 - Open: 15.300000190734863
 - High: 15.359999656677246
 - Low: 14.770000457763672
-- Close: 14.930000305175781
+- Close: 14.899999618530273
 - Previous close: 15.149999618530273
-- Pct change: -1.452140718772077
-- Intraday/latest price: 14.930000305175781
-- Intraday vs previous close pct: -1.452140718772077
-- Technical: {'pct_change_5d': -6.629139969451403, 'pct_change_20d': -0.6653321994147587, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.705380657625724, 'pct_from_52w_low': 11.584455736005284}
+- Pct change: -1.650165058052011
+- Intraday/latest price: 14.899999618530273
+- Intraday vs previous close pct: -1.650165058052011
+- Technical: {'pct_change_5d': -6.816761527143333, 'pct_change_20d': -0.8649375698639439, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.79036844032803, 'pct_from_52w_low': 11.360235359406555}
 - Freshness: fresh
 
 ### NVDA
@@ -228,7 +228,7 @@
 
 ### AMBA
 - Date: 2026-08-07
-- Open: 86.19999694824219
+- Open: 86.22000122070312
 - High: 89.43990325927734
 - Low: 85.54000091552734
 - Close: 86.77999877929688
