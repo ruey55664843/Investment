@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-07 16:03:52 CST
+- Generated at: 2026-08-07 17:28:34 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -14,45 +14,45 @@
 - Freshness: fresh
 
 ### 0050 元大台灣50
-- Price date: 2026-08-06
-- Open: 103.25
-- High: 103.7
-- Low: 102.55
-- Close: 103.3
-- Spread: -0.5
-- Trading volume: 78928810
-- Foreign investor buy/sell: -8702495
-- Investment trust buy/sell: 5800000
+- Price date: 2026-08-07
+- Open: 103.8
+- High: 104.0
+- Low: 102.05
+- Close: 102.85
+- Spread: -0.45
+- Trading volume: 69373793
+- Foreign investor buy/sell: -22723224
+- Investment trust buy/sell: 50000
 - Margin delta estimated: -198
-- Technical: {'pct_change_5d': 10.481283422459885, 'pct_change_20d': -2.5931164545025975, 'high_60d': 111.15, 'low_60d': 92.5, 'pct_from_60d_high': -7.062528115159705, 'pct_from_60d_low': 11.675675675675667}
+- Technical: {'pct_change_5d': 0.0, 'pct_change_20d': -2.7882797731568987, 'high_60d': 111.15, 'low_60d': 92.5, 'pct_from_60d_high': -7.46738641475485, 'pct_from_60d_low': 11.189189189189186}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 00988A 主動統一台股增長
-- Price date: 2026-08-06
-- Open: 16.6
-- High: 16.69
-- Low: 16.4
-- Close: 16.6
-- Spread: -0.59
-- Trading volume: 58657010
-- Foreign investor buy/sell: -18535851
-- Investment trust buy/sell: 0
+- Price date: 2026-08-07
+- Open: 16.61
+- High: 16.62
+- Low: 16.27
+- Close: 16.39
+- Spread: -0.21
+- Trading volume: 50988430
+- Foreign investor buy/sell: 16442630
+- Investment trust buy/sell: -15400000
 - Margin delta estimated: 1964
-- Technical: {'pct_change_5d': 17.231638418079108, 'pct_change_20d': -13.31592689295038, 'high_60d': 23.73, 'low_60d': 14.16, 'pct_from_60d_high': -30.046354825115884, 'pct_from_60d_low': 17.231638418079108}
+- Technical: {'pct_change_5d': 0.7995079950799511, 'pct_change_20d': -14.50182576943141, 'high_60d': 23.73, 'low_60d': 14.16, 'pct_from_60d_high': -30.931310577328276, 'pct_from_60d_low': 15.748587570621474}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 6005 群益證
-- Price date: 2026-08-06
-- Open: 34.7
-- High: 34.9
-- Low: 34.1
-- Close: 34.55
-- Spread: -0.3
-- Trading volume: 6943985
-- Foreign investor buy/sell: -3402708
-- Investment trust buy/sell: 0
+- Price date: 2026-08-07
+- Open: 34.45
+- High: 34.65
+- Low: 33.7
+- Close: 33.85
+- Spread: -0.7
+- Trading volume: 12261562
+- Foreign investor buy/sell: -7746913
+- Investment trust buy/sell: -11000
 - Margin delta estimated: 137
-- Technical: {'pct_change_5d': 5.496183206106853, 'pct_change_20d': -4.689655172413798, 'high_60d': 45.05, 'low_60d': 30.55, 'pct_from_60d_high': -23.30743618201998, 'pct_from_60d_low': 13.09328968903436}
+- Technical: {'pct_change_5d': -1.023391812865504, 'pct_change_20d': -7.005494505494503, 'high_60d': 45.05, 'low_60d': 30.55, 'pct_from_60d_high': -24.8612652608213, 'pct_from_60d_low': 10.801963993453366}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ## US
@@ -126,13 +126,13 @@
 - Date: 2026-08-07
 - Open: 15.300000190734863
 - High: 15.3100004196167
-- Low: 15.279999732971191
-- Close: 15.279999732971191
+- Low: 15.239999771118164
+- Close: 15.25
 - Previous close: 15.149999618530273
-- Pct change: 0.8580865855726705
-- Intraday/latest price: 15.279999732971191
-- Intraday vs previous close pct: 0.8580865855726705
-- Technical: {'pct_change_5d': -4.440275474108546, 'pct_change_20d': 1.6633400162448186, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.71388084074201, 'pct_from_52w_low': 14.20029598116086}
+- Pct change: 0.6600685411728646
+- Intraday/latest price: 15.25
+- Intraday vs previous close pct: 0.6600685411728646
+- Technical: {'pct_change_5d': -4.627891067608292, 'pct_change_20d': 1.463740990934248, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.79886592181729, 'pct_from_52w_low': 13.976082732172834}
 - Freshness: fresh
 
 ### NVDA
