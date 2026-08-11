@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-11 14:43:05 CST
+- Generated at: 2026-08-11 16:00:47 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 103.4
 - Close: 104.6
 - Spread: 0.35
-- Trading volume: 64789000
+- Trading volume: 69314252
 - Foreign investor buy/sell: 7975074
 - Investment trust buy/sell: 50000
 - Margin delta estimated: -1346
@@ -34,7 +34,7 @@
 - Low: 16.35
 - Close: 16.55
 - Spread: -0.12
-- Trading volume: 22472000
+- Trading volume: 22901034
 - Foreign investor buy/sell: 2794880
 - Investment trust buy/sell: 0
 - Margin delta estimated: -474
@@ -48,7 +48,7 @@
 - Low: 29.6
 - Close: 30.0
 - Spread: 0.0
-- Trading volume: 12979000
+- Trading volume: 13137880
 - Foreign investor buy/sell: -5970626
 - Investment trust buy/sell: -1799
 - Margin delta estimated: 177
@@ -123,16 +123,16 @@
 - Freshness: fresh
 
 ### ^VIX
-- Date: 2026-08-10
-- Open: 15.399999618530273
-- High: 15.720000267028809
-- Low: 15.100000381469727
-- Close: 15.460000038146973
-- Previous close: 14.899999618530273
-- Pct change: 3.7583921741867643
-- Intraday/latest price: 15.460000038146973
-- Intraday vs previous close pct: 3.7583921741867643
-- Technical: {'pct_change_5d': -2.5220657452023842, 'pct_change_20d': -9.90675888334296, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.203964951036255, 'pct_from_52w_low': 15.54558973031046}
+- Date: 2026-08-11
+- Open: 15.420000076293945
+- High: 15.4399995803833
+- Low: 15.399999618530273
+- Close: 15.40999984741211
+- Previous close: 15.460000038146973
+- Pct change: -0.3234164981338217
+- Intraday/latest price: 15.40999984741211
+- Intraday vs previous close pct: -0.3234164981338217
+- Technical: {'pct_change_5d': -6.606061530835705, 'pct_change_20d': -6.606061530835705, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.345608553913074, 'pct_from_52w_low': 15.17189623025661}
 - Freshness: fresh
 
 ### NVDA
