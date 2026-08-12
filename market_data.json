@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-12 17:35:45 CST",
+  "generated_at": "2026-08-12 18:48:52 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -171,7 +171,7 @@
         "intraday_vs_previous_close_pct": -0.601044902254777,
         "technical": {
           "pct_change_5d": -0.5248864656138608,
-          "pct_change_20d": 0.9102895767513441,
+          "pct_change_20d": 1.2963547191475744,
           "high_52w": 27190.2109375,
           "low_52w": 20690.25,
           "pct_from_52w_high": -2.739080327335175,
@@ -224,21 +224,21 @@
       "^VIX": {
         "date": "2026-08-12",
         "open": 15.279999732971191,
-        "high": 15.350000381469727,
+        "high": 15.420000076293945,
         "low": 15.279999732971191,
-        "close": 15.319999694824219,
+        "close": 15.390000343322754,
         "previous_close": 15.279999732971191,
-        "pct_change": 0.2617798596338705,
+        "pct_change": 0.7198992949862593,
         "volume": 0.0,
-        "intraday_or_latest_price": 15.319999694824219,
-        "intraday_vs_previous_close_pct": 0.2617798596338705,
+        "intraday_or_latest_price": 15.390000343322754,
+        "intraday_vs_previous_close_pct": 0.7198992949862593,
         "technical": {
-          "pct_change_5d": -3.099308739957396,
-          "pct_change_20d": 1.9294741650384584,
+          "pct_change_5d": -2.6565469016232135,
+          "pct_change_20d": 2.395213684281261,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -56.60056649876595,
-          "pct_from_52w_low": 14.499249355681808
+          "pct_from_52w_high": -56.40226437408759,
+          "pct_from_52w_low": 15.022423106801464
         },
         "freshness": "fresh"
       },
