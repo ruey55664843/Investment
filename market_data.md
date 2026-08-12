@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-12 14:49:47 CST
+- Generated at: 2026-08-12 16:07:36 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 104.45
 - Close: 105.2
 - Spread: 0.6
-- Trading volume: 57767000
+- Trading volume: 64685056
 - Foreign investor buy/sell: 18569031
 - Investment trust buy/sell: -300000
 - Margin delta estimated: -901
@@ -34,7 +34,7 @@
 - Low: 16.6
 - Close: 16.76
 - Spread: 0.21
-- Trading volume: 35215000
+- Trading volume: 35545449
 - Foreign investor buy/sell: 4565008
 - Investment trust buy/sell: 0
 - Margin delta estimated: -1755
@@ -48,7 +48,7 @@
 - Low: 30.05
 - Close: 30.6
 - Spread: 0.6
-- Trading volume: 9006000
+- Trading volume: 9096864
 - Foreign investor buy/sell: -5853349
 - Investment trust buy/sell: -8044
 - Margin delta estimated: 56
@@ -123,16 +123,16 @@
 - Freshness: fresh
 
 ### ^VIX
-- Date: 2026-08-11
-- Open: 15.420000076293945
-- High: 15.609999656677246
-- Low: 15.229999542236328
-- Close: 15.279999732971191
-- Previous close: 15.460000038146973
-- Pct change: -1.1642969258191305
-- Intraday/latest price: 15.279999732971191
-- Intraday vs previous close pct: -1.1642969258191305
-- Technical: {'pct_change_5d': -7.393941012295812, 'pct_change_20d': -7.393941012295812, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.71388084074201, 'pct_from_52w_low': 14.20029598116086}
+- Date: 2026-08-12
+- Open: 15.279999732971191
+- High: 15.34000015258789
+- Low: 15.279999732971191
+- Close: 15.34000015258789
+- Previous close: 15.279999732971191
+- Pct change: 0.3926729101128901
+- Intraday/latest price: 15.34000015258789
+- Intraday vs previous close pct: 0.3926729101128901
+- Technical: {'pct_change_5d': -2.972803634120358, 'pct_change_20d': -2.1059344103341093, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.54390797696441, 'pct_from_52w_low': 14.648729606747612}
 - Freshness: fresh
 
 ### NVDA
@@ -202,15 +202,15 @@
 
 ### META
 - Date: 2026-08-11
-- Open: 597.72998046875
-- High: 612.4199829101562
+- Open: 598.0
+- High: 612.4299926757812
 - Low: 593.4000244140625
-- Close: None
+- Close: 599.1199951171875
 - Previous close: 594.9199829101562
-- Pct change: None
-- Intraday/latest price: 599.12
-- Intraday vs previous close pct: 0.7059801671644328
-- Technical: {'pct_change_5d': 0.79289657651338, 'pct_change_20d': -9.411782528106304, 'high_52w': 796.25, 'low_52w': 520.260009765625, 'pct_from_52w_high': -25.284774516777865, 'pct_from_52w_low': 14.350511617866847}
+- Pct change: 0.7059793464132991
+- Intraday/latest price: 599.1199951171875
+- Intraday vs previous close pct: 0.7059793464132991
+- Technical: {'pct_change_5d': 1.9015533267606521, 'pct_change_20d': -9.36705569532058, 'high_52w': 796.25, 'low_52w': 520.260009765625, 'pct_from_52w_high': -24.757300456240184, 'pct_from_52w_low': 15.157802612406934}
 - Freshness: fresh
 
 ### AMZN
@@ -229,12 +229,12 @@
 ### AMBA
 - Date: 2026-08-11
 - Open: 83.69999694824219
-- High: 85.125
+- High: 85.2699966430664
 - Low: 82.16999816894531
-- Close: None
+- Close: 82.88999938964844
 - Previous close: 82.04000091552734
-- Pct change: None
-- Intraday/latest price: 82.89
-- Intraday vs previous close pct: 1.0360788334800919
-- Technical: {'pct_change_5d': -0.7740679575304443, 'pct_change_20d': 13.94444571601019, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -15.151516347056404, 'pct_from_52w_low': 69.85507704227483}
+- Pct change: 1.0360780895118493
+- Intraday/latest price: 82.88999938964844
+- Intraday vs previous close pct: 1.0360780895118493
+- Technical: {'pct_change_5d': 0.8026219211618058, 'pct_change_20d': 13.703700486512549, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -14.27241979864522, 'pct_from_52w_low': 71.61490827943328}
 - Freshness: fresh
