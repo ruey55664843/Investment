@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-13 16:09:09 CST
+- Generated at: 2026-08-13 17:36:44 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -21,8 +21,8 @@
 - Close: 106.7
 - Spread: 1.5
 - Trading volume: 89418262
-- Foreign investor buy/sell: 9409336
-- Investment trust buy/sell: -450000
+- Foreign investor buy/sell: 31063004
+- Investment trust buy/sell: -4385000
 - Margin delta estimated: -1618
 - Technical: {'pct_change_5d': 3.291384317521784, 'pct_change_20d': 0.28195488721804995, 'high_60d': 111.15, 'low_60d': 92.5, 'pct_from_60d_high': -4.00359874044085, 'pct_from_60d_low': 15.35135135135135}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
@@ -35,8 +35,8 @@
 - Close: 17.66
 - Spread: 0.9
 - Trading volume: 61347397
-- Foreign investor buy/sell: 8862970
-- Investment trust buy/sell: 0
+- Foreign investor buy/sell: 972600
+- Investment trust buy/sell: 324000
 - Margin delta estimated: -1697
 - Technical: {'pct_change_5d': 6.385542168674685, 'pct_change_20d': -3.0203185063152116, 'high_60d': 23.73, 'low_60d': 14.16, 'pct_from_60d_high': -25.579435313948583, 'pct_from_60d_low': 24.717514124293793}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
@@ -49,7 +49,7 @@
 - Close: 30.6
 - Spread: 0.0
 - Trading volume: 7635882
-- Foreign investor buy/sell: -4345484
+- Foreign investor buy/sell: -2864202
 - Investment trust buy/sell: 0
 - Margin delta estimated: 337
 - Technical: {'pct_change_5d': -11.432706222865397, 'pct_change_20d': -11.688311688311682, 'high_60d': 45.05, 'low_60d': 30.0, 'pct_from_60d_high': -32.0754716981132, 'pct_from_60d_low': 2.0000000000000018}
@@ -125,7 +125,7 @@
 ### ^VIX
 - Date: 2026-08-13
 - Open: 14.680000305175781
-- High: 14.680000305175781
+- High: 14.699999809265137
 - Low: 14.65999984741211
 - Close: 14.670000076293945
 - Previous close: 14.550000190734863
