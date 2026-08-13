@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-14 04:27:37 CST
+- Generated at: 2026-08-14 05:12:28 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -72,7 +72,7 @@
 
 ### QQQ
 - Date: 2026-08-13
-- Open: 725.1500244140625
+- Open: 725.125
 - High: 733.9600219726562
 - Low: 724.0399780273438
 - Close: 732.0700073242188
@@ -98,7 +98,7 @@
 
 ### SOXX
 - Date: 2026-08-13
-- Open: 547.1400146484375
+- Open: 547.1500244140625
 - High: 562.25
 - Low: 546.4000244140625
 - Close: 550.739990234375
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-08-13
-- Open: 586.3800048828125
+- Open: 586.2960205078125
 - High: 597.9500122070312
 - Low: 585.010009765625
 - Close: 589.1199951171875
@@ -127,12 +127,12 @@
 - Open: 14.680000305175781
 - High: 14.800000190734863
 - Low: 14.390000343322754
-- Close: 14.619999885559082
+- Close: 14.630000114440918
 - Previous close: 14.550000190734863
-- Pct change: 0.48109755262266685
-- Intraday/latest price: 14.619999885559082
-- Intraday vs previous close pct: 0.48109755262266685
-- Technical: {'pct_change_5d': -3.498348160503828, 'pct_change_20d': -12.612072411301444, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -58.5835688341604, 'pct_from_52w_low': 9.267561737759955}
+- Pct change: 0.5498276471294972
+- Intraday/latest price: 14.630000114440918
+- Intraday vs previous close pct: 0.5498276471294972
+- Technical: {'pct_change_5d': -3.4323400474105203, 'pct_change_20d': -12.552298178453503, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -58.55523957325964, 'pct_from_52w_low': 9.342301863292857}
 - Freshness: fresh
 
 ### NVDA
@@ -202,7 +202,7 @@
 
 ### META
 - Date: 2026-08-13
-- Open: 580.7100219726562
+- Open: 580.375
 - High: 595.8499755859375
 - Low: 579.4299926757812
 - Close: 594.969970703125
