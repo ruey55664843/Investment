@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-14 13:11:14 CST
+- Generated at: 2026-08-14 14:49:46 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -14,45 +14,45 @@
 - Freshness: fresh
 
 ### 0050 元大台灣50
-- Price date: 2026-08-13
-- Open: 106.55
-- High: 107.0
-- Low: 106.15
-- Close: 106.7
-- Spread: 1.5
-- Trading volume: 89418262
+- Price date: 2026-08-14
+- Open: 107.1
+- High: 107.5
+- Low: 106.05
+- Close: 106.4
+- Spread: -0.3
+- Trading volume: 77294000
 - Foreign investor buy/sell: 31063004
 - Investment trust buy/sell: -4385000
 - Margin delta estimated: -958
-- Technical: {'pct_change_5d': 3.291384317521784, 'pct_change_20d': 0.28195488721804995, 'high_60d': 111.15, 'low_60d': 92.5, 'pct_from_60d_high': -4.00359874044085, 'pct_from_60d_low': 15.35135135135135}
+- Technical: {'pct_change_5d': 3.4516285853184447, 'pct_change_20d': 6.240639041437834, 'high_60d': 111.15, 'low_60d': 93.5, 'pct_from_60d_high': -4.273504273504269, 'pct_from_60d_low': 13.796791443850264}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 00988A 主動統一台股增長
-- Price date: 2026-08-13
-- Open: 17.47
+- Price date: 2026-08-14
+- Open: 17.68
 - High: 17.68
-- Low: 17.38
-- Close: 17.66
-- Spread: 0.9
-- Trading volume: 61347397
+- Low: 17.36
+- Close: 17.37
+- Spread: -0.29
+- Trading volume: 46678000
 - Foreign investor buy/sell: 972600
 - Investment trust buy/sell: 324000
 - Margin delta estimated: 10520
-- Technical: {'pct_change_5d': 6.385542168674685, 'pct_change_20d': -3.0203185063152116, 'high_60d': 23.73, 'low_60d': 14.16, 'pct_from_60d_high': -25.579435313948583, 'pct_from_60d_low': 24.717514124293793}
+- Technical: {'pct_change_5d': 5.979255643685177, 'pct_change_20d': 6.958128078817749, 'high_60d': 23.73, 'low_60d': 14.16, 'pct_from_60d_high': -26.80151706700379, 'pct_from_60d_low': 22.669491525423723}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 6005 群益證
-- Price date: 2026-08-13
-- Open: 30.85
-- High: 31.3
+- Price date: 2026-08-14
+- Open: 30.8
+- High: 31.35
 - Low: 30.6
-- Close: 30.6
-- Spread: 0.0
-- Trading volume: 7635882
+- Close: 30.9
+- Spread: 0.3
+- Trading volume: 5517000
 - Foreign investor buy/sell: -2864202
 - Investment trust buy/sell: 0
 - Margin delta estimated: 129
-- Technical: {'pct_change_5d': -11.432706222865397, 'pct_change_20d': -11.688311688311682, 'high_60d': 45.05, 'low_60d': 30.0, 'pct_from_60d_high': -32.0754716981132, 'pct_from_60d_low': 2.0000000000000018}
+- Technical: {'pct_change_5d': -8.714918759231916, 'pct_change_20d': -6.363636363636371, 'high_60d': 45.05, 'low_60d': 30.0, 'pct_from_60d_high': -31.40954495005549, 'pct_from_60d_low': 3.0000000000000027}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ## US
@@ -93,7 +93,7 @@
 - Pct change: 0.8068869672887002
 - Intraday/latest price: 26803.029296875
 - Intraday vs previous close pct: 0.8068869672887002
-- Technical: {'pct_change_5d': 1.7256476942230314, 'pct_change_20d': 3.5938745086837365, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.4239743910592795, 'pct_from_52w_low': 29.544250537692875}
+- Technical: {'pct_change_5d': 1.7256476942230314, 'pct_change_20d': 3.55877399472575, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.4239743910592795, 'pct_from_52w_low': 29.544250537692875}
 - Freshness: fresh
 
 ### SOXX
@@ -132,7 +132,7 @@
 - Pct change: 0.5498276471294972
 - Intraday/latest price: 14.630000114440918
 - Intraday vs previous close pct: 0.5498276471294972
-- Technical: {'pct_change_5d': -3.4323400474105203, 'pct_change_20d': -14.743588318578793, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -58.55523957325964, 'pct_from_52w_low': 9.342301863292857}
+- Technical: {'pct_change_5d': -3.4323400474105203, 'pct_change_20d': -12.552298178453503, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -58.55523957325964, 'pct_from_52w_low': 9.342301863292857}
 - Freshness: fresh
 
 ### NVDA
