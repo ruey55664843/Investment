@@ -1,7 +1,7 @@
 # Public Market Data
 
-- Generated at: 2026-08-15 10:06:11 CST
-- Market mode: full
+- Generated at: 2026-08-15 11:09:26 CST
+- Market mode: tw_intraday
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
@@ -132,7 +132,7 @@
 - Pct change: -2.5974033593193835
 - Intraday/latest price: 14.25
 - Intraday vs previous close pct: -2.5974033593193835
-- Technical: {'pct_change_5d': -4.362413658869535, 'pct_change_20d': -13.636363636363635, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -59.63172717284566, 'pct_from_52w_low': 6.502241241538553}
+- Technical: {'pct_change_5d': -4.362413658869535, 'pct_change_20d': -24.080982139209826, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -59.63172717284566, 'pct_from_52w_low': 6.502241241538553}
 - Freshness: fresh
 
 ### NVDA
