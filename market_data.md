@@ -1,7 +1,7 @@
 # Public Market Data
 
-- Generated at: 2026-08-16 23:41:53 CST
-- Market mode: full
+- Generated at: 2026-08-17 00:10:18 CST
+- Market mode: us_intraday
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
@@ -93,7 +93,7 @@
 - Pct change: -0.2755999697154121
 - Intraday/latest price: 26729.16015625
 - Intraday vs previous close pct: -0.2755999697154121
-- Technical: {'pct_change_5d': 0.1443991067495931, 'pct_change_20d': 2.383077940408884, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.6956498877841786, 'pct_from_52w_low': 29.187226622442928}
+- Technical: {'pct_change_5d': 0.1443991067495931, 'pct_change_20d': 4.737102436232643, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.6956498877841786, 'pct_from_52w_low': 29.187226622442928}
 - Freshness: weekend_or_holiday_possible
 
 ### SOXX
