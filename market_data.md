@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-17 15:41:27 CST
+- Generated at: 2026-08-17 16:28:47 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -93,7 +93,7 @@
 - Pct change: -0.2755999697154121
 - Intraday/latest price: 26729.16015625
 - Intraday vs previous close pct: -0.2755999697154121
-- Technical: {'pct_change_5d': 0.1443991067495931, 'pct_change_20d': 4.737102436232643, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.6956498877841786, 'pct_from_52w_low': 29.187226622442928}
+- Technical: {'pct_change_5d': 0.1443991067495931, 'pct_change_20d': 2.383077940408884, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.6956498877841786, 'pct_from_52w_low': 29.187226622442928}
 - Freshness: weekend_or_holiday_possible
 
 ### SOXX
@@ -126,13 +126,13 @@
 - Date: 2026-08-17
 - Open: 14.979999542236328
 - High: 15.0
-- Low: 14.979999542236328
-- Close: 15.0
+- Low: 14.930000305175781
+- Close: 14.949999809265137
 - Previous close: 14.25
-- Pct change: 5.263157894736836
-- Intraday/latest price: 15.0
-- Intraday vs previous close pct: 5.263157894736836
-- Technical: {'pct_change_5d': -2.9754206792492854, 'pct_change_20d': -19.571043931302313, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.507081234574386, 'pct_from_52w_low': 12.10762235951426}
+- Pct change: 4.912279363264127
+- Intraday/latest price: 14.949999809265137
+- Intraday vs previous close pct: 4.912279363264127
+- Technical: {'pct_change_5d': -3.298837177383118, 'pct_change_20d': -4.594768752541656, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.648724837451205, 'pct_from_52w_low': 11.733928859460407}
 - Freshness: fresh
 
 ### NVDA
