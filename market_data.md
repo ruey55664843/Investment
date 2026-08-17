@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-17 14:31:08 CST
+- Generated at: 2026-08-17 15:41:27 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 106.0
 - Close: 106.45
 - Spread: 0.05
-- Trading volume: 53835000
+- Trading volume: 58016480
 - Foreign investor buy/sell: 35877135
 - Investment trust buy/sell: 0
 - Margin delta estimated: -867
@@ -34,7 +34,7 @@
 - Low: 17.43
 - Close: 17.69
 - Spread: 0.32
-- Trading volume: 34648000
+- Trading volume: 35027748
 - Foreign investor buy/sell: -838296
 - Investment trust buy/sell: 0
 - Margin delta estimated: -1082
@@ -48,7 +48,7 @@
 - Low: 30.35
 - Close: 30.55
 - Spread: -0.35
-- Trading volume: 5681000
+- Trading volume: 5746891
 - Foreign investor buy/sell: 303287
 - Investment trust buy/sell: -8000
 - Margin delta estimated: -374
@@ -123,17 +123,17 @@
 - Freshness: weekend_or_holiday_possible
 
 ### ^VIX
-- Date: 2026-08-14
-- Open: 14.640000343322754
-- High: 14.720000267028809
-- Low: 14.180000305175781
-- Close: 14.25
-- Previous close: 14.630000114440918
-- Pct change: -2.5974033593193835
-- Intraday/latest price: 14.25
-- Intraday vs previous close pct: -2.5974033593193835
-- Technical: {'pct_change_5d': -4.362413658869535, 'pct_change_20d': -24.080982139209826, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -59.63172717284566, 'pct_from_52w_low': 6.502241241538553}
-- Freshness: weekend_or_holiday_possible
+- Date: 2026-08-17
+- Open: 14.979999542236328
+- High: 15.0
+- Low: 14.979999542236328
+- Close: 15.0
+- Previous close: 14.25
+- Pct change: 5.263157894736836
+- Intraday/latest price: 15.0
+- Intraday vs previous close pct: 5.263157894736836
+- Technical: {'pct_change_5d': -2.9754206792492854, 'pct_change_20d': -19.571043931302313, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.507081234574386, 'pct_from_52w_low': 12.10762235951426}
+- Freshness: fresh
 
 ### NVDA
 - Date: 2026-08-14
