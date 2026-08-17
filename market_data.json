@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-17 16:28:47 CST",
+  "generated_at": "2026-08-17 17:08:12 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -26,11 +26,11 @@
         "close": 106.45,
         "spread": 0.05,
         "trading_volume": 58016480,
-        "institutional_date": "2026-08-14",
-        "foreign_investor_buy_sell": 35877135,
-        "investment_trust_buy_sell": 0,
-        "dealer_self_buy_sell": -3682000,
-        "dealer_hedging_buy_sell": -4120790,
+        "institutional_date": "2026-08-17",
+        "foreign_investor_buy_sell": 5166286,
+        "investment_trust_buy_sell": -1400000,
+        "dealer_self_buy_sell": 572000,
+        "dealer_hedging_buy_sell": 2510620,
         "margin_date": "2026-08-14",
         "margin_today_balance": 19189,
         "margin_delta_estimated": -867,
@@ -44,7 +44,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "weekend_or_holiday_possible",
+          "institutional": "fresh",
           "margin": "weekend_or_holiday_possible"
         }
       },
@@ -57,11 +57,11 @@
         "close": 17.69,
         "spread": 0.32,
         "trading_volume": 35027748,
-        "institutional_date": "2026-08-14",
-        "foreign_investor_buy_sell": -838296,
+        "institutional_date": "2026-08-17",
+        "foreign_investor_buy_sell": 10971000,
         "investment_trust_buy_sell": 0,
-        "dealer_self_buy_sell": 464000,
-        "dealer_hedging_buy_sell": 1986543,
+        "dealer_self_buy_sell": -242000,
+        "dealer_hedging_buy_sell": 7911153,
         "margin_date": "2026-08-14",
         "margin_today_balance": 70905,
         "margin_delta_estimated": -1082,
@@ -75,7 +75,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "weekend_or_holiday_possible",
+          "institutional": "fresh",
           "margin": "weekend_or_holiday_possible"
         }
       },
@@ -88,9 +88,9 @@
         "close": 30.55,
         "spread": -0.35,
         "trading_volume": 5746891,
-        "institutional_date": "2026-08-14",
-        "foreign_investor_buy_sell": 303287,
-        "investment_trust_buy_sell": -8000,
+        "institutional_date": "2026-08-17",
+        "foreign_investor_buy_sell": -3291778,
+        "investment_trust_buy_sell": -17000,
         "dealer_self_buy_sell": 0,
         "dealer_hedging_buy_sell": 0,
         "margin_date": "2026-08-14",
@@ -106,7 +106,7 @@
         },
         "freshness": {
           "price": "fresh",
-          "institutional": "weekend_or_holiday_possible",
+          "institutional": "fresh",
           "margin": "weekend_or_holiday_possible"
         }
       }
@@ -226,19 +226,19 @@
         "open": 14.979999542236328,
         "high": 15.0,
         "low": 14.930000305175781,
-        "close": 14.949999809265137,
+        "close": 14.970000267028809,
         "previous_close": 14.25,
-        "pct_change": 4.912279363264127,
+        "pct_change": 5.052633452833755,
         "volume": 0.0,
-        "intraday_or_latest_price": 14.949999809265137,
-        "intraday_vs_previous_close_pct": 4.912279363264127,
+        "intraday_or_latest_price": 14.970000267028809,
+        "intraday_vs_previous_close_pct": 5.052633452833755,
         "technical": {
-          "pct_change_5d": -3.298837177383118,
-          "pct_change_20d": -4.594768752541656,
+          "pct_change_5d": -3.1694681106669287,
+          "pct_change_20d": -4.4671334132545315,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -57.648724837451205,
-          "pct_from_52w_low": 11.733928859460407
+          "pct_from_52w_high": -57.59206631564967,
+          "pct_from_52w_low": 11.88340911052621
         },
         "freshness": "fresh"
       },
