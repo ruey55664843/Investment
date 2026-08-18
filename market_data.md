@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-19 04:09:52 CST
+- Generated at: 2026-08-19 04:45:00 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -62,17 +62,17 @@
 - Open: 768.7000122070312
 - High: 769.5
 - Low: 766.9199829101562
-- Close: 767.3599853515625
+- Close: 767.4500122070312
 - Previous close: 772.6699829101562
-- Pct change: -0.6872271054965018
-- Intraday/latest price: 767.3599853515625
-- Intraday vs previous close pct: -0.6872271054965018
-- Technical: {'pct_change_5d': -0.4152839775189543, 'pct_change_20d': 2.5498416779365485, 'high_52w': 779.3699951171875, 'low_52w': 629.280029296875, 'pct_from_52w_high': -1.5409894967561732, 'pct_from_52w_low': 21.942529498190332}
+- Pct change: -0.6755757074274671
+- Intraday/latest price: 767.4500122070312
+- Intraday vs previous close pct: -0.6755757074274671
+- Technical: {'pct_change_5d': -0.40360067501765684, 'pct_change_20d': 2.5618728496829446, 'high_52w': 779.3699951171875, 'low_52w': 629.280029296875, 'pct_from_52w_high': -1.52943826229337, 'pct_from_52w_low': 21.956835824670982}
 - Freshness: fresh
 
 ### QQQ
 - Date: 2026-08-18
-- Open: 720.219970703125
+- Open: 720.2100219726562
 - High: 722.1300048828125
 - Low: 715.9199829101562
 - Close: 717.510009765625
@@ -127,12 +127,12 @@
 - Open: 15.8100004196167
 - High: 16.09000015258789
 - Low: 15.600000381469727
-- Close: 15.779999732971191
+- Close: 15.84000015258789
 - Previous close: 15.1899995803833
-- Pct change: 3.884135410706846
-- Intraday/latest price: 15.779999732971191
-- Intraday vs previous close pct: 3.884135410706846
-- Technical: {'pct_change_5d': 3.2722513660854213, 'pct_change_20d': -7.448677776646672, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.29745021522782, 'pct_from_52w_low': 17.937216726478013}
+- Pct change: 4.279134892432879
+- Intraday/latest price: 15.84000015258789
+- Intraday vs previous close pct: 4.279134892432879
+- Technical: {'pct_change_5d': 3.6649242761983114, 'pct_change_20d': -7.096769141446968, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.127477351450224, 'pct_from_52w_low': 18.385650352064765}
 - Freshness: fresh
 
 ### NVDA
@@ -153,12 +153,12 @@
 - Open: 417.0
 - High: 419.6300048828125
 - Low: 410.7699890136719
-- Close: 413.3699951171875
+- Close: 413.4100036621094
 - Previous close: 430.9700012207031
-- Pct change: -4.083812342776616
-- Intraday/latest price: 413.3699951171875
-- Intraday vs previous close pct: -4.083812342776616
-- Technical: {'pct_change_5d': -2.0589495549622305, 'pct_change_20d': -2.647132809434205, 'high_52w': 479.0, 'low_52w': 223.6999969482422, 'pct_from_52w_high': -13.701462397246866, 'pct_from_52w_low': 84.78766238554287}
+- Pct change: -4.074528971588709
+- Intraday/latest price: 413.4100036621094
+- Intraday vs previous close pct: -4.074528971588709
+- Technical: {'pct_change_5d': -2.0494702048335034, 'pct_change_20d': -2.6377103873758245, 'high_52w': 479.0, 'low_52w': 223.6999969482422, 'pct_from_52w_high': -13.693109882649402, 'pct_from_52w_low': 84.80554729634649}
 - Freshness: fresh
 
 ### AVGO
@@ -166,12 +166,12 @@
 - Open: 384.31500244140625
 - High: 385.7821044921875
 - Low: 377.010009765625
-- Close: 379.8299865722656
+- Close: 380.0
 - Previous close: 392.42999267578125
-- Pct change: -3.2107653183189644
-- Intraday/latest price: 379.8299865722656
-- Intraday vs previous close pct: -3.2107653183189644
-- Technical: {'pct_change_5d': -8.712267152917729, 'pct_change_20d': -1.725747329297378, 'high_52w': 495.0, 'low_52w': 281.8699951171875, 'pct_from_52w_high': -23.26666937934028, 'pct_from_52w_low': 34.7536073906523}
+- Pct change: -3.1674420680813498
+- Intraday/latest price: 380.0
+- Intraday vs previous close pct: -3.1674420680813498
+- Technical: {'pct_change_5d': -8.671406397000347, 'pct_change_20d': -1.681759379042691, 'high_52w': 495.0, 'low_52w': 281.8699951171875, 'pct_from_52w_high': -23.23232323232324, 'pct_from_52w_low': 34.813923646614086}
 - Freshness: fresh
 
 ### MSFT
