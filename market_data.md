@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-18 14:20:55 CST
+- Generated at: 2026-08-18 15:10:58 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 104.85
 - Close: 104.9
 - Spread: -1.55
-- Trading volume: 58309000
+- Trading volume: 65621402
 - Foreign investor buy/sell: 5166286
 - Investment trust buy/sell: -1400000
 - Margin delta estimated: -501
@@ -34,7 +34,7 @@
 - Low: 17.29
 - Close: 17.32
 - Spread: -0.37
-- Trading volume: 43025000
+- Trading volume: 43663018
 - Foreign investor buy/sell: 10971000
 - Investment trust buy/sell: 0
 - Margin delta estimated: -1167
@@ -48,7 +48,7 @@
 - Low: 30.4
 - Close: 30.5
 - Spread: -0.05
-- Trading volume: 4719000
+- Trading volume: 4757465
 - Foreign investor buy/sell: -3291778
 - Investment trust buy/sell: -17000
 - Margin delta estimated: 26
@@ -93,7 +93,7 @@
 - Pct change: None
 - Intraday/latest price: 26644.91
 - Intraday vs previous close pct: -0.3151994142633008
-- Technical: {'pct_change_5d': 0.1443991067495931, 'pct_change_20d': 4.737102436232643, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.6956498877841786, 'pct_from_52w_low': 29.187226622442928}
+- Technical: {'pct_change_5d': 0.1443991067495931, 'pct_change_20d': 2.383077940408884, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.6956498877841786, 'pct_from_52w_low': 29.187226622442928}
 - Freshness: fresh
 
 ### SOXX
@@ -132,7 +132,7 @@
 - Pct change: -2.5974033593193835
 - Intraday/latest price: 15.19
 - Intraday vs previous close pct: 3.827750383995676
-- Technical: {'pct_change_5d': -4.362413658869535, 'pct_change_20d': -24.080982139209826, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -59.63172717284566, 'pct_from_52w_low': 6.502241241538553}
+- Technical: {'pct_change_5d': -4.362413658869535, 'pct_change_20d': -13.636363636363635, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -59.63172717284566, 'pct_from_52w_low': 6.502241241538553}
 - Freshness: stale_over_one_trading_day
 
 ### NVDA
