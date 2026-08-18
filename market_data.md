@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-19 04:45:00 CST
+- Generated at: 2026-08-19 05:11:53 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -72,7 +72,7 @@
 
 ### QQQ
 - Date: 2026-08-18
-- Open: 720.2100219726562
+- Open: 720.219970703125
 - High: 722.1300048828125
 - Low: 715.9199829101562
 - Close: 717.510009765625
@@ -93,7 +93,7 @@
 - Pct change: -1.3330846929753393
 - Intraday/latest price: 26289.7109375
 - Intraday vs previous close pct: -1.3330846929753393
-- Technical: {'pct_change_5d': -0.5889038978380445, 'pct_change_20d': 1.7513500241747915, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -3.311853674360632, 'pct_from_52w_low': 27.063283128526727}
+- Technical: {'pct_change_5d': -0.5889038978380445, 'pct_change_20d': 1.5754675789820372, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -3.311853674360632, 'pct_from_52w_low': 27.063283128526727}
 - Freshness: fresh
 
 ### SOXX
@@ -132,7 +132,7 @@
 - Pct change: 4.279134892432879
 - Intraday/latest price: 15.84000015258789
 - Intraday vs previous close pct: 4.279134892432879
-- Technical: {'pct_change_5d': 3.6649242761983114, 'pct_change_20d': -7.096769141446968, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.127477351450224, 'pct_from_52w_low': 18.385650352064765}
+- Technical: {'pct_change_5d': 3.6649242761983114, 'pct_change_20d': -5.319781315005756, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.127477351450224, 'pct_from_52w_low': 18.385650352064765}
 - Freshness: fresh
 
 ### NVDA
@@ -202,7 +202,7 @@
 
 ### META
 - Date: 2026-08-18
-- Open: 557.3099975585938
+- Open: 557.47998046875
 - High: 560.6599731445312
 - Low: 543.2100219726562
 - Close: 543.6699829101562
@@ -230,7 +230,7 @@
 - Date: 2026-08-18
 - Open: 76.21499633789062
 - High: 77.04000091552734
-- Low: 74.51000213623047
+- Low: 74.54000091552734
 - Close: 74.81999969482422
 - Previous close: 78.54000091552734
 - Pct change: -4.736441529589641
