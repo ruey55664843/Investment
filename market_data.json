@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-18 12:58:33 CST",
+  "generated_at": "2026-08-18 13:24:49 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -171,7 +171,7 @@
         "intraday_vs_previous_close_pct": -0.3151994142633008,
         "technical": {
           "pct_change_5d": 0.1443991067495931,
-          "pct_change_20d": 4.737102436232643,
+          "pct_change_20d": 2.383077940408884,
           "high_52w": 27190.2109375,
           "low_52w": 20690.25,
           "pct_from_52w_high": -1.6956498877841786,
@@ -222,25 +222,25 @@
         "freshness": "fresh"
       },
       "^VIX": {
-        "date": "2026-08-17",
-        "open": 0.0,
-        "high": 0.0,
-        "low": 0.0,
-        "close": 15.1899995803833,
-        "previous_close": 14.25,
-        "pct_change": 6.596488283391588,
+        "date": "2026-08-14",
+        "open": 14.640000343322754,
+        "high": 14.720000267028809,
+        "low": 14.180000305175781,
+        "close": 14.25,
+        "previous_close": 14.630000114440918,
+        "pct_change": -2.5974033593193835,
         "volume": 0.0,
-        "intraday_or_latest_price": 15.1899995803833,
-        "intraday_vs_previous_close_pct": 6.596488283391588,
+        "intraday_or_latest_price": 15.19,
+        "intraday_vs_previous_close_pct": 3.827750383995676,
         "technical": {
-          "pct_change_5d": -1.7464453887286902,
-          "pct_change_20d": -18.552279404387683,
+          "pct_change_5d": -4.362413658869535,
+          "pct_change_20d": -24.080982139209826,
           "high_52w": 35.29999923706055,
-          "low_52w": 0.0,
-          "pct_from_52w_high": -56.96883878559489,
-          "pct_from_52w_low": null
+          "low_52w": 13.380000114440918,
+          "pct_from_52w_high": -59.63172717284566,
+          "pct_from_52w_low": 6.502241241538553
         },
-        "freshness": "fresh"
+        "freshness": "stale_over_one_trading_day"
       },
       "NVDA": {
         "date": "2026-08-17",
