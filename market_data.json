@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-18 17:54:46 CST",
+  "generated_at": "2026-08-18 18:15:30 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -187,7 +187,7 @@
         "close": null,
         "previous_close": 550.4199829101562,
         "pct_change": null,
-        "volume": 5274068.0,
+        "volume": 5266206.0,
         "intraday_or_latest_price": 559.12,
         "intraday_vs_previous_close_pct": 1.580614323601659,
         "technical": {
@@ -226,19 +226,19 @@
         "open": 15.8100004196167,
         "high": 16.09000015258789,
         "low": 15.800000190734863,
-        "close": 15.970000267028809,
+        "close": 15.930000305175781,
         "previous_close": 14.25,
-        "pct_change": 12.070177312482876,
+        "pct_change": 11.789475825794948,
         "volume": 0.0,
-        "intraday_or_latest_price": 15.970000267028809,
-        "intraday_vs_previous_close_pct": 12.070177312482876,
+        "intraday_or_latest_price": 15.930000305175781,
+        "intraday_vs_previous_close_pct": 11.789475825794948,
         "technical": {
-          "pct_change_5d": 3.298837177383107,
-          "pct_change_20d": -14.369970007069977,
+          "pct_change_5d": 3.04010521260738,
+          "pct_change_20d": -14.584447018711755,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -54.7592050646213,
-          "pct_from_52w_low": 19.357250601160516
+          "pct_from_52w_high": -54.872519406597355,
+          "pct_from_52w_low": 19.058297226639564
         },
         "freshness": "fresh"
       },
@@ -250,7 +250,7 @@
         "close": null,
         "previous_close": 225.16000366210938,
         "pct_change": null,
-        "volume": 81437577.0,
+        "volume": 81442206.0,
         "intraday_or_latest_price": 225.01,
         "intraday_vs_previous_close_pct": -0.06662091831126649,
         "technical": {
