@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-18 17:20:00 CST
+- Generated at: 2026-08-18 17:54:46 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 104.85
 - Close: 104.9
 - Spread: -1.55
-- Trading volume: 65621402
+- Trading volume: 66471402
 - Foreign investor buy/sell: -16100955
 - Investment trust buy/sell: -1000000
 - Margin delta estimated: -501
@@ -48,7 +48,7 @@
 - Low: 30.4
 - Close: 30.5
 - Spread: -0.05
-- Trading volume: 4757465
+- Trading volume: 4757516
 - Foreign investor buy/sell: -312950
 - Investment trust buy/sell: -4000
 - Margin delta estimated: 26
@@ -93,7 +93,7 @@
 - Pct change: None
 - Intraday/latest price: 26644.91
 - Intraday vs previous close pct: -0.3151994142633008
-- Technical: {'pct_change_5d': 0.1443991067495931, 'pct_change_20d': 2.383077940408884, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.6956498877841786, 'pct_from_52w_low': 29.187226622442928}
+- Technical: {'pct_change_5d': 0.1443991067495931, 'pct_change_20d': 4.737102436232643, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -1.6956498877841786, 'pct_from_52w_low': 29.187226622442928}
 - Freshness: fresh
 
 ### SOXX
@@ -127,12 +127,12 @@
 - Open: 15.8100004196167
 - High: 16.09000015258789
 - Low: 15.800000190734863
-- Close: 15.84000015258789
+- Close: 15.970000267028809
 - Previous close: 14.25
-- Pct change: 11.157895807634311
-- Intraday/latest price: 15.84000015258789
-- Intraday vs previous close pct: 11.157895807634311
-- Technical: {'pct_change_5d': 2.4579567496978205, 'pct_change_20d': -15.067021573289596, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.127477351450224, 'pct_from_52w_low': 18.385650352064765}
+- Pct change: 12.070177312482876
+- Intraday/latest price: 15.970000267028809
+- Intraday vs previous close pct: 12.070177312482876
+- Technical: {'pct_change_5d': 3.298837177383107, 'pct_change_20d': -14.369970007069977, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -54.7592050646213, 'pct_from_52w_low': 19.357250601160516}
 - Freshness: fresh
 
 ### NVDA
