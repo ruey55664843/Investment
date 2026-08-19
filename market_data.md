@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-20 05:14:31 CST
+- Generated at: 2026-08-20 05:46:14 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -93,7 +93,7 @@
 - Pct change: 0.1573958205488557
 - Intraday/latest price: 26331.08984375
 - Intraday vs previous close pct: 0.1573958205488557
-- Technical: {'pct_change_5d': -0.9680895318088356, 'pct_change_20d': 3.177280472002808, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -3.1596705730779107, 'pct_from_52w_low': 27.263275425623192}
+- Technical: {'pct_change_5d': -0.9680895318088356, 'pct_change_20d': 2.491891850386896, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -3.1596705730779107, 'pct_from_52w_low': 27.263275425623192}
 - Freshness: fresh
 
 ### SOXX
