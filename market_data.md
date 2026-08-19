@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-20 04:50:15 CST
+- Generated at: 2026-08-20 05:14:31 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -72,7 +72,7 @@
 
 ### QQQ
 - Date: 2026-08-19
-- Open: 720.3900146484375
+- Open: 720.4099731445312
 - High: 721.4998779296875
 - Low: 712.6099853515625
 - Close: 716.0800170898438
@@ -93,7 +93,7 @@
 - Pct change: 0.1573958205488557
 - Intraday/latest price: 26331.08984375
 - Intraday vs previous close pct: 0.1573958205488557
-- Technical: {'pct_change_5d': -0.9680895318088356, 'pct_change_20d': 2.491891850386896, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -3.1596705730779107, 'pct_from_52w_low': 27.263275425623192}
+- Technical: {'pct_change_5d': -0.9680895318088356, 'pct_change_20d': 3.177280472002808, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -3.1596705730779107, 'pct_from_52w_low': 27.263275425623192}
 - Freshness: fresh
 
 ### SOXX
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-08-19
-- Open: 575.0599975585938
+- Open: 574.8049926757812
 - High: 576.8300170898438
 - Low: 556.3150024414062
 - Close: 560.9199829101562
@@ -132,7 +132,7 @@
 - Pct change: -5.997473485566407
 - Intraday/latest price: 14.890000343322754
 - Intraday vs previous close pct: -5.997473485566407
-- Technical: {'pct_change_5d': 2.3367707775316493, 'pct_change_20d': -10.516821577615797, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.81869499960178, 'pct_from_52w_low': 11.285502361484333}
+- Technical: {'pct_change_5d': 2.3367707775316493, 'pct_change_20d': -20.671284069340913, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.81869499960178, 'pct_from_52w_low': 11.285502361484333}
 - Freshness: fresh
 
 ### NVDA
@@ -163,7 +163,7 @@
 
 ### AVGO
 - Date: 2026-08-19
-- Open: 372.3999938964844
+- Open: 371.6600036621094
 - High: 373.9100036621094
 - Low: 357.610107421875
 - Close: 362.4800109863281
@@ -176,7 +176,7 @@
 
 ### MSFT
 - Date: 2026-08-19
-- Open: 480.06500244140625
+- Open: 479.80999755859375
 - High: 489.2900085449219
 - Low: 479.54998779296875
 - Close: 484.30999755859375
