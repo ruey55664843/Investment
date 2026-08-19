@@ -1,8 +1,8 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-19 10:09:47 CST",
+  "generated_at": "2026-08-19 11:15:18 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "full",
+  "market_mode": "tw_intraday",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
@@ -141,7 +141,7 @@
         "date": "2026-08-18",
         "open": 720.219970703125,
         "high": 722.1300048828125,
-        "low": 715.9249877929688,
+        "low": 715.9199829101562,
         "close": 717.510009765625,
         "previous_close": 729.8699951171875,
         "pct_change": -1.6934502629578518,
@@ -288,7 +288,7 @@
         "date": "2026-08-18",
         "open": 384.31500244140625,
         "high": 385.7821044921875,
-        "low": 377.010009765625,
+        "low": 377.0199890136719,
         "close": 380.0,
         "previous_close": 392.42999267578125,
         "pct_change": -3.1674420680813498,
