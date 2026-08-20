@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-21 04:51:55 CST
+- Generated at: 2026-08-21 05:16:21 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -72,7 +72,7 @@
 
 ### QQQ
 - Date: 2026-08-20
-- Open: 712.0900268554688
+- Open: 712.280029296875
 - High: 714.9400024414062
 - Low: 708.52001953125
 - Close: 710.9299926757812
@@ -93,12 +93,12 @@
 - Pct change: -1.0023277794088181
 - Intraday/latest price: 26067.166015625
 - Intraday vs previous close pct: -1.0023277794088181
-- Technical: {'pct_change_5d': -2.745448184604249, 'pct_change_20d': 3.6975417499417462, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -4.130328096594971, 'pct_from_52w_low': 25.98768026304661}
+- Technical: {'pct_change_5d': -2.745448184604249, 'pct_change_20d': 2.1918384898406806, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -4.130328096594971, 'pct_from_52w_low': 25.98768026304661}
 - Freshness: fresh
 
 ### SOXX
 - Date: 2026-08-20
-- Open: 518.375
+- Open: 518.614990234375
 - High: 525.4299926757812
 - Low: 515.3499755859375
 - Close: 522.3499755859375
@@ -132,7 +132,7 @@
 - Pct change: 7.521825787340108
 - Intraday/latest price: 16.010000228881836
 - Intraday vs previous close pct: 7.521825787340108
-- Technical: {'pct_change_5d': 9.432673299016269, 'pct_change_20d': -14.385029006997618, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -54.64589072264524, 'pct_from_52w_low': 19.656203975681443}
+- Technical: {'pct_change_5d': 9.432673299016269, 'pct_change_20d': -14.155492995428187, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -54.64589072264524, 'pct_from_52w_low': 19.656203975681443}
 - Freshness: fresh
 
 ### NVDA
@@ -163,7 +163,7 @@
 
 ### AVGO
 - Date: 2026-08-20
-- Open: 364.3900146484375
+- Open: 364.2349853515625
 - High: 367.1199951171875
 - Low: 362.2500915527344
 - Close: 364.0299987792969
@@ -176,7 +176,7 @@
 
 ### MSFT
 - Date: 2026-08-20
-- Open: 483.29998779296875
+- Open: 483.0
 - High: 484.1600036621094
 - Low: 479.5
 - Close: 481.1499938964844
@@ -215,9 +215,9 @@
 
 ### AMZN
 - Date: 2026-08-20
-- Open: 263.1600036621094
+- Open: 262.9049987792969
 - High: 263.8399963378906
-- Low: 259.5199890136719
+- Low: 259.5899963378906
 - Close: 260.1099853515625
 - Previous close: 265.8399963378906
 - Pct change: -2.1554360010767937
