@@ -1,8 +1,8 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-20 10:09:16 CST",
+  "generated_at": "2026-08-20 11:14:37 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "full",
+  "market_mode": "tw_intraday",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
@@ -171,7 +171,7 @@
         "intraday_vs_previous_close_pct": 0.1573958205488557,
         "technical": {
           "pct_change_5d": -0.9680895318088356,
-          "pct_change_20d": 2.491891850386896,
+          "pct_change_20d": 3.177280472002808,
           "high_52w": 27190.2109375,
           "low_52w": 20690.25,
           "pct_from_52w_high": -3.1596705730779107,
@@ -397,7 +397,7 @@
         "close": 74.58999633789062,
         "previous_close": 74.81999969482422,
         "pct_change": -0.30740892524957486,
-        "volume": 904262.0,
+        "volume": 902222.0,
         "intraday_or_latest_price": 74.58999633789062,
         "intraday_vs_previous_close_pct": -0.30740892524957486,
         "technical": {
