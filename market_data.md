@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-22 05:12:04 CST
+- Generated at: 2026-08-22 05:44:30 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -98,7 +98,7 @@
 
 ### SOXX
 - Date: 2026-08-21
-- Open: 528.1500244140625
+- Open: 528.7249755859375
 - High: 528.989990234375
 - Low: 514.6599731445312
 - Close: 520.0499877929688
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-08-21
-- Open: 569.4400024414062
+- Open: 569.0020141601562
 - High: 569.14501953125
 - Low: 556.0999755859375
 - Close: 560.4199829101562
