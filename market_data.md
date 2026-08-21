@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-22 04:45:14 CST
+- Generated at: 2026-08-22 05:12:04 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -163,7 +163,7 @@
 
 ### AVGO
 - Date: 2026-08-21
-- Open: 370.69000244140625
+- Open: 370.79998779296875
 - High: 375.1199951171875
 - Low: 365.04998779296875
 - Close: 368.45001220703125
@@ -215,7 +215,7 @@
 
 ### AMZN
 - Date: 2026-08-21
-- Open: 260.739990234375
+- Open: 260.75
 - High: 261.0799865722656
 - Low: 257.0350036621094
 - Close: 258.6300048828125
