@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-22 21:48:36 CST
+- Generated at: 2026-08-22 22:09:25 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -58,17 +58,18 @@
 ## US
 
 ### SPY
-- Date: 2026-08-21
-- Open: 766.0499877929688
-- High: 767.8499755859375
-- Low: 764.1699829101562
-- Close: 765.719970703125
-- Previous close: 762.5999755859375
-- Pct change: 0.40912604472485015
-- Intraday/latest price: 765.719970703125
-- Intraday vs previous close pct: 0.40912604472485015
-- Technical: {'pct_change_5d': -1.367964523916132, 'pct_change_20d': 3.6255096278245524, 'high_52w': 779.3699951171875, 'low_52w': 629.280029296875, 'pct_from_52w_high': -1.7514177476142145, 'pct_from_52w_low': 21.68191187613262}
-- Freshness: fresh
+- Date: None
+- Open: None
+- High: None
+- Low: None
+- Close: None
+- Previous close: None
+- Pct change: None
+- Intraday/latest price: None
+- Intraday vs previous close pct: None
+- Technical: None
+- Freshness: missing
+- Error: Too Many Requests. Rate limited. Try after a while.
 
 ### QQQ
 - Date: 2026-08-21
