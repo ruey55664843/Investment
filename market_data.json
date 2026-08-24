@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-24 19:26:06 CST",
+  "generated_at": "2026-08-24 19:50:11 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -224,21 +224,21 @@
       "^VIX": {
         "date": "2026-08-24",
         "open": 15.899999618530273,
-        "high": 16.030000686645508,
+        "high": 16.049999237060547,
         "low": 15.859999656677246,
-        "close": 16.0,
+        "close": 15.960000038146973,
         "previous_close": 15.130000114440918,
-        "pct_change": 5.7501644347557335,
+        "pct_change": 5.485789275796882,
         "volume": 0.0,
-        "intraday_or_latest_price": 16.0,
-        "intraday_vs_previous_close_pct": 5.7501644347557335,
+        "intraday_or_latest_price": 15.960000038146973,
+        "intraday_vs_previous_close_pct": 5.485789275796882,
         "technical": {
-          "pct_change_5d": 5.332458472630575,
-          "pct_change_20d": -14.30101802561936,
+          "pct_change_5d": 5.069127577581156,
+          "pct_change_20d": -14.515265276233013,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -54.67421998354601,
-          "pct_from_52w_low": 19.581463850148538
+          "pct_from_52w_high": -54.78753432552206,
+          "pct_from_52w_low": 19.28251047562759
         },
         "freshness": "fresh"
       },
