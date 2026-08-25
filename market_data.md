@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-25 14:23:21 CST
+- Generated at: 2026-08-25 15:15:10 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 102.4
 - Close: 104.4
 - Spread: 0.6
-- Trading volume: 54791000
+- Trading volume: 61162385
 - Foreign investor buy/sell: -19904562
 - Investment trust buy/sell: 1400000
 - Margin delta estimated: -142
@@ -34,7 +34,7 @@
 - Low: 15.75
 - Close: 16.13
 - Spread: 0.06
-- Trading volume: 21145000
+- Trading volume: 21674753
 - Foreign investor buy/sell: -7117298
 - Investment trust buy/sell: -2000000
 - Margin delta estimated: 872
@@ -48,7 +48,7 @@
 - Low: 29.95
 - Close: 30.35
 - Spread: 0.1
-- Trading volume: 3160000
+- Trading volume: 3197904
 - Foreign investor buy/sell: -1750226
 - Investment trust buy/sell: -10000
 - Margin delta estimated: -117
@@ -130,8 +130,8 @@
 - Close: 15.850000381469727
 - Previous close: 15.130000114440918
 - Pct change: 4.758759164460291
-- Intraday/latest price: 15.850000381469727
-- Intraday vs previous close pct: 4.758759164460291
+- Intraday/latest price: 15.85
+- Intraday vs previous close pct: 4.7587566431798844
 - Technical: {'pct_change_5d': 4.344969185771186, 'pct_change_20d': -15.10444393840623, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.099148090549456, 'pct_from_52w_low': 18.460390477597667}
 - Freshness: fresh
 
