@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-25 13:53:51 CST",
+  "generated_at": "2026-08-25 14:23:21 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -19,13 +19,13 @@
     "stocks": {
       "0050": {
         "name": "元大台灣50",
-        "price_date": "2026-08-24",
-        "open": 104.65,
-        "max": 104.8,
-        "min": 103.8,
-        "close": 103.8,
-        "spread": -0.85,
-        "trading_volume": 44713618,
+        "price_date": "2026-08-25",
+        "open": 102.9,
+        "max": 104.4,
+        "min": 102.4,
+        "close": 104.4,
+        "spread": 0.6,
+        "trading_volume": 54791000,
         "institutional_date": "2026-08-24",
         "foreign_investor_buy_sell": -19904562,
         "investment_trust_buy_sell": 1400000,
@@ -35,12 +35,12 @@
         "margin_today_balance": 18171,
         "margin_delta_estimated": -142,
         "technical": {
-          "pct_change_5d": -2.48943165805543,
-          "pct_change_20d": 2.3164120256283782,
+          "pct_change_5d": -0.4766444232602529,
+          "pct_change_20d": 7.462686567164178,
           "high_60d": 111.15,
           "low_60d": 93.5,
-          "pct_from_60d_high": -6.612685560053988,
-          "pct_from_60d_low": 11.01604278074866
+          "pct_from_60d_high": -6.072874493927127,
+          "pct_from_60d_low": 11.657754010695198
         },
         "freshness": {
           "price": "fresh",
@@ -50,13 +50,13 @@
       },
       "00988A": {
         "name": "主動統一台股增長",
-        "price_date": "2026-08-24",
-        "open": 16.4,
-        "max": 16.4,
-        "min": 16.04,
-        "close": 16.07,
-        "spread": -0.32,
-        "trading_volume": 31199573,
+        "price_date": "2026-08-25",
+        "open": 15.87,
+        "max": 16.13,
+        "min": 15.75,
+        "close": 16.13,
+        "spread": 0.06,
+        "trading_volume": 21145000,
         "institutional_date": "2026-08-24",
         "foreign_investor_buy_sell": -7117298,
         "investment_trust_buy_sell": -2000000,
@@ -66,12 +66,12 @@
         "margin_today_balance": 55561,
         "margin_delta_estimated": 872,
         "technical": {
-          "pct_change_5d": -9.157716223855294,
-          "pct_change_20d": -5.023640661938544,
+          "pct_change_5d": -6.870669745958436,
+          "pct_change_20d": 4.808317089018832,
           "high_60d": 23.73,
           "low_60d": 14.16,
-          "pct_from_60d_high": -32.27981458069954,
-          "pct_from_60d_low": 13.488700564971756
+          "pct_from_60d_high": -32.02697008006743,
+          "pct_from_60d_low": 13.912429378531055
         },
         "freshness": {
           "price": "fresh",
@@ -81,13 +81,13 @@
       },
       "6005": {
         "name": "群益證",
-        "price_date": "2026-08-24",
-        "open": 30.65,
-        "max": 30.85,
-        "min": 30.25,
-        "close": 30.25,
-        "spread": -0.4,
-        "trading_volume": 3707669,
+        "price_date": "2026-08-25",
+        "open": 30.15,
+        "max": 30.45,
+        "min": 29.95,
+        "close": 30.35,
+        "spread": 0.1,
+        "trading_volume": 3160000,
         "institutional_date": "2026-08-24",
         "foreign_investor_buy_sell": -1750226,
         "investment_trust_buy_sell": -10000,
@@ -97,12 +97,12 @@
         "margin_today_balance": 5750,
         "margin_delta_estimated": -117,
         "technical": {
-          "pct_change_5d": -0.9819967266775809,
-          "pct_change_20d": -15.02808988764045,
+          "pct_change_5d": -0.4918032786885185,
+          "pct_change_20d": -9.940652818991103,
           "high_60d": 45.05,
           "low_60d": 30.0,
-          "pct_from_60d_high": -32.85238623751386,
-          "pct_from_60d_low": 0.8333333333333304
+          "pct_from_60d_high": -32.630410654827955,
+          "pct_from_60d_low": 1.1666666666666714
         },
         "freshness": {
           "price": "fresh",
