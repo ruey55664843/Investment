@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-25 15:15:10 CST
+- Generated at: 2026-08-25 16:04:11 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -58,17 +58,18 @@
 ## US
 
 ### SPY
-- Date: 2026-08-24
-- Open: 764.780029296875
-- High: 765.219970703125
-- Low: 762.0800170898438
-- Close: 763.469970703125
-- Previous close: 765.719970703125
-- Pct change: -0.29384110198065194
-- Intraday/latest price: 763.469970703125
-- Intraday vs previous close pct: -0.29384110198065194
-- Technical: {'pct_change_5d': -1.1906780916194903, 'pct_change_20d': 3.2986433264947657, 'high_52w': 779.3699951171875, 'low_52w': 629.280029296875, 'pct_from_52w_high': -2.040112464385002, 'pct_from_52w_low': 21.324360405364672}
-- Freshness: fresh
+- Date: None
+- Open: None
+- High: None
+- Low: None
+- Close: None
+- Previous close: None
+- Pct change: None
+- Intraday/latest price: None
+- Intraday vs previous close pct: None
+- Technical: None
+- Freshness: missing
+- Error: Too Many Requests. Rate limited. Try after a while.
 
 ### QQQ
 - Date: 2026-08-24
@@ -123,16 +124,16 @@
 - Freshness: fresh
 
 ### ^VIX
-- Date: 2026-08-24
-- Open: 15.899999618530273
-- High: 16.059999465942383
-- Low: 15.609999656677246
-- Close: 15.850000381469727
-- Previous close: 15.130000114440918
-- Pct change: 4.758759164460291
-- Intraday/latest price: 15.85
-- Intraday vs previous close pct: 4.7587566431798844
-- Technical: {'pct_change_5d': 4.344969185771186, 'pct_change_20d': -15.10444393840623, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.099148090549456, 'pct_from_52w_low': 18.460390477597667}
+- Date: 2026-08-25
+- Open: 15.710000038146973
+- High: 15.789999961853027
+- Low: 15.6899995803833
+- Close: 15.789999961853027
+- Previous close: 15.850000381469727
+- Pct change: -0.37855153421223475
+- Intraday/latest price: 15.789999961853027
+- Intraday vs previous close pct: -0.37855153421223475
+- Technical: {'pct_change_5d': -0.31565776675004376, 'pct_change_20d': -13.28939727780173, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.26912095432706, 'pct_from_52w_low': 18.01195685201091}
 - Freshness: fresh
 
 ### NVDA

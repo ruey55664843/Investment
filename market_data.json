@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-25 15:15:10 CST",
+  "generated_at": "2026-08-25 16:04:11 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -117,25 +117,8 @@
     "mode": "us_intraday_or_latest_available",
     "tickers": {
       "SPY": {
-        "date": "2026-08-24",
-        "open": 764.780029296875,
-        "high": 765.219970703125,
-        "low": 762.0800170898438,
-        "close": 763.469970703125,
-        "previous_close": 765.719970703125,
-        "pct_change": -0.29384110198065194,
-        "volume": 32377700.0,
-        "intraday_or_latest_price": 763.469970703125,
-        "intraday_vs_previous_close_pct": -0.29384110198065194,
-        "technical": {
-          "pct_change_5d": -1.1906780916194903,
-          "pct_change_20d": 3.2986433264947657,
-          "high_52w": 779.3699951171875,
-          "low_52w": 629.280029296875,
-          "pct_from_52w_high": -2.040112464385002,
-          "pct_from_52w_low": 21.324360405364672
-        },
-        "freshness": "fresh"
+        "error": "Too Many Requests. Rate limited. Try after a while.",
+        "freshness": "missing"
       },
       "QQQ": {
         "date": "2026-08-24",
@@ -222,23 +205,23 @@
         "freshness": "fresh"
       },
       "^VIX": {
-        "date": "2026-08-24",
-        "open": 15.899999618530273,
-        "high": 16.059999465942383,
-        "low": 15.609999656677246,
-        "close": 15.850000381469727,
-        "previous_close": 15.130000114440918,
-        "pct_change": 4.758759164460291,
+        "date": "2026-08-25",
+        "open": 15.710000038146973,
+        "high": 15.789999961853027,
+        "low": 15.6899995803833,
+        "close": 15.789999961853027,
+        "previous_close": 15.850000381469727,
+        "pct_change": -0.37855153421223475,
         "volume": 0.0,
-        "intraday_or_latest_price": 15.85,
-        "intraday_vs_previous_close_pct": 4.7587566431798844,
+        "intraday_or_latest_price": 15.789999961853027,
+        "intraday_vs_previous_close_pct": -0.37855153421223475,
         "technical": {
-          "pct_change_5d": 4.344969185771186,
-          "pct_change_20d": -15.10444393840623,
+          "pct_change_5d": -0.31565776675004376,
+          "pct_change_20d": -13.28939727780173,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -55.099148090549456,
-          "pct_from_52w_low": 18.460390477597667
+          "pct_from_52w_high": -55.26912095432706,
+          "pct_from_52w_low": 18.01195685201091
         },
         "freshness": "fresh"
       },
