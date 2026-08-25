@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-25 18:24:46 CST",
+  "generated_at": "2026-08-25 18:56:43 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -226,19 +226,19 @@
         "open": 15.710000038146973,
         "high": 15.880000114440918,
         "low": 15.6899995803833,
-        "close": 15.859999656677246,
+        "close": 15.850000381469727,
         "previous_close": 15.850000381469727,
-        "pct_change": 0.06308690830827413,
+        "pct_change": 0.0,
         "volume": 0.0,
-        "intraday_or_latest_price": 15.859999656677246,
-        "intraday_vs_previous_close_pct": 0.06308690830827413,
+        "intraday_or_latest_price": 15.850000381469727,
+        "intraday_vs_previous_close_pct": 0.0,
         "technical": {
-          "pct_change_5d": 0.12625949429734273,
-          "pct_change_20d": -12.904994760813649,
+          "pct_change_5d": 0.06313275748424108,
+          "pct_change_20d": -12.959905665318006,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -55.07082153127571,
-          "pct_from_52w_low": 18.53512347551991
+          "pct_from_52w_high": -55.099148090549456,
+          "pct_from_52w_low": 18.460390477597667
         },
         "freshness": "fresh"
       },
