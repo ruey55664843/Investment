@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-26 13:55:55 CST",
+  "generated_at": "2026-08-26 14:28:23 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -19,13 +19,13 @@
     "stocks": {
       "0050": {
         "name": "元大台灣50",
-        "price_date": "2026-08-25",
-        "open": 102.9,
-        "max": 104.4,
-        "min": 102.4,
-        "close": 104.4,
-        "spread": 0.6,
-        "trading_volume": 61162385,
+        "price_date": "2026-08-26",
+        "open": 104.1,
+        "max": 106.05,
+        "min": 103.5,
+        "close": 105.9,
+        "spread": 1.5,
+        "trading_volume": 84650000,
         "institutional_date": "2026-08-25",
         "foreign_investor_buy_sell": -26792665,
         "investment_trust_buy_sell": 800000,
@@ -35,12 +35,12 @@
         "margin_today_balance": 18263,
         "margin_delta_estimated": 92,
         "technical": {
-          "pct_change_5d": -0.4766444232602529,
-          "pct_change_20d": 7.462686567164178,
+          "pct_change_5d": 2.715809893307486,
+          "pct_change_20d": 13.020277481323372,
           "high_60d": 111.15,
           "low_60d": 93.5,
-          "pct_from_60d_high": -6.072874493927127,
-          "pct_from_60d_low": 11.657754010695198
+          "pct_from_60d_high": -4.723346828609987,
+          "pct_from_60d_low": 13.262032085561493
         },
         "freshness": {
           "price": "fresh",
@@ -50,13 +50,13 @@
       },
       "00988A": {
         "name": "主動統一台股增長",
-        "price_date": "2026-08-25",
-        "open": 15.87,
-        "max": 16.13,
-        "min": 15.75,
-        "close": 16.13,
-        "spread": 0.06,
-        "trading_volume": 21674753,
+        "price_date": "2026-08-26",
+        "open": 16.12,
+        "max": 16.29,
+        "min": 16.04,
+        "close": 16.23,
+        "spread": 0.1,
+        "trading_volume": 22485000,
         "institutional_date": "2026-08-25",
         "foreign_investor_buy_sell": 4561386,
         "investment_trust_buy_sell": 0,
@@ -66,12 +66,12 @@
         "margin_today_balance": 55728,
         "margin_delta_estimated": 167,
         "technical": {
-          "pct_change_5d": -6.870669745958436,
-          "pct_change_20d": 4.808317089018832,
+          "pct_change_5d": -1.6363636363636358,
+          "pct_change_20d": 13.101045296167246,
           "high_60d": 23.73,
           "low_60d": 14.16,
-          "pct_from_60d_high": -32.02697008006743,
-          "pct_from_60d_low": 13.912429378531055
+          "pct_from_60d_high": -31.605562579013903,
+          "pct_from_60d_low": 14.618644067796605
         },
         "freshness": {
           "price": "fresh",
@@ -81,13 +81,13 @@
       },
       "6005": {
         "name": "群益證",
-        "price_date": "2026-08-25",
-        "open": 30.15,
-        "max": 30.45,
-        "min": 29.95,
-        "close": 30.35,
-        "spread": 0.1,
-        "trading_volume": 3197904,
+        "price_date": "2026-08-26",
+        "open": 30.4,
+        "max": 31.05,
+        "min": 30.4,
+        "close": 30.7,
+        "spread": 0.35,
+        "trading_volume": 3906000,
         "institutional_date": "2026-08-25",
         "foreign_investor_buy_sell": -22144,
         "investment_trust_buy_sell": -8531,
@@ -97,12 +97,12 @@
         "margin_today_balance": 5719,
         "margin_delta_estimated": -31,
         "technical": {
-          "pct_change_5d": -0.4918032786885185,
-          "pct_change_20d": -9.940652818991103,
+          "pct_change_5d": 1.655629139072845,
+          "pct_change_20d": -6.544901065449016,
           "high_60d": 45.05,
           "low_60d": 30.0,
-          "pct_from_60d_high": -32.630410654827955,
-          "pct_from_60d_low": 1.1666666666666714
+          "pct_from_60d_high": -31.853496115427305,
+          "pct_from_60d_low": 2.3333333333333206
         },
         "freshness": {
           "price": "fresh",
