@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-08-28 08:46:56 CST
+- Generated at: 2026-08-28 09:11:39 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -164,7 +164,7 @@
 ### AVGO
 - Date: 2026-08-27
 - Open: 361.7650146484375
-- High: 371.7099914550781
+- High: 371.7200012207031
 - Low: 360.75
 - Close: 371.5400085449219
 - Previous close: 355.5899963378906

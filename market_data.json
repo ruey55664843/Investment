@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-28 08:46:56 CST",
+  "generated_at": "2026-08-28 09:11:39 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -287,7 +287,7 @@
       "AVGO": {
         "date": "2026-08-27",
         "open": 361.7650146484375,
-        "high": 371.7099914550781,
+        "high": 371.7200012207031,
         "low": 360.75,
         "close": 371.5400085449219,
         "previous_close": 355.5899963378906,
