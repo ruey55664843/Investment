@@ -1,7 +1,7 @@
 # Public Market Data
 
-- Generated at: 2026-08-29 08:27:59 CST
-- Market mode: full
+- Generated at: 2026-08-29 11:56:13 CST
+- Market mode: tw_intraday
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
@@ -139,7 +139,7 @@
 - Date: 2026-08-28
 - Open: 227.3300018310547
 - High: 229.25999450683594
-- Low: 216.82000732421875
+- Low: 216.80999755859375
 - Close: 217.5500030517578
 - Previous close: 227.97999572753906
 - Pct change: -4.5749595891063315
