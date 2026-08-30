@@ -1,14 +1,14 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-08-30 20:21:29 CST",
+  "generated_at": "2026-08-31 00:50:30 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "full",
+  "market_mode": "us_intraday",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
     "mode": "tw_intraday_or_latest_available",
-    "lookback_start": "2026-06-01",
-    "lookback_end": "2026-08-30",
+    "lookback_start": "2026-06-02",
+    "lookback_end": "2026-08-31",
     "market_margin": {
       "date": "2026-08-28",
       "today_balance": 567177536000,
