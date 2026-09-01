@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-09-01 16:02:18 CST
+- Generated at: 2026-09-01 16:19:25 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -125,14 +125,14 @@
 ### ^VIX
 - Date: 2026-09-01
 - Open: 14.949999809265137
-- High: 15.170000076293945
+- High: 15.180000305175781
 - Low: 14.949999809265137
-- Close: 15.15999984741211
+- Close: 15.180000305175781
 - Previous close: 14.920000076293945
-- Pct change: 1.6085775461857743
-- Intraday/latest price: 15.15999984741211
-- Intraday vs previous close pct: 1.6085775461857743
-- Technical: {'pct_change_5d': -1.8770224299881177, 'pct_change_20d': -8.121213045987218, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.05382386667017, 'pct_from_52w_low': 13.303435857598034}
+- Pct change: 1.7426288709940785
+- Intraday/latest price: 15.180000305175781
+- Intraday vs previous close pct: 1.7426288709940785
+- Technical: {'pct_change_5d': -1.747569627330614, 'pct_change_20d': -7.999998150449805, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.99716534486863, 'pct_from_52w_low': 13.452916108663837}
 - Freshness: fresh
 
 ### NVDA
