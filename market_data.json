@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-09-02 06:39:58 CST",
+  "generated_at": "2026-09-02 08:37:48 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -170,8 +170,8 @@
         "intraday_or_latest_price": 26099.7734375,
         "intraday_vs_previous_close_pct": -1.0280926471363694,
         "technical": {
-          "pct_change_5d": 0.4602891160234268,
-          "pct_change_20d": 0.7172715958352782,
+          "pct_change_5d": -0.1970354904370364,
+          "pct_change_20d": -1.8251531883115124,
           "high_52w": 27190.2109375,
           "low_52w": 20690.25,
           "pct_from_52w_high": -4.010404709645332,
@@ -212,8 +212,8 @@
         "intraday_or_latest_price": 545.219970703125,
         "intraday_vs_previous_close_pct": -2.0498417404016256,
         "technical": {
-          "pct_change_5d": -0.2889570455590351,
-          "pct_change_20d": -0.04400895755166667,
+          "pct_change_5d": -1.9070987876315448,
+          "pct_change_20d": -5.296077904820528,
           "high_52w": 671.8300170898438,
           "low_52w": 281.739990234375,
           "pct_from_52w_high": -18.84554770790886,
@@ -233,8 +233,8 @@
         "intraday_or_latest_price": 16.34000015258789,
         "intraday_vs_previous_close_pct": 9.517426736144262,
         "technical": {
-          "pct_change_5d": 5.760520092621846,
-          "pct_change_20d": -0.969696044921875,
+          "pct_change_5d": 3.0914811313886403,
+          "pct_change_20d": 3.0264849073219136,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
           "pct_from_52w_high": -53.71104672593604,
@@ -401,8 +401,8 @@
         "intraday_or_latest_price": 67.83000183105469,
         "intraday_vs_previous_close_pct": -2.234066710469529,
         "technical": {
-          "pct_change_5d": -3.0999973842075867,
-          "pct_change_20d": -17.960810860315735,
+          "pct_change_5d": -4.167839784005567,
+          "pct_change_20d": -17.51185812722541,
           "high_52w": 96.69000244140625,
           "low_52w": 48.29999923706055,
           "pct_from_52w_high": -29.847967609516413,
