@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-09-03 15:48:30 CST
+- Generated at: 2026-09-03 17:16:15 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -21,8 +21,8 @@
 - Close: 106.2
 - Spread: -0.6
 - Trading volume: 48818422
-- Foreign investor buy/sell: -23176806
-- Investment trust buy/sell: -2800000
+- Foreign investor buy/sell: -7138096
+- Investment trust buy/sell: -1000000
 - Margin delta estimated: 374
 - Technical: {'pct_change_5d': 0.14144271570015743, 'pct_change_20d': 2.8073572120038692, 'high_60d': 111.15, 'low_60d': 93.5, 'pct_from_60d_high': -4.453441295546556, 'pct_from_60d_low': 13.582887700534751}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
@@ -35,7 +35,7 @@
 - Close: 15.53
 - Spread: -0.18
 - Trading volume: 26119136
-- Foreign investor buy/sell: -3933371
+- Foreign investor buy/sell: 1945968
 - Investment trust buy/sell: 0
 - Margin delta estimated: -58
 - Technical: {'pct_change_5d': -6.049606775559601, 'pct_change_20d': -6.445783132530137, 'high_60d': 23.73, 'low_60d': 14.16, 'pct_from_60d_high': -34.55541508638854, 'pct_from_60d_low': 9.675141242937846}
@@ -49,8 +49,8 @@
 - Close: 32.35
 - Spread: 0.35
 - Trading volume: 8491306
-- Foreign investor buy/sell: -576139
-- Investment trust buy/sell: -209000
+- Foreign investor buy/sell: 1013422
+- Investment trust buy/sell: -1851000
 - Margin delta estimated: -76
 - Technical: {'pct_change_5d': 4.019292604501601, 'pct_change_20d': -6.36758321273515, 'high_60d': 40.05, 'low_60d': 30.0, 'pct_from_60d_high': -19.225967540574274, 'pct_from_60d_low': 7.833333333333337}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
@@ -93,7 +93,7 @@
 - Pct change: 0.4523432543480643
 - Intraday/latest price: 26217.830078125
 - Intraday vs previous close pct: 0.4523432543480643
-- Technical: {'pct_change_5d': 0.3353623852669241, 'pct_change_20d': -0.5523155476693353, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -3.576216681842359, 'pct_from_52w_low': 26.715868963038147}
+- Technical: {'pct_change_5d': 0.25440148247883876, 'pct_change_20d': -1.3810806511986407, 'high_52w': 27190.2109375, 'low_52w': 20690.25, 'pct_from_52w_high': -3.576216681842359, 'pct_from_52w_low': 26.715868963038147}
 - Freshness: fresh
 
 ### SOXX
@@ -119,20 +119,20 @@
 - Pct change: 0.9647500180232971
 - Intraday/latest price: 550.47998046875
 - Intraday vs previous close pct: 0.9647500180232971
-- Technical: {'pct_change_5d': -0.9518395877060382, 'pct_change_20d': -3.3737109577762547, 'high_52w': 671.8300170898438, 'low_52w': 283.7799987792969, 'pct_from_52w_high': -18.062610114794207, 'pct_from_52w_low': 93.98124703526858}
+- Technical: {'pct_change_5d': -0.9607475055056547, 'pct_change_20d': -4.382421799338521, 'high_52w': 671.8300170898438, 'low_52w': 283.7799987792969, 'pct_from_52w_high': -18.062610114794207, 'pct_from_52w_low': 93.98124703526858}
 - Freshness: fresh
 
 ### ^VIX
 - Date: 2026-09-03
 - Open: 15.25
 - High: 15.319999694824219
-- Low: 15.220000267028809
-- Close: 15.220000267028809
+- Low: 15.079999923706055
+- Close: 15.210000038146973
 - Previous close: 15.199999809265137
-- Pct change: 0.13158196062266203
-- Intraday/latest price: 15.220000267028809
-- Intraday vs previous close pct: 0.13158196062266203
-- Technical: {'pct_change_5d': 4.89317730494403, 'pct_change_20d': 0.46205049677305876, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.88385100289257, 'pct_from_52w_low': 13.751869483184787}
+- Pct change: 0.06579098031131991
+- Intraday/latest price: 15.210000038146973
+- Intraday vs previous close pct: 0.06579098031131991
+- Technical: {'pct_change_5d': 0.0, 'pct_change_20d': -3.7950687257747306, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.912180263793346, 'pct_from_52w_low': 13.677129357651886}
 - Freshness: fresh
 
 ### NVDA
@@ -236,5 +236,5 @@
 - Pct change: -1.0172525767061735
 - Intraday/latest price: 67.13999938964844
 - Intraday vs previous close pct: -1.0172525767061735
-- Technical: {'pct_change_5d': -3.589890898780812, 'pct_change_20d': -17.971899033234052, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -30.561590966620354, 'pct_from_52w_low': 39.00621211217739}
+- Technical: {'pct_change_5d': -5.142694903115963, 'pct_change_20d': -18.35097087590326, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -30.561590966620354, 'pct_from_52w_low': 39.00621211217739}
 - Freshness: fresh
