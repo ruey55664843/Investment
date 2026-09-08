@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-09-08 14:38:37 CST
+- Generated at: 2026-09-08 15:50:29 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -20,7 +20,7 @@
 - Low: 109.55
 - Close: 109.65
 - Spread: -0.25
-- Trading volume: 70339000
+- Trading volume: 75243156
 - Foreign investor buy/sell: 43969936
 - Investment trust buy/sell: 2700000
 - Margin delta estimated: -509
@@ -34,7 +34,7 @@
 - Low: 16.19
 - Close: 16.27
 - Spread: 0.01
-- Trading volume: 18833000
+- Trading volume: 19134898
 - Foreign investor buy/sell: 5167936
 - Investment trust buy/sell: 0
 - Margin delta estimated: -192
@@ -48,7 +48,7 @@
 - Low: 32.45
 - Close: 32.65
 - Spread: -0.05
-- Trading volume: 3967000
+- Trading volume: 4008690
 - Foreign investor buy/sell: -1370000
 - Investment trust buy/sell: -16000
 - Margin delta estimated: 249
@@ -123,16 +123,16 @@
 - Freshness: stale_over_one_trading_day
 
 ### ^VIX
-- Date: 2026-09-07
-- Open: 15.020000457763672
-- High: 15.319999694824219
-- Low: 14.989999771118164
-- Close: 15.300000190734863
-- Previous close: 14.529999732971191
-- Pct change: 5.299383839742289
-- Intraday/latest price: 15.300000190734863
-- Intraday vs previous close pct: 5.299383839742289
-- Technical: {'pct_change_5d': 2.5469176440869656, 'pct_change_20d': -1.034927859102952, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.65722231894047, 'pct_from_52w_low': 14.349776232226684}
+- Date: 2026-09-08
+- Open: 15.5600004196167
+- High: 15.65999984741211
+- Low: 15.550000190734863
+- Close: 15.649999618530273
+- Previous close: 15.300000190734863
+- Pct change: 2.2875779309294186
+- Intraday/latest price: 15.649999618530273
+- Intraday vs previous close pct: 2.2875779309294186
+- Technical: {'pct_change_5d': -4.2227694468432215, 'pct_change_20d': 2.421465261944311, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.665722502056745, 'pct_from_52w_low': 16.965616477382284}
 - Freshness: fresh
 
 ### NVDA
