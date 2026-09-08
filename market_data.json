@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-09-09 05:29:53 CST",
+  "generated_at": "2026-09-09 07:32:18 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -166,7 +166,7 @@
         "close": 26421.412109375,
         "previous_close": 26506.990234375,
         "pct_change": -0.3228511582919036,
-        "volume": 6801659000.0,
+        "volume": 6802086000.0,
         "intraday_or_latest_price": 26421.412109375,
         "intraday_vs_previous_close_pct": -0.3228511582919036,
         "technical": {
