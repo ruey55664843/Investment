@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-09-14 16:34:40 CST",
+  "generated_at": "2026-09-14 21:26:24 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -10,11 +10,11 @@
     "lookback_start": "2026-06-16",
     "lookback_end": "2026-09-14",
     "market_margin": {
-      "date": "2026-09-11",
-      "today_balance": 587871180000,
-      "yesterday_balance": 591897687000,
-      "delta": -4026507000,
-      "freshness": "weekend_or_holiday_possible"
+      "date": "2026-09-14",
+      "today_balance": 583877609000,
+      "yesterday_balance": 587871180000,
+      "delta": -3993571000,
+      "freshness": "fresh"
     },
     "stocks": {
       "0050": {
@@ -31,9 +31,9 @@
         "investment_trust_buy_sell": 2970000,
         "dealer_self_buy_sell": -4356605,
         "dealer_hedging_buy_sell": 2148710,
-        "margin_date": "2026-09-11",
-        "margin_today_balance": 17991,
-        "margin_delta_estimated": 294,
+        "margin_date": "2026-09-14",
+        "margin_today_balance": 18238,
+        "margin_delta_estimated": 247,
         "technical": {
           "pct_change_5d": -2.729754322111011,
           "pct_change_20d": 0.42273367778300486,
@@ -45,7 +45,7 @@
         "freshness": {
           "price": "fresh",
           "institutional": "fresh",
-          "margin": "weekend_or_holiday_possible"
+          "margin": "fresh"
         }
       },
       "00988A": {
@@ -62,9 +62,9 @@
         "investment_trust_buy_sell": -268000,
         "dealer_self_buy_sell": -200000,
         "dealer_hedging_buy_sell": 3881792,
-        "margin_date": "2026-09-11",
-        "margin_today_balance": 53181,
-        "margin_delta_estimated": -506,
+        "margin_date": "2026-09-14",
+        "margin_today_balance": 52370,
+        "margin_delta_estimated": -811,
         "technical": {
           "pct_change_5d": -3.075030750307517,
           "pct_change_20d": -10.91011871113624,
@@ -76,7 +76,7 @@
         "freshness": {
           "price": "fresh",
           "institutional": "fresh",
-          "margin": "weekend_or_holiday_possible"
+          "margin": "fresh"
         }
       },
       "6005": {
@@ -93,9 +93,9 @@
         "investment_trust_buy_sell": 5000,
         "dealer_self_buy_sell": 0,
         "dealer_hedging_buy_sell": 0,
-        "margin_date": "2026-09-11",
-        "margin_today_balance": 5209,
-        "margin_delta_estimated": -276,
+        "margin_date": "2026-09-14",
+        "margin_today_balance": 5056,
+        "margin_delta_estimated": -153,
         "technical": {
           "pct_change_5d": -1.834862385321101,
           "pct_change_20d": 5.07364975450082,
@@ -107,7 +107,7 @@
         "freshness": {
           "price": "fresh",
           "institutional": "fresh",
-          "margin": "weekend_or_holiday_possible"
+          "margin": "fresh"
         }
       }
     }
@@ -224,21 +224,21 @@
       "^VIX": {
         "date": "2026-09-14",
         "open": 17.5,
-        "high": 17.809999465942383,
-        "low": 17.479999542236328,
-        "close": 17.729999542236328,
+        "high": 18.170000076293945,
+        "low": 17.459999084472656,
+        "close": 17.799999237060547,
         "previous_close": 15.84000015258789,
-        "pct_change": 11.931814213648572,
+        "pct_change": 12.373731474695958,
         "volume": 0.0,
-        "intraday_or_latest_price": 17.729999542236328,
-        "intraday_vs_previous_close_pct": 11.931814213648572,
+        "intraday_or_latest_price": 17.799999237060547,
+        "intraday_vs_previous_close_pct": 12.373731474695958,
         "technical": {
-          "pct_change_5d": 15.882348504629352,
-          "pct_change_20d": 16.72152753139795,
+          "pct_change_5d": 16.33986284418214,
+          "pct_change_20d": 17.182355028158504,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -49.773371316047886,
-          "pct_from_52w_low": 32.51120620769272
+          "pct_from_52w_high": -49.57507189299655,
+          "pct_from_52w_low": 33.03437283120172
         },
         "freshness": "fresh"
       },
