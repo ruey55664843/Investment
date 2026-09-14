@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-09-14 09:16:19 CST",
+  "generated_at": "2026-09-14 14:31:28 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -19,13 +19,13 @@
     "stocks": {
       "0050": {
         "name": "元大台灣50",
-        "price_date": "2026-09-11",
-        "open": 107.4,
-        "max": 108.0,
-        "min": 106.9,
-        "close": 107.7,
-        "spread": -1.45,
-        "trading_volume": 102009319,
+        "price_date": "2026-09-14",
+        "open": 106.3,
+        "max": 107.15,
+        "min": 105.85,
+        "close": 106.9,
+        "spread": -0.8,
+        "trading_volume": 82356000,
         "institutional_date": "2026-09-11",
         "foreign_investor_buy_sell": -42145297,
         "investment_trust_buy_sell": 1668000,
@@ -35,28 +35,28 @@
         "margin_today_balance": 17991,
         "margin_delta_estimated": 294,
         "technical": {
-          "pct_change_5d": -0.1853568118628357,
-          "pct_change_20d": 1.2218045112782017,
+          "pct_change_5d": -2.729754322111011,
+          "pct_change_20d": 0.42273367778300486,
           "high_60d": 111.15,
           "low_60d": 93.5,
-          "pct_from_60d_high": -3.103913630229427,
-          "pct_from_60d_low": 15.187165775401068
+          "pct_from_60d_high": -3.8236617183985633,
+          "pct_from_60d_low": 14.331550802139038
         },
         "freshness": {
-          "price": "weekend_or_holiday_possible",
+          "price": "fresh",
           "institutional": "weekend_or_holiday_possible",
           "margin": "weekend_or_holiday_possible"
         }
       },
       "00988A": {
         "name": "主動統一台股增長",
-        "price_date": "2026-09-11",
-        "open": 15.99,
-        "max": 15.99,
-        "min": 15.88,
-        "close": 15.96,
-        "spread": -0.31,
-        "trading_volume": 18185846,
+        "price_date": "2026-09-14",
+        "open": 15.73,
+        "max": 15.8,
+        "min": 15.6,
+        "close": 15.76,
+        "spread": -0.2,
+        "trading_volume": 16810000,
         "institutional_date": "2026-09-11",
         "foreign_investor_buy_sell": -358174,
         "investment_trust_buy_sell": 0,
@@ -66,28 +66,28 @@
         "margin_today_balance": 53181,
         "margin_delta_estimated": -506,
         "technical": {
-          "pct_change_5d": -0.18761726078798668,
-          "pct_change_20d": -8.117443868739205,
+          "pct_change_5d": -3.075030750307517,
+          "pct_change_20d": -10.91011871113624,
           "high_60d": 23.73,
           "low_60d": 14.16,
-          "pct_from_60d_high": -32.743362831858406,
-          "pct_from_60d_low": 12.711864406779672
+          "pct_from_60d_high": -33.58617783396545,
+          "pct_from_60d_low": 11.299435028248595
         },
         "freshness": {
-          "price": "weekend_or_holiday_possible",
+          "price": "fresh",
           "institutional": "weekend_or_holiday_possible",
           "margin": "weekend_or_holiday_possible"
         }
       },
       "6005": {
         "name": "群益證",
-        "price_date": "2026-09-11",
-        "open": 31.0,
-        "max": 31.75,
-        "min": 30.9,
-        "close": 31.5,
-        "spread": -0.1,
-        "trading_volume": 4322098,
+        "price_date": "2026-09-14",
+        "open": 31.4,
+        "max": 32.15,
+        "min": 31.05,
+        "close": 32.1,
+        "spread": 0.6,
+        "trading_volume": 3901000,
         "institutional_date": "2026-09-11",
         "foreign_investor_buy_sell": -507933,
         "investment_trust_buy_sell": -2000,
@@ -97,15 +97,15 @@
         "margin_today_balance": 5209,
         "margin_delta_estimated": -276,
         "technical": {
-          "pct_change_5d": -3.8167938931297662,
-          "pct_change_20d": 1.9417475728155331,
+          "pct_change_5d": -1.834862385321101,
+          "pct_change_20d": 5.07364975450082,
           "high_60d": 39.8,
           "low_60d": 30.0,
-          "pct_from_60d_high": -20.854271356783915,
-          "pct_from_60d_low": 5.000000000000004
+          "pct_from_60d_high": -19.3467336683417,
+          "pct_from_60d_low": 7.000000000000006
         },
         "freshness": {
-          "price": "weekend_or_holiday_possible",
+          "price": "fresh",
           "institutional": "weekend_or_holiday_possible",
           "margin": "weekend_or_holiday_possible"
         }
