@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-09-21 16:02:59 CST
+- Generated at: 2026-09-21 16:36:05 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -21,11 +21,11 @@
 - Close: 111.35
 - Spread: 1.5
 - Trading volume: 119595084
-- Foreign investor buy/sell: -16340894
-- Investment trust buy/sell: 920000
+- Foreign investor buy/sell: -15742529
+- Investment trust buy/sell: 2704000
 - Margin delta estimated: 15885
 - Technical: {'pct_change_5d': 4.162768942937323, 'pct_change_20d': 7.273603082851632, 'high_60d': 111.35, 'low_60d': 93.5, 'pct_from_60d_high': 0.0, 'pct_from_60d_low': 19.090909090909093}
-- Freshness: {'price': 'fresh', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
+- Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'weekend_or_holiday_possible'}
 
 ### 00988A 主動統一台股增長
 - Price date: 2026-09-21
@@ -49,11 +49,11 @@
 - Close: 32.25
 - Spread: 0.75
 - Trading volume: 10749030
-- Foreign investor buy/sell: -1466982
-- Investment trust buy/sell: -540321
+- Foreign investor buy/sell: 1635141
+- Investment trust buy/sell: 4583
 - Margin delta estimated: -82
 - Technical: {'pct_change_5d': 0.4672897196261738, 'pct_change_20d': 6.6115702479338845, 'high_60d': 38.45, 'low_60d': 30.0, 'pct_from_60d_high': -16.124837451235376, 'pct_from_60d_low': 7.499999999999996}
-- Freshness: {'price': 'fresh', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
+- Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'weekend_or_holiday_possible'}
 
 ## US
 
@@ -126,13 +126,13 @@
 - Date: 2026-09-21
 - Open: 14.960000038146973
 - High: 14.989999771118164
-- Low: 14.9399995803833
-- Close: 14.979999542236328
+- Low: 14.90999984741211
+- Close: 14.949999809265137
 - Previous close: 14.8100004196167
-- Pct change: 1.147867101978295
-- Intraday/latest price: 14.979999542236328
-- Intraday vs previous close pct: 1.147867101978295
-- Technical: {'pct_change_5d': -12.397665449941863, 'pct_change_20d': -5.488964153278619, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.563739756375924, 'pct_from_52w_low': 11.958142108448456}
+- Pct change: 0.9453030768520554
+- Intraday/latest price: 14.949999809265137
+- Intraday vs previous close pct: 0.9453030768520554
+- Technical: {'pct_change_5d': -12.57310248094743, 'pct_change_20d': -5.678236911948487, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -57.648724837451205, 'pct_from_52w_low': 11.733928859460407}
 - Freshness: fresh
 
 ### NVDA
