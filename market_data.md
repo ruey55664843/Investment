@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-09-24 04:32:24 CST
+- Generated at: 2026-09-24 07:15:51 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -98,7 +98,7 @@
 
 ### SOXX
 - Date: 2026-09-23
-- Open: 570.4000244140625
+- Open: 570.280029296875
 - High: 571.5499877929688
 - Low: 557.0700073242188
 - Close: 565.719970703125
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-09-23
-- Open: 604.3900146484375
+- Open: 605.02001953125
 - High: 606.2849731445312
 - Low: 593.7899780273438
 - Close: 601.4099731445312
@@ -215,7 +215,7 @@
 
 ### AMZN
 - Date: 2026-09-23
-- Open: 253.0
+- Open: 253.3300018310547
 - High: 253.80999755859375
 - Low: 247.75999450683594
 - Close: 249.27000427246094
