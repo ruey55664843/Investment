@@ -1,16 +1,16 @@
 # Public Market Data
 
-- Generated at: 2026-09-24 20:22:12 CST
+- Generated at: 2026-09-25 01:22:48 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
 
 ### Market margin
-- Date: 2026-09-23
-- Today balance: 606367833000
-- Yesterday balance: 604861415000
-- Delta: 1506418000
+- Date: 2026-09-24
+- Today balance: 615103402000
+- Yesterday balance: 606367833000
+- Delta: 8735569000
 - Freshness: fresh
 
 ### 0050 元大台灣50
@@ -23,7 +23,7 @@
 - Trading volume: 70487939
 - Foreign investor buy/sell: -31362347
 - Investment trust buy/sell: 0
-- Margin delta estimated: -7648
+- Margin delta estimated: -4108
 - Technical: {'pct_change_5d': 4.025913928736702, 'pct_change_20d': 5.987741631305998, 'high_60d': 112.45, 'low_60d': 93.5, 'pct_from_60d_high': -0.044464206313910015, 'pct_from_60d_low': 20.21390374331551}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
@@ -37,7 +37,7 @@
 - Trading volume: 15401528
 - Foreign investor buy/sell: 2412020
 - Investment trust buy/sell: -132000
-- Margin delta estimated: -548
+- Margin delta estimated: -320
 - Technical: {'pct_change_5d': 5.886036318096433, 'pct_change_20d': 2.298850574712641, 'high_60d': 21.84, 'low_60d': 14.16, 'pct_from_60d_high': -22.57326007326007, 'pct_from_60d_low': 19.42090395480225}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
@@ -51,190 +51,190 @@
 - Trading volume: 6338990
 - Foreign investor buy/sell: -4357856
 - Investment trust buy/sell: -3000
-- Margin delta estimated: -29
+- Margin delta estimated: 167
 - Technical: {'pct_change_5d': 2.2364217252396124, 'pct_change_20d': 2.893890675241151, 'high_60d': 38.45, 'low_60d': 30.0, 'pct_from_60d_high': -16.77503250975293, 'pct_from_60d_low': 6.666666666666665}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ## US
 
 ### SPY
-- Date: 2026-09-23
-- Open: 772.7899780273438
-- High: 773.0499877929688
-- Low: 766.5
-- Close: 767.8099975585938
-- Previous close: 773.3800048828125
-- Pct change: -0.7202161019229769
-- Intraday/latest price: 767.8099975585938
-- Intraday vs previous close pct: -0.7202161019229769
-- Technical: {'pct_change_5d': 1.8248140028354287, 'pct_change_20d': 0.24807411845830796, 'high_52w': 779.3699951171875, 'low_52w': 629.280029296875, 'pct_from_52w_high': -1.4832489871329457, 'pct_from_52w_low': 22.014041732184797}
+- Date: 2026-09-24
+- Open: 764.0650024414062
+- High: 768.9500122070312
+- Low: 763.2449951171875
+- Close: 767.72998046875
+- Previous close: 767.8099975585938
+- Pct change: -0.01042147016816486
+- Intraday/latest price: 767.72998046875
+- Intraday vs previous close pct: -0.01042147016816486
+- Technical: {'pct_change_5d': 0.672699324291326, 'pct_change_20d': 0.2153774203867309, 'high_52w': 779.3699951171875, 'low_52w': 629.280029296875, 'pct_from_52w_high': -1.4935158809503912, 'pct_from_52w_low': 22.001326075224693}
 - Freshness: fresh
 
 ### QQQ
-- Date: 2026-09-23
-- Open: 746.969970703125
-- High: 747.1300048828125
-- Low: 738.1900024414062
-- Close: 741.2100219726562
-- Previous close: 747.4600219726562
-- Pct change: -0.8361651213807164
-- Intraday/latest price: 741.2100219726562
-- Intraday vs previous close pct: -0.8361651213807164
-- Technical: {'pct_change_5d': 5.177950503250783, 'pct_change_20d': 4.290023149253419, 'high_52w': 748.6500244140625, 'low_52w': 555.5999755859375, 'pct_from_52w_high': -0.9937891135753607, 'pct_from_52w_low': 33.40713724671674}
+- Date: 2026-09-24
+- Open: 735.1599731445312
+- High: 742.6500244140625
+- Low: 734.630126953125
+- Close: 740.9400024414062
+- Previous close: 741.2100219726562
+- Pct change: -0.036429557513451005
+- Intraday/latest price: 740.9400024414062
+- Intraday vs previous close pct: -0.036429557513451005
+- Technical: {'pct_change_5d': 3.3504463683306396, 'pct_change_20d': 4.156768984801995, 'high_52w': 748.6500244140625, 'low_52w': 555.5999755859375, 'pct_from_52w_high': -1.0298566381121255, 'pct_from_52w_low': 33.35853761692638}
 - Freshness: fresh
 
 ### ^IXIC
-- Date: 2026-09-23
-- Open: 27213.51953125
-- High: 27217.330078125
-- Low: 26873.5390625
-- Close: 26936.0390625
-- Previous close: 27122.08984375
-- Pct change: -0.685975093814073
-- Intraday/latest price: 26936.0390625
-- Intraday vs previous close pct: -0.685975093814073
-- Technical: {'pct_change_5d': 3.6736376536132376, 'pct_change_20d': 3.6791479565597474, 'high_52w': 27217.330078125, 'low_52w': 20690.25, 'pct_from_52w_high': -1.0334996666373164, 'pct_from_52w_low': 30.187112589263055}
+- Date: 2026-09-24
+- Open: 26734.5078125
+- High: 26971.041015625
+- Low: 26706.138671875
+- Close: 26924.236328125
+- Previous close: 26936.0390625
+- Pct change: -0.04381763164069685
+- Intraday/latest price: 26924.236328125
+- Intraday vs previous close pct: -0.04381763164069685
+- Technical: {'pct_change_5d': 3.640738304825608, 'pct_change_20d': 2.9556294478062073, 'high_52w': 27217.330078125, 'low_52w': 20690.25, 'pct_from_52w_high': -1.0768644432010754, 'pct_from_52w_low': 30.130067679825046}
 - Freshness: fresh
 
 ### SOXX
-- Date: 2026-09-23
-- Open: 570.4000244140625
-- High: 571.5499877929688
-- Low: 557.0499877929688
-- Close: 565.719970703125
-- Previous close: 572.780029296875
-- Pct change: -1.2325951032923887
-- Intraday/latest price: 565.719970703125
-- Intraday vs previous close pct: -1.2325951032923887
-- Technical: {'pct_change_5d': 12.679754103911002, 'pct_change_20d': 10.049405398178823, 'high_52w': 655.9500122070312, 'low_52w': 260.44000244140625, 'pct_from_52w_high': -13.7556276888105, 'pct_from_52w_low': 117.21700407002591}
+- Date: 2026-09-24
+- Open: 554.9650268554688
+- High: 566.8099975585938
+- Low: 553.239990234375
+- Close: 564.0499877929688
+- Previous close: 565.719970703125
+- Pct change: -0.2951960327793768
+- Intraday/latest price: 564.0499877929688
+- Intraday vs previous close pct: -0.2951960327793768
+- Technical: {'pct_change_5d': 8.659220635927323, 'pct_change_20d': 9.439262917035052, 'high_52w': 655.9500122070312, 'low_52w': 260.44000244140625, 'pct_from_52w_high': -14.010217654368606, 'pct_from_52w_low': 116.575788091489}
 - Freshness: fresh
 
 ### SMH
-- Date: 2026-09-23
-- Open: 604.3900146484375
-- High: 606.2899780273438
-- Low: 593.7899780273438
-- Close: 601.4099731445312
-- Previous close: 607.4600219726562
-- Pct change: -0.9959583526958915
-- Intraday/latest price: 601.4099731445312
-- Intraday vs previous close pct: -0.9959583526958915
-- Technical: {'pct_change_5d': 10.23718304785335, 'pct_change_20d': 8.202289449742528, 'high_52w': 671.8300170898438, 'low_52w': 313.6000061035156, 'pct_from_52w_high': -10.481824591635537, 'pct_from_52w_low': 91.77613566308828}
+- Date: 2026-09-24
+- Open: 591.6199951171875
+- High: 602.030029296875
+- Low: 588.9199829101562
+- Close: 599.3400268554688
+- Previous close: 601.4099731445312
+- Pct change: -0.3441822353293489
+- Intraday/latest price: 599.3400268554688
+- Intraday vs previous close pct: -0.3441822353293489
+- Technical: {'pct_change_5d': 6.9085536319190455, 'pct_change_20d': 7.839574966812135, 'high_52w': 671.8300170898438, 'low_52w': 313.6000061035156, 'pct_from_52w_high': -10.789930248782099, 'pct_from_52w_low': 91.11607627253481}
 - Freshness: fresh
 
 ### ^VIX
 - Date: 2026-09-24
 - Open: 15.829999923706055
 - High: 16.56999969482422
-- Low: 15.770000457763672
-- Close: 16.100000381469727
+- Low: 15.34000015258789
+- Close: 15.359999656677246
 - Previous close: 15.180000305175781
-- Pct change: 6.0606064413599725
-- Intraday/latest price: 16.100000381469727
-- Intraday vs previous close pct: 6.0606064413599725
-- Technical: {'pct_change_5d': -9.090902237338373, 'pct_change_20d': 5.851415786263092, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -54.390932777792365, 'pct_from_52w_low': 20.32885085025624}
+- Pct change: 1.185766455090853
+- Intraday/latest price: 15.359999656677246
+- Intraday vs previous close pct: 1.185766455090853
+- Technical: {'pct_change_5d': -13.269336811292021, 'pct_change_20d': 0.9861907833929706, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.48725215678989, 'pct_from_52w_low': 14.798202730202759}
 - Freshness: fresh
 
 ### NVDA
-- Date: 2026-09-23
-- Open: 228.02999877929688
-- High: 228.9499969482422
-- Low: 224.02000427246094
-- Close: 225.50999450683594
-- Previous close: 228.8699951171875
-- Pct change: -1.4680826154739757
-- Intraday/latest price: 225.50999450683594
-- Intraday vs previous close pct: -1.4680826154739757
-- Technical: {'pct_change_5d': 5.427770426197465, 'pct_change_20d': 5.84838830161909, 'high_52w': 236.5399932861328, 'low_52w': 164.27000427246094, 'pct_from_52w_high': -4.663058718342961, 'pct_from_52w_low': 37.28008074608762}
+- Date: 2026-09-24
+- Open: 222.11599731445312
+- High: 224.6300048828125
+- Low: 221.09080505371094
+- Close: 224.36000061035156
+- Previous close: 225.50999450683594
+- Pct change: -0.5099525185122133
+- Intraday/latest price: 224.36000061035156
+- Intraday vs previous close pct: -0.5099525185122133
+- Technical: {'pct_change_5d': 2.288686220605052, 'pct_change_20d': 7.0113501342549345, 'high_52w': 236.5399932861328, 'low_52w': 164.27000427246094, 'pct_from_52w_high': -5.149231851481284, 'pct_from_52w_low': 36.58001751690734}
 - Freshness: fresh
 
 ### TSM
-- Date: 2026-09-23
-- Open: 449.7900085449219
-- High: 450.8800048828125
-- Low: 442.8699951171875
-- Close: 446.57000732421875
-- Previous close: 452.0
-- Pct change: -1.2013258132259397
-- Intraday/latest price: 446.57000732421875
-- Intraday vs previous close pct: -1.2013258132259397
-- Technical: {'pct_change_5d': 6.9065417071739965, 'pct_change_20d': 6.985937904285167, 'high_52w': 479.0, 'low_52w': 266.82000732421875, 'pct_from_52w_high': -6.770353376989824, 'pct_from_52w_low': 67.36751183039355}
+- Date: 2026-09-24
+- Open: 441.79998779296875
+- High: 452.5400085449219
+- Low: 440.69000244140625
+- Close: 450.75
+- Previous close: 446.57000732421875
+- Pct change: 0.936021812308252
+- Intraday/latest price: 450.75
+- Intraday vs previous close pct: 0.936021812308252
+- Technical: {'pct_change_5d': 4.762234409267196, 'pct_change_20d': 7.914960225372258, 'high_52w': 479.0, 'low_52w': 266.82000732421875, 'pct_from_52w_high': -5.89770354906054, 'pct_from_52w_low': 68.93410824784362}
 - Freshness: fresh
 
 ### AVGO
-- Date: 2026-09-23
-- Open: 362.20001220703125
-- High: 362.8999938964844
-- Low: 354.010009765625
-- Close: 354.989990234375
-- Previous close: 364.5400085449219
-- Pct change: -2.619744907744481
-- Intraday/latest price: 354.989990234375
-- Intraday vs previous close pct: -2.619744907744481
-- Technical: {'pct_change_5d': 4.559506354300513, 'pct_change_20d': -0.49055335760094243, 'high_52w': 495.0, 'low_52w': 289.9599914550781, 'pct_from_52w_high': -28.284850457702014, 'pct_from_52w_low': 22.42723158217903}
+- Date: 2026-09-24
+- Open: 349.2099914550781
+- High: 351.4299011230469
+- Low: 346.8900146484375
+- Close: 350.25
+- Previous close: 354.989990234375
+- Pct change: -1.3352461660244286
+- Intraday/latest price: 350.25
+- Intraday vs previous close pct: -1.3352461660244286
+- Technical: {'pct_change_5d': 0.8494132769131468, 'pct_change_20d': -1.5017285055500929, 'high_52w': 495.0, 'low_52w': 289.9599914550781, 'pct_from_52w_high': -29.24242424242425, 'pct_from_52w_low': 20.79252666630813}
 - Freshness: fresh
 
 ### MSFT
-- Date: 2026-09-23
-- Open: 500.760009765625
-- High: 509.44000244140625
-- Low: 495.8800048828125
-- Close: 500.5899963378906
-- Previous close: 498.0
-- Pct change: 0.5200795859218177
-- Intraday/latest price: 500.5899963378906
-- Intraday vs previous close pct: 0.5200795859218177
-- Technical: {'pct_change_5d': 2.0987168674511336, 'pct_change_20d': 1.8059435515098254, 'high_52w': 553.719970703125, 'low_52w': 349.20001220703125, 'pct_from_52w_high': -9.595098095842348, 'pct_from_52w_low': 43.3533730924111}
+- Date: 2026-09-24
+- Open: 495.3900146484375
+- High: 496.9800109863281
+- Low: 491.2200012207031
+- Close: 495.92999267578125
+- Previous close: 500.5899963378906
+- Pct change: -0.9309022745560336
+- Intraday/latest price: 495.92999267578125
+- Intraday vs previous close pct: -0.9309022745560336
+- Technical: {'pct_change_5d': -0.3656468757847864, 'pct_change_20d': -0.08864404491297773, 'high_52w': 553.719970703125, 'low_52w': 349.20001220703125, 'pct_from_52w_high': -10.436679383978309, 'pct_from_52w_low': 42.018893281641056}
 - Freshness: fresh
 
 ### GOOGL
-- Date: 2026-09-23
-- Open: 349.8599853515625
-- High: 350.0
-- Low: 337.45001220703125
-- Close: 337.8299865722656
-- Previous close: 351.1600036621094
-- Pct change: -3.795995258808027
-- Intraday/latest price: 337.8299865722656
-- Intraday vs previous close pct: -3.795995258808027
-- Technical: {'pct_change_5d': -1.469947390176063, 'pct_change_20d': -2.631428725981677, 'high_52w': 408.6099853515625, 'low_52w': 235.83999633789062, 'pct_from_52w_high': -17.32214123901028, 'pct_from_52w_low': 43.245417154880194}
+- Date: 2026-09-24
+- Open: 336.2349853515625
+- High: 343.0899963378906
+- Low: 336.0201110839844
+- Close: 341.79998779296875
+- Previous close: 337.8299865722656
+- Pct change: 1.1751476714616294
+- Intraday/latest price: 341.79998779296875
+- Intraday vs previous close pct: 1.1751476714616294
+- Technical: {'pct_change_5d': -1.5921455080430524, 'pct_change_20d': -0.05848310147112956, 'high_52w': 408.6099853515625, 'low_52w': 235.83999633789062, 'pct_from_52w_high': -16.35055430696617, 'pct_from_52w_low': 44.928762339051275}
 - Freshness: fresh
 
 ### META
-- Date: 2026-09-23
-- Open: 747.5999755859375
-- High: 763.9000244140625
-- Low: 739.510009765625
-- Close: 744.0999755859375
-- Previous close: 736.5999755859375
-- Pct change: 1.0181917253030193
-- Intraday/latest price: 744.0999755859375
-- Intraday vs previous close pct: 1.0181917253030193
-- Technical: {'pct_change_5d': 10.513727448578901, 'pct_change_20d': 30.532407950191963, 'high_52w': 763.9000244140625, 'low_52w': 520.260009765625, 'pct_from_52w_high': -2.591968607843975, 'pct_from_52w_low': 43.02463414805828}
+- Date: 2026-09-24
+- Open: 744.3499755859375
+- High: 774.25
+- Low: 743.0059814453125
+- Close: 770.8400268554688
+- Previous close: 744.0999755859375
+- Pct change: 3.5936100183950437
+- Intraday/latest price: 770.8400268554688
+- Intraday vs previous close pct: 3.5936100183950437
+- Technical: {'pct_change_5d': 12.97504501086728, 'pct_change_20d': 33.79387080514409, 'high_52w': 774.25, 'low_52w': 520.260009765625, 'pct_from_52w_high': -0.44042275034307243, 'pct_from_52w_low': 48.16438172957576}
 - Freshness: fresh
 
 ### AMZN
-- Date: 2026-09-23
-- Open: 253.0
-- High: 253.99000549316406
-- Low: 247.75999450683594
-- Close: 249.27000427246094
-- Previous close: 254.97999572753906
-- Pct change: -2.2393880111205244
-- Intraday/latest price: 249.27000427246094
-- Intraday vs previous close pct: -2.2393880111205244
-- Technical: {'pct_change_5d': 1.3457462466425874, 'pct_change_20d': -4.516200642148016, 'high_52w': 287.20001220703125, 'low_52w': 196.0, 'pct_from_52w_high': -13.206826713930653, 'pct_from_52w_low': 27.178573608398438}
+- Date: 2026-09-24
+- Open: 245.97000122070312
+- High: 249.73899841308594
+- Low: 245.60499572753906
+- Close: 249.22000122070312
+- Previous close: 249.27000427246094
+- Pct change: -0.02005979496159105
+- Intraday/latest price: 249.22000122070312
+- Intraday vs previous close pct: -0.02005979496159105
+- Technical: {'pct_change_5d': -0.7842673679509415, 'pct_change_20d': -4.249269098841523, 'high_52w': 287.20001220703125, 'low_52w': 196.0, 'pct_from_52w_high': -13.2242372465325, 'pct_from_52w_low': 27.15306184729751}
 - Freshness: fresh
 
 ### AMBA
-- Date: 2026-09-23
-- Open: 67.05000305175781
-- High: 70.33000183105469
-- Low: 63.650001525878906
-- Close: 67.62000274658203
-- Previous close: 68.8499984741211
-- Pct change: -1.786486208857918
-- Intraday/latest price: 67.62000274658203
-- Intraday vs previous close pct: -1.786486208857918
-- Technical: {'pct_change_5d': 5.114255902195741, 'pct_change_20d': -3.3999960763113846, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -30.065155611554072, 'pct_from_52w_low': 40.000007897924064}
+- Date: 2026-09-24
+- Open: 66.61000061035156
+- High: 71.0
+- Low: 65.61000061035156
+- Close: 69.75499725341797
+- Previous close: 67.62000274658203
+- Pct change: 3.1573416446568414
+- Intraday/latest price: 69.75499725341797
+- Intraday vs previous close pct: 3.1573416446568414
+- Technical: {'pct_change_5d': 11.127922167778737, 'pct_change_20d': -1.4481513754683983, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -27.85707364555171, 'pct_from_52w_low': 44.42028644980811}
 - Freshness: fresh
