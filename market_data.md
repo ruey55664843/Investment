@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-09-25 16:32:53 CST
+- Generated at: 2026-09-25 21:16:29 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -93,7 +93,7 @@
 - Pct change: 0.012362909473329076
 - Intraday/latest price: 26939.369140625
 - Intraday vs previous close pct: 0.012362909473329076
-- Technical: {'pct_change_5d': 3.6989897568264984, 'pct_change_20d': 3.0134958332169504, 'high_52w': 27217.330078125, 'low_52w': 20690.25, 'pct_from_52w_high': -1.0212645277921761, 'pct_from_52w_low': 30.20320750413843}
+- Technical: {'pct_change_5d': 1.9723765116067549, 'pct_change_20d': 3.0966848553315662, 'high_52w': 27288.7890625, 'low_52w': 20690.25, 'pct_from_52w_high': -1.2804522805124008, 'pct_from_52w_low': 30.20320750413843}
 - Freshness: fresh
 
 ### SOXX
@@ -126,13 +126,13 @@
 - Date: 2026-09-25
 - Open: 15.609999656677246
 - High: 15.640000343322754
-- Low: 15.539999961853027
-- Close: 15.550000190734863
+- Low: 15.020000457763672
+- Close: 15.229999542236328
 - Previous close: 15.670000076293945
-- Pct change: -0.7657937777589496
-- Intraday/latest price: 15.550000190734863
-- Intraday vs previous close pct: -0.7657937777589496
-- Technical: {'pct_change_5d': 0.7124392055769091, 'pct_change_20d': 7.1674703338937995, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -55.94900700618337, 'pct_from_52w_low': 16.218236604885263}
+- Pct change: -2.8079166044374437
+- Intraday/latest price: 15.229999542236328
+- Intraday vs previous close pct: -2.8079166044374437
+- Technical: {'pct_change_5d': 2.835915669950384, 'pct_change_20d': 5.544000139581429, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.85552444361883, 'pct_from_52w_low': 13.826602481107031}
 - Freshness: fresh
 
 ### NVDA
@@ -236,5 +236,5 @@
 - Pct change: 3.312626105864447
 - Intraday/latest price: 69.86000061035156
 - Intraday vs previous close pct: 3.312626105864447
-- Technical: {'pct_change_5d': 11.295204876346254, 'pct_change_20d': -1.2997996394631395, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -27.748475699246733, 'pct_from_52w_low': 44.63768470776299}
+- Technical: {'pct_change_5d': 4.408902685373417, 'pct_change_20d': 0.31591215196913325, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -27.748475699246733, 'pct_from_52w_low': 44.63768470776299}
 - Freshness: fresh
