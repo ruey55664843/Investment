@@ -1,7 +1,7 @@
 # Public Market Data
 
-- Generated at: 2026-09-26 11:23:14 CST
-- Market mode: tw_intraday
+- Generated at: 2026-09-26 16:43:28 CST
+- Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
@@ -85,15 +85,15 @@
 
 ### ^IXIC
 - Date: 2026-09-25
-- Open: 26970.951171875
-- High: 27122.763671875
-- Low: 26876.271484375
-- Close: 27068.716796875
+- Open: 26970.94921875
+- High: 27122.759765625
+- Low: 26876.26953125
+- Close: 27068.720703125
 - Previous close: 26939.369140625
-- Pct change: 0.4801435979246538
-- Intraday/latest price: 27068.716796875
-- Intraday vs previous close pct: 0.4801435979246538
-- Technical: {'pct_change_5d': 2.0592965593827284, 'pct_change_20d': 1.9869644734031189, 'high_52w': 27288.7890625, 'low_52w': 20690.25, 'pct_from_52w_high': -0.8064566922371119, 'pct_from_52w_low': 30.828369869262097}
+- Pct change: 0.480158098078598
+- Intraday/latest price: 27068.720703125
+- Intraday vs previous close pct: 0.480158098078598
+- Technical: {'pct_change_5d': 2.0593112874221164, 'pct_change_20d': 1.9869791910043677, 'high_52w': 27288.7890625, 'low_52w': 20690.25, 'pct_from_52w_high': -0.8064423777507046, 'pct_from_52w_low': 30.828388748927637}
 - Freshness: fresh
 
 ### SOXX

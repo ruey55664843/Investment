@@ -1,8 +1,8 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-09-26 11:23:14 CST",
+  "generated_at": "2026-09-26 16:43:28 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "tw_intraday",
+  "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
@@ -160,22 +160,22 @@
       },
       "^IXIC": {
         "date": "2026-09-25",
-        "open": 26970.951171875,
-        "high": 27122.763671875,
-        "low": 26876.271484375,
-        "close": 27068.716796875,
+        "open": 26970.94921875,
+        "high": 27122.759765625,
+        "low": 26876.26953125,
+        "close": 27068.720703125,
         "previous_close": 26939.369140625,
-        "pct_change": 0.4801435979246538,
-        "volume": 6299972000.0,
-        "intraday_or_latest_price": 27068.716796875,
-        "intraday_vs_previous_close_pct": 0.4801435979246538,
+        "pct_change": 0.480158098078598,
+        "volume": 7275260000.0,
+        "intraday_or_latest_price": 27068.720703125,
+        "intraday_vs_previous_close_pct": 0.480158098078598,
         "technical": {
-          "pct_change_5d": 2.0592965593827284,
-          "pct_change_20d": 1.9869644734031189,
+          "pct_change_5d": 2.0593112874221164,
+          "pct_change_20d": 1.9869791910043677,
           "high_52w": 27288.7890625,
           "low_52w": 20690.25,
-          "pct_from_52w_high": -0.8064566922371119,
-          "pct_from_52w_low": 30.828369869262097
+          "pct_from_52w_high": -0.8064423777507046,
+          "pct_from_52w_low": 30.828388748927637
         },
         "freshness": "fresh"
       },
