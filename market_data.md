@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-02 04:52:15 CST
+- Generated at: 2026-10-02 05:28:00 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-10-01
-- Open: 610.875
+- Open: 610.7899780273438
 - High: 620.9000244140625
 - Low: 607.25
 - Close: 617.8099975585938
@@ -163,7 +163,7 @@
 
 ### AVGO
 - Date: 2026-10-01
-- Open: 352.1499938964844
+- Open: 351.94000244140625
 - High: 354.45001220703125
 - Low: 343.2900085449219
 - Close: 343.6400146484375
@@ -215,7 +215,7 @@
 
 ### AMZN
 - Date: 2026-10-01
-- Open: 251.60499572753906
+- Open: 251.5
 - High: 251.8300018310547
 - Low: 246.11669921875
 - Close: 248.22999572753906
