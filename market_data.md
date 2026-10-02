@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-03 04:27:30 CST
+- Generated at: 2026-10-03 06:38:37 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -98,7 +98,7 @@
 
 ### SOXX
 - Date: 2026-10-02
-- Open: 590.9099731445312
+- Open: 590.594970703125
 - High: 596.4400024414062
 - Low: 587.25
 - Close: 588.9000244140625
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-10-02
-- Open: 632.27001953125
+- Open: 632.5
 - High: 636.2498779296875
 - Low: 628.5499877929688
 - Close: 630.5999755859375
@@ -127,12 +127,12 @@
 - Open: 16.149999618530273
 - High: 16.239999771118164
 - Low: 15.300000190734863
-- Close: 15.34000015258789
+- Close: 15.3100004196167
 - Previous close: 16.389999389648438
-- Pct change: -6.406340916179065
-- Intraday/latest price: 15.34000015258789
-- Intraday vs previous close pct: -6.406340916179065
-- Technical: {'pct_change_5d': 3.1607281146333266, 'pct_change_20d': 5.574676080541563, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.54390797696441, 'pct_from_52w_low': 14.648729606747612}
+- Pct change: -6.5893777318493445
+- Intraday/latest price: 15.3100004196167
+- Intraday vs previous close pct: -6.5893777318493445
+- Technical: {'pct_change_5d': 2.9589814219495914, 'pct_change_20d': 5.36820854081328, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.62889305803971, 'pct_from_52w_low': 14.424516357759586}
 - Freshness: fresh
 
 ### NVDA
@@ -163,7 +163,7 @@
 
 ### AVGO
 - Date: 2026-10-02
-- Open: 349.8550109863281
+- Open: 349.9800109863281
 - High: 357.3537902832031
 - Low: 347.41571044921875
 - Close: 355.1400146484375
@@ -215,7 +215,7 @@
 
 ### AMZN
 - Date: 2026-10-02
-- Open: 251.5050048828125
+- Open: 251.27999877929688
 - High: 253.5576934814453
 - Low: 250.0200958251953
 - Close: 251.52000427246094
@@ -228,7 +228,7 @@
 
 ### AMBA
 - Date: 2026-10-02
-- Open: 71.49500274658203
+- Open: 71.45999908447266
 - High: 71.5
 - Low: 68.36499786376953
 - Close: 68.6500015258789
