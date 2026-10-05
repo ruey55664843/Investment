@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-05 17:42:28 CST
+- Generated at: 2026-10-05 18:02:03 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -127,12 +127,12 @@
 - Open: 16.239999771118164
 - High: 16.3799991607666
 - Low: 16.06999969482422
-- Close: 16.270000457763672
+- Close: 16.309999465942383
 - Previous close: 15.3100004196167
-- Pct change: 6.270411573058654
-- Intraday/latest price: 16.270000457763672
-- Intraday vs previous close pct: 6.270411573058654
-- Technical: {'pct_change_5d': 1.2445598427974325, 'pct_change_20d': 6.339870947297155, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -53.90934614898738, 'pct_from_52w_low': 21.59940447387292}
+- Pct change: 6.531672233296515
+- Intraday/latest price: 16.309999465942383
+- Intraday vs previous close pct: 6.531672233296515
+- Technical: {'pct_change_5d': 1.4934646899555482, 'pct_change_20d': 6.601302370042705, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -53.79603450863834, 'pct_from_52w_low': 21.89835072078319}
 - Freshness: fresh
 
 ### NVDA
