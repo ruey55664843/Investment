@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-07 04:50:08 CST
+- Generated at: 2026-10-07 07:07:51 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -88,12 +88,12 @@
 - Open: 27641.171875
 - High: 27722.748046875
 - Low: 27592.556640625
-- Close: 27599.791015625
+- Close: 27599.88671875
 - Previous close: 27477.310546875
-- Pct change: 0.44575129920758627
-- Intraday/latest price: 27599.791015625
-- Intraday vs previous close pct: 0.44575129920758627
-- Technical: {'pct_change_5d': 2.9937523414142797, 'pct_change_20d': 4.459946885523269, 'high_52w': 27722.748046875, 'low_52w': 20690.25, 'pct_from_52w_high': -0.4435239646592648, 'pct_from_52w_low': 33.39515479815371}
+- Pct change: 0.4460995979424176
+- Intraday/latest price: 27599.88671875
+- Intraday vs previous close pct: 0.4460995979424176
+- Technical: {'pct_change_5d': 2.9941094754211584, 'pct_change_20d': 4.460309103604865, 'high_52w': 27722.748046875, 'low_52w': 20690.25, 'pct_from_52w_high': -0.4431787495137951, 'pct_from_52w_low': 33.39561734995953}
 - Freshness: fresh
 
 ### SOXX
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-10-06
-- Open: 638.3800048828125
+- Open: 638.0
 - High: 639.469970703125
 - Low: 631.489990234375
 - Close: 632.5
@@ -137,7 +137,7 @@
 
 ### NVDA
 - Date: 2026-10-06
-- Open: 242.0800018310547
+- Open: 242.10000610351562
 - High: 243.3699951171875
 - Low: 238.92999267578125
 - Close: 239.24000549316406
@@ -202,7 +202,7 @@
 
 ### META
 - Date: 2026-10-06
-- Open: 746.7999877929688
+- Open: 746.72998046875
 - High: 747.5999755859375
 - Low: 736.6900024414062
 - Close: 738.8800048828125
@@ -228,7 +228,7 @@
 
 ### AMBA
 - Date: 2026-10-06
-- Open: 68.75
+- Open: 68.80000305175781
 - High: 69.02999877929688
 - Low: 67.02999877929688
 - Close: 67.94000244140625
