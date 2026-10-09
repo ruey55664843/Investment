@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-10 04:38:43 CST
+- Generated at: 2026-10-10 07:21:22 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -215,7 +215,7 @@
 
 ### AMZN
 - Date: 2026-10-09
-- Open: 256.5
+- Open: 256.29998779296875
 - High: 262.79998779296875
 - Low: 256.0
 - Close: 262.42999267578125
