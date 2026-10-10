@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-10-10 10:28:09 CST",
+  "generated_at": "2026-10-10 16:46:04 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -160,13 +160,13 @@
       },
       "^IXIC": {
         "date": "2026-10-09",
-        "open": 27342.265625,
-        "high": 27395.4140625,
-        "low": 27254.033203125,
+        "open": 27342.26953125,
+        "high": 27395.41015625,
+        "low": 27254.029296875,
         "close": 27366.169921875,
         "previous_close": 27193.33984375,
         "pct_change": 0.6355603214539318,
-        "volume": 6095485000.0,
+        "volume": 6845310000.0,
         "intraday_or_latest_price": 27366.169921875,
         "intraday_vs_previous_close_pct": 0.6355603214539318,
         "technical": {
