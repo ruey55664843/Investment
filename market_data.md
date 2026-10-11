@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-11 22:13:50 CST
+- Generated at: 2026-10-12 03:02:27 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -11,7 +11,7 @@
 - Today balance: 646405767000
 - Yesterday balance: 640000774000
 - Delta: 6404993000
-- Freshness: weekend_or_holiday_possible
+- Freshness: stale_over_one_trading_day
 
 ### 0050 元大台灣50
 - Price date: 2026-10-08
@@ -25,7 +25,7 @@
 - Investment trust buy/sell: 0
 - Margin delta estimated: -8249
 - Technical: {'pct_change_5d': 1.8157661647475676, 'pct_change_20d': 4.8335613315093395, 'high_60d': 116.5, 'low_60d': 93.5, 'pct_from_60d_high': -1.3304721030042876, 'pct_from_60d_low': 22.941176470588243}
-- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
+- Freshness: {'price': 'stale_over_one_trading_day', 'institutional': 'stale_over_one_trading_day', 'margin': 'stale_over_one_trading_day'}
 
 ### 00988A 主動統一台股增長
 - Price date: 2026-10-08
@@ -39,7 +39,7 @@
 - Investment trust buy/sell: 0
 - Margin delta estimated: -51
 - Technical: {'pct_change_5d': 0.8149010477299212, 'pct_change_20d': 6.453595574677329, 'high_60d': 19.21, 'low_60d': 14.16, 'pct_from_60d_high': -9.838625715773041, 'pct_from_60d_low': 22.316384180790962}
-- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
+- Freshness: {'price': 'stale_over_one_trading_day', 'institutional': 'stale_over_one_trading_day', 'margin': 'stale_over_one_trading_day'}
 
 ### 6005 群益證
 - Price date: 2026-10-08
@@ -53,7 +53,7 @@
 - Investment trust buy/sell: 10000
 - Margin delta estimated: 98
 - Technical: {'pct_change_5d': 0.4702194357366629, 'pct_change_20d': -1.8376722817764257, 'high_60d': 35.6, 'low_60d': 30.0, 'pct_from_60d_high': -9.971910112359561, 'pct_from_60d_low': 6.8333333333333135}
-- Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
+- Freshness: {'price': 'stale_over_one_trading_day', 'institutional': 'stale_over_one_trading_day', 'margin': 'stale_over_one_trading_day'}
 
 ## US
 
