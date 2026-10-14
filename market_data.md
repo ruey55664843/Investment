@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-14 16:24:40 CST
+- Generated at: 2026-10-14 18:22:20 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -21,8 +21,8 @@
 - Close: 113.0
 - Spread: 0.6
 - Trading volume: 64109641
-- Foreign investor buy/sell: -106149715
-- Investment trust buy/sell: -180000
+- Foreign investor buy/sell: -6925030
+- Investment trust buy/sell: 1350000
 - Margin delta estimated: -11162
 - Technical: {'pct_change_5d': -3.0042918454935674, 'pct_change_20d': 4.921077065923862, 'high_60d': 116.5, 'low_60d': 93.5, 'pct_from_60d_high': -3.0042918454935674, 'pct_from_60d_low': 20.85561497326203}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
@@ -49,8 +49,8 @@
 - Close: 32.95
 - Spread: 0.7
 - Trading volume: 6613787
-- Foreign investor buy/sell: -862578
-- Investment trust buy/sell: -1000
+- Foreign investor buy/sell: 3785440
+- Investment trust buy/sell: 0
 - Margin delta estimated: -39
 - Technical: {'pct_change_5d': 0.6106870229007688, 'pct_change_20d': 4.603174603174609, 'high_60d': 35.6, 'low_60d': 30.0, 'pct_from_60d_high': -7.4438202247191, 'pct_from_60d_low': 9.83333333333334}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
@@ -125,14 +125,14 @@
 ### ^VIX
 - Date: 2026-10-14
 - Open: 15.170000076293945
-- High: 15.229999542236328
-- Low: 15.170000076293945
-- Close: 15.1899995803833
+- High: 15.25
+- Low: 15.15999984741211
+- Close: 15.25
 - Previous close: 15.270000457763672
-- Pct change: -0.523908808003315
-- Intraday/latest price: 15.1899995803833
-- Intraday vs previous close pct: -0.523908808003315
-- Technical: {'pct_change_5d': 0.7294406978366474, 'pct_change_20d': -14.229246947272745, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.96883878559489, 'pct_from_52w_low': 13.527649106586082}
+- Pct change: -0.13097876335362857
+- Intraday/latest price: 15.25
+- Intraday vs previous close pct: -0.13097876335362857
+- Technical: {'pct_change_5d': 1.1273214665386222, 'pct_change_20d': -13.890452917241959, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -56.79886592181729, 'pct_from_52w_low': 13.976082732172834}
 - Freshness: fresh
 
 ### NVDA
