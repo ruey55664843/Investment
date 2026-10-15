@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-15 09:01:57 CST
+- Generated at: 2026-10-15 13:59:52 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -86,8 +86,8 @@
 ### ^IXIC
 - Date: 2026-10-14
 - Open: 27031.640625
-- High: 27134.28515625
-- Low: 26602.115234375
+- High: 27134.2890625
+- Low: 26602.119140625
 - Close: 26692.869140625
 - Previous close: 27204.380859375
 - Pct change: -1.8802549537668578
@@ -203,14 +203,14 @@
 ### META
 - Date: 2026-10-14
 - Open: 760.75
-- High: 761.47998046875
-- Low: 734.2864990234375
-- Close: None
+- High: 761.5
+- Low: 734.2899780273438
+- Close: 737.5399780273438
 - Previous close: 762.5
-- Pct change: None
-- Intraday/latest price: 737.54
-- Intraday vs previous close pct: -3.2734426229508284
-- Technical: {'pct_change_5d': 3.1967295042628185, 'pct_change_20d': 13.765220086817376, 'high_52w': 779.8200073242188, 'low_52w': 520.260009765625, 'pct_from_52w_high': -2.2210262831866223, 'pct_from_52w_low': 46.561331966203426}
+- Pct change: -3.2734455046106503
+- Intraday/latest price: 737.5399780273438
+- Intraday vs previous close pct: -3.2734455046106503
+- Technical: {'pct_change_5d': 2.2500700841085353, 'pct_change_20d': 9.539436619335273, 'high_52w': 779.8200073242188, 'low_52w': 520.260009765625, 'pct_from_52w_high': -5.421767702774083, 'pct_from_52w_low': 41.76372663345824}
 - Freshness: fresh
 
 ### AMZN
@@ -228,13 +228,13 @@
 
 ### AMBA
 - Date: 2026-10-14
-- Open: 63.130001068115234
-- High: 63.381099700927734
-- Low: 60.75
-- Close: None
+- Open: 63.13999938964844
+- High: 63.380001068115234
+- Low: 60.709999084472656
+- Close: 61.459999084472656
 - Previous close: 64.30000305175781
-- Pct change: None
-- Intraday/latest price: 61.46
-- Intraday vs previous close pct: -4.416800803993393
-- Technical: {'pct_change_5d': -5.357667440161917, 'pct_change_20d': -0.046632641758126425, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -33.498809154831335, 'pct_from_52w_low': 33.126302417041195}
+- Pct change: -4.416802227830563
+- Intraday/latest price: 61.459999084472656
+- Intraday vs previous close pct: -4.416802227830563
+- Technical: {'pct_change_5d': -5.923775659137398, 'pct_change_20d': -2.0869864007289296, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -36.4360352336146, 'pct_from_52w_low': 27.24637692605687}
 - Freshness: fresh
