@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-15 06:45:56 CST
+- Generated at: 2026-10-15 09:01:57 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -60,7 +60,7 @@
 ### SPY
 - Date: 2026-10-14
 - Open: 774.9199829101562
-- High: 776.2999877929688
+- High: 776.3499755859375
 - Low: 766.7100219726562
 - Close: 769.5999755859375
 - Previous close: 778.010009765625
@@ -72,7 +72,7 @@
 
 ### QQQ
 - Date: 2026-10-14
-- Open: 738.0
+- Open: 737.97998046875
 - High: 740.530029296875
 - Low: 726.3900146484375
 - Close: 728.9500122070312
@@ -98,7 +98,7 @@
 
 ### SOXX
 - Date: 2026-10-14
-- Open: 531.594970703125
+- Open: 531.8800048828125
 - High: 534.4199829101562
 - Low: 517.469970703125
 - Close: 519.4199829101562
@@ -111,7 +111,7 @@
 
 ### SMH
 - Date: 2026-10-14
-- Open: 576.4099731445312
+- Open: 576.489990234375
 - High: 580.0800170898438
 - Low: 563.1199951171875
 - Close: 564.739990234375
@@ -137,7 +137,7 @@
 
 ### NVDA
 - Date: 2026-10-14
-- Open: 225.60499572753906
+- Open: 225.52999877929688
 - High: 226.0
 - Low: 219.63999938964844
 - Close: 221.3000030517578
@@ -152,7 +152,7 @@
 - Date: 2026-10-14
 - Open: 436.25
 - High: 440.3900146484375
-- Low: 428.0880126953125
+- Low: 428.05999755859375
 - Close: 430.0
 - Previous close: 445.1199951171875
 - Pct change: -3.396835748348448
@@ -165,7 +165,7 @@
 - Date: 2026-10-14
 - Open: 352.19000244140625
 - High: 354.25
-- Low: 342.8200988769531
+- Low: 342.82000732421875
 - Close: 346.25
 - Previous close: 357.30999755859375
 - Pct change: -3.095350713431988
@@ -176,8 +176,8 @@
 
 ### MSFT
 - Date: 2026-10-14
-- Open: 545.1500244140625
-- High: 545.739990234375
+- Open: 545.27001953125
+- High: 545.75
 - Low: 532.5399780273438
 - Close: 533.6900024414062
 - Previous close: 543.4500122070312
@@ -189,7 +189,7 @@
 
 ### GOOGL
 - Date: 2026-10-14
-- Open: 355.7300109863281
+- Open: 355.57000732421875
 - High: 359.3999938964844
 - Low: 346.3399963378906
 - Close: 347.6400146484375
@@ -205,17 +205,17 @@
 - Open: 760.75
 - High: 761.47998046875
 - Low: 734.2864990234375
-- Close: 737.5399780273438
+- Close: None
 - Previous close: 762.5
-- Pct change: -3.2734455046106503
-- Intraday/latest price: 737.5399780273438
-- Intraday vs previous close pct: -3.2734455046106503
-- Technical: {'pct_change_5d': 2.2500700841085353, 'pct_change_20d': 9.539436619335273, 'high_52w': 779.8200073242188, 'low_52w': 520.260009765625, 'pct_from_52w_high': -5.421767702774083, 'pct_from_52w_low': 41.76372663345824}
+- Pct change: None
+- Intraday/latest price: 737.54
+- Intraday vs previous close pct: -3.2734426229508284
+- Technical: {'pct_change_5d': 3.1967295042628185, 'pct_change_20d': 13.765220086817376, 'high_52w': 779.8200073242188, 'low_52w': 520.260009765625, 'pct_from_52w_high': -2.2210262831866223, 'pct_from_52w_low': 46.561331966203426}
 - Freshness: fresh
 
 ### AMZN
 - Date: 2026-10-14
-- Open: 257.9599914550781
+- Open: 258.010009765625
 - High: 259.6499938964844
 - Low: 252.66000366210938
 - Close: 254.0800018310547
@@ -231,10 +231,10 @@
 - Open: 63.130001068115234
 - High: 63.381099700927734
 - Low: 60.75
-- Close: 61.459999084472656
+- Close: None
 - Previous close: 64.30000305175781
-- Pct change: -4.416802227830563
-- Intraday/latest price: 61.459999084472656
-- Intraday vs previous close pct: -4.416802227830563
-- Technical: {'pct_change_5d': -5.923775659137398, 'pct_change_20d': -2.0869864007289296, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -36.4360352336146, 'pct_from_52w_low': 27.24637692605687}
+- Pct change: None
+- Intraday/latest price: 61.46
+- Intraday vs previous close pct: -4.416800803993393
+- Technical: {'pct_change_5d': -5.357667440161917, 'pct_change_20d': -0.046632641758126425, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -33.498809154831335, 'pct_from_52w_low': 33.126302417041195}
 - Freshness: fresh
