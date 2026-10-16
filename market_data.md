@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-16 08:51:44 CST
+- Generated at: 2026-10-16 13:13:24 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -85,15 +85,15 @@
 
 ### ^IXIC
 - Date: 2026-10-15
-- Open: 26380.7734375
-- High: 26754.015625
-- Low: 26308.845703125
-- Close: 26713.025390625
+- Open: 26380.76953125
+- High: 26754.01953125
+- Low: 26308.849609375
+- Close: 26713.029296875
 - Previous close: 26692.869140625
-- Pct change: 0.07551174020976603
-- Intraday/latest price: 26713.025390625
-- Intraday vs previous close pct: 0.07551174020976603
-- Technical: {'pct_change_5d': -1.7662944525565272, 'pct_change_20d': 1.115607744099023, 'high_52w': 27722.75, 'low_52w': 20690.25, 'pct_from_52w_high': -3.642223839175407, 'pct_from_52w_low': 29.10924416391778}
+- Pct change: 0.0755263742679313
+- Intraday/latest price: 26713.029296875
+- Intraday vs previous close pct: 0.0755263742679313
+- Technical: {'pct_change_5d': -1.7662800878259666, 'pct_change_20d': 1.115622530250615, 'high_52w': 27722.75, 'low_52w': 20690.25, 'pct_from_52w_high': -3.642209748762293, 'pct_from_52w_low': 29.109263043583322}
 - Freshness: fresh
 
 ### SOXX
@@ -202,15 +202,15 @@
 
 ### META
 - Date: 2026-10-15
-- Open: 726.0999755859375
+- Open: 726.5599975585938
 - High: 743.969970703125
 - Low: 715.5800170898438
-- Close: None
+- Close: 736.719970703125
 - Previous close: 737.5399780273438
-- Pct change: None
-- Intraday/latest price: 736.72
-- Intraday vs previous close pct: -0.11117743468453956
-- Technical: {'pct_change_5d': 2.2500700841085353, 'pct_change_20d': 9.539436619335273, 'high_52w': 779.8200073242188, 'low_52w': 520.260009765625, 'pct_from_52w_high': -5.421767702774083, 'pct_from_52w_low': 41.76372663345824}
+- Pct change: -0.11118140692684131
+- Intraday/latest price: 736.719970703125
+- Intraday vs previous close pct: -0.11118140692684131
+- Technical: {'pct_change_5d': 2.1958905981528165, 'pct_change_20d': 7.974377238970298, 'high_52w': 779.8200073242188, 'low_52w': 520.260009765625, 'pct_from_52w_high': -5.5269211120886785, 'pct_from_52w_low': 41.606111727675234}
 - Freshness: fresh
 
 ### AMZN
@@ -229,12 +229,12 @@
 ### AMBA
 - Date: 2026-10-15
 - Open: 59.599998474121094
-- High: 63.5099983215332
+- High: 63.52000045776367
 - Low: 59.119998931884766
-- Close: None
+- Close: 63.349998474121094
 - Previous close: 61.459999084472656
-- Pct change: None
-- Intraday/latest price: 63.345
-- Intraday vs previous close pct: 3.067037005543294
-- Technical: {'pct_change_5d': -5.923775659137398, 'pct_change_20d': -2.0869864007289296, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -36.4360352336146, 'pct_from_52w_low': 27.24637692605687}
+- Pct change: 3.075169895545815
+- Intraday/latest price: 63.349998474121094
+- Intraday vs previous close pct: 3.075169895545815
+- Technical: {'pct_change_5d': 0.731434391694985, 'pct_change_20d': -5.320587345901295, 'high_52w': 96.69000244140625, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -34.481335324703366, 'pct_from_52w_low': 31.159419202459727}
 - Freshness: fresh
