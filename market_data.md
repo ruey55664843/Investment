@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-24 10:13:39 CST
+- Generated at: 2026-10-24 15:27:07 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -85,15 +85,15 @@
 
 ### ^IXIC
 - Date: 2026-10-23
-- Open: 25893.953125
-- High: 26111.623046875
-- Low: 25866.15234375
-- Close: 25955.341796875
+- Open: 25893.94921875
+- High: 26111.619140625
+- Low: 25866.150390625
+- Close: 25955.33984375
 - Previous close: 26008.859375
-- Pct change: -0.20576672492005343
-- Intraday/latest price: 25955.341796875
-- Intraday vs previous close pct: -0.20576672492005343
-- Technical: {'pct_change_5d': -0.7065313428018194, 'pct_change_20d': -4.113156726026823, 'high_52w': 27722.75, 'low_52w': 20690.25, 'pct_from_52w_high': -6.375298998566159, 'pct_from_52w_low': 25.44721207754861}
+- Pct change: -0.2057742343804736
+- Intraday/latest price: 25955.33984375
+- Intraday vs previous close pct: -0.2057742343804736
+- Technical: {'pct_change_5d': -0.7065388145799822, 'pct_change_20d': -4.113163941458319, 'high_52w': 27722.75, 'low_52w': 20690.25, 'pct_from_52w_high': -6.37530604377271, 'pct_from_52w_low': 25.447202637715826}
 - Freshness: fresh
 
 ### SOXX
