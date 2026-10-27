@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-10-27 16:04:26 CST
+- Generated at: 2026-10-27 16:39:50 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -21,11 +21,11 @@
 - Close: 106.6
 - Spread: -0.3
 - Trading volume: 153499719
-- Foreign investor buy/sell: -45989683
-- Investment trust buy/sell: 2106000
+- Foreign investor buy/sell: -28420605
+- Investment trust buy/sell: 4710000
 - Margin delta estimated: -384
 - Technical: {'pct_change_5d': -2.2018348623853212, 'pct_change_20d': -4.693786320965576, 'high_60d': 116.5, 'low_60d': 93.5, 'pct_from_60d_high': -8.49785407725322, 'pct_from_60d_low': 14.010695187165778}
-- Freshness: {'price': 'fresh', 'institutional': 'stale_over_one_trading_day', 'margin': 'stale_over_one_trading_day'}
+- Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'stale_over_one_trading_day'}
 
 ### 00988A 主動統一台股增長
 - Price date: 2026-10-27
@@ -125,14 +125,14 @@
 ### ^VIX
 - Date: 2026-10-27
 - Open: 18.43000030517578
-- High: 18.459999084472656
-- Low: 18.3799991607666
-- Close: 18.43000030517578
+- High: 18.549999237060547
+- Low: 18.309999465942383
+- Close: 18.350000381469727
 - Previous close: 18.389999389648438
-- Pct change: 0.2175145016582114
-- Intraday/latest price: 18.43000030517578
-- Intraday vs previous close pct: 0.2175145016582114
-- Technical: {'pct_change_5d': 6.4702534592044, 'pct_change_20d': 14.900244720901634, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -47.79036627902642, 'pct_from_52w_low': 37.74290095322528}
+- Pct change: -0.21750412999592683
+- Intraday/latest price: 18.350000381469727
+- Intraday vs previous close pct: -0.21750412999592683
+- Technical: {'pct_change_5d': 6.008093284887495, 'pct_change_20d': 14.401492107810387, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -48.01699496297852, 'pct_from_52w_low': 37.14499420418338}
 - Freshness: fresh
 
 ### NVDA
