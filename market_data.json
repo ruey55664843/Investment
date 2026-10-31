@@ -1,20 +1,20 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-10-31 19:44:20 CST",
+  "generated_at": "2026-11-01 00:25:05 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "full",
+  "market_mode": "us_intraday",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
     "mode": "tw_intraday_or_latest_available",
-    "lookback_start": "2026-08-02",
-    "lookback_end": "2026-10-31",
+    "lookback_start": "2026-08-03",
+    "lookback_end": "2026-11-01",
     "market_margin": {
       "date": "2026-10-30",
       "today_balance": 623467886000,
       "yesterday_balance": 633910848000,
       "delta": -10442962000,
-      "freshness": "fresh"
+      "freshness": "weekend_or_holiday_possible"
     },
     "stocks": {
       "0050": {
@@ -43,9 +43,9 @@
           "pct_from_60d_low": 4.272230501738705
         },
         "freshness": {
-          "price": "fresh",
-          "institutional": "fresh",
-          "margin": "fresh"
+          "price": "weekend_or_holiday_possible",
+          "institutional": "weekend_or_holiday_possible",
+          "margin": "weekend_or_holiday_possible"
         }
       },
       "00988A": {
@@ -74,9 +74,9 @@
           "pct_from_60d_low": 0.0
         },
         "freshness": {
-          "price": "fresh",
-          "institutional": "fresh",
-          "margin": "fresh"
+          "price": "weekend_or_holiday_possible",
+          "institutional": "weekend_or_holiday_possible",
+          "margin": "weekend_or_holiday_possible"
         }
       },
       "6005": {
@@ -105,9 +105,9 @@
           "pct_from_60d_low": 2.3333333333333206
         },
         "freshness": {
-          "price": "fresh",
-          "institutional": "fresh",
-          "margin": "fresh"
+          "price": "weekend_or_holiday_possible",
+          "institutional": "weekend_or_holiday_possible",
+          "margin": "weekend_or_holiday_possible"
         }
       }
     }
@@ -135,7 +135,7 @@
           "pct_from_52w_high": -3.313633808738392,
           "pct_from_52w_low": 20.092794228275036
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "QQQ": {
         "date": "2026-10-30",
@@ -156,7 +156,7 @@
           "pct_from_52w_high": -9.48666813135256,
           "pct_from_52w_low": 24.278261442719117
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "^IXIC": {
         "date": "2026-10-30",
@@ -177,7 +177,7 @@
           "pct_from_52w_high": -8.245033411187563,
           "pct_from_52w_low": 22.941965418494227
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "SOXX": {
         "date": "2026-10-30",
@@ -198,7 +198,7 @@
           "pct_from_52w_high": -28.117996647463006,
           "pct_from_52w_low": 81.04362054431529
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "SMH": {
         "date": "2026-10-30",
@@ -219,7 +219,7 @@
           "pct_from_52w_high": -22.22884108429134,
           "pct_from_52w_low": 65.84352022820039
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "^VIX": {
         "date": "2026-10-30",
@@ -240,7 +240,7 @@
           "pct_from_52w_high": -44.98583428889881,
           "pct_from_52w_low": 45.14200231832666
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "NVDA": {
         "date": "2026-10-30",
@@ -261,7 +261,7 @@
           "pct_from_52w_high": -15.914038913831508,
           "pct_from_52w_low": 24.57539055653104
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "TSM": {
         "date": "2026-10-30",
@@ -282,7 +282,7 @@
           "pct_from_52w_high": -16.68615425240573,
           "pct_from_52w_low": 52.21122619538616
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "AVGO": {
         "date": "2026-10-30",
@@ -303,7 +303,7 @@
           "pct_from_52w_high": -34.12525523792613,
           "pct_from_52w_low": 12.45688928873603
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "MSFT": {
         "date": "2026-10-30",
@@ -324,7 +324,7 @@
           "pct_from_52w_high": -5.305279864700518,
           "pct_from_52w_low": 49.45874997137884
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "GOOGL": {
         "date": "2026-10-30",
@@ -345,7 +345,7 @@
           "pct_from_52w_high": -31.51415619539496,
           "pct_from_52w_low": 3.3764254594377707
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "META": {
         "date": "2026-10-30",
@@ -366,7 +366,7 @@
           "pct_from_52w_high": -21.136931027894732,
           "pct_from_52w_low": 18.20819949459991
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "AMZN": {
         "date": "2026-10-30",
@@ -387,7 +387,7 @@
           "pct_from_52w_high": -16.312675526539778,
           "pct_from_52w_low": 22.627554134446747
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       },
       "AMBA": {
         "date": "2026-10-30",
@@ -408,7 +408,7 @@
           "pct_from_52w_high": -34.71920846197596,
           "pct_from_52w_low": 30.683229666498303
         },
-        "freshness": "fresh"
+        "freshness": "weekend_or_holiday_possible"
       }
     }
   }
