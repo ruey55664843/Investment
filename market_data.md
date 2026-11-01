@@ -1,7 +1,7 @@
 # Public Market Data
 
-- Generated at: 2026-11-02 00:12:15 CST
-- Market mode: us_intraday
+- Generated at: 2026-11-02 04:38:45 CST
+- Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
