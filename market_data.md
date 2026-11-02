@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-11-03 05:59:11 CST
+- Generated at: 2026-11-03 07:20:38 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -88,12 +88,12 @@
 - Open: 25600.173828125
 - High: 25799.455078125
 - Low: 25145.951171875
-- Close: 25164.31640625
+- Close: 25164.36328125
 - Previous close: 25437.0
-- Pct change: -1.071995886897037
-- Intraday/latest price: 25164.31640625
-- Intraday vs previous close pct: -1.071995886897037
-- Technical: {'pct_change_5d': -3.840612273274102, 'pct_change_20d': -8.417833094251126, 'high_52w': 27722.75, 'low_52w': 20690.25, 'pct_from_52w_high': -9.228642879043381, 'pct_from_52w_low': 21.624032605937572}
+- Pct change: -1.0718116080905782
+- Intraday/latest price: 25164.36328125
+- Intraday vs previous close pct: -1.0718116080905782
+- Technical: {'pct_change_5d': -3.8404331517264745, 'pct_change_20d': -8.417662498952438, 'high_52w': 27722.75, 'low_52w': 20690.25, 'pct_from_52w_high': -9.228473794086089, 'pct_from_52w_low': 21.624259161924098}
 - Freshness: fresh
 
 ### SOXX
@@ -178,7 +178,7 @@
 - Date: 2026-11-02
 - Open: 524.0999755859375
 - High: 529.6300048828125
-- Low: 504.9599914550781
+- Low: 504.989990234375
 - Close: 507.1199951171875
 - Previous close: 521.9099731445312
 - Pct change: -2.833817859090426
