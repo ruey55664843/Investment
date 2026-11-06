@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-11-07 05:22:19 CST
+- Generated at: 2026-11-07 05:39:37 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -62,12 +62,12 @@
 - Open: 734.8200073242188
 - High: 742.2103881835938
 - Low: 734.5800170898438
-- Close: 735.3599853515625
+- Close: 735.2899780273438
 - Previous close: 733.0
-- Pct change: 0.3219625309089258
-- Intraday/latest price: 735.3599853515625
-- Intraday vs previous close pct: 0.3219625309089258
-- Technical: {'pct_change_5d': -2.6941176812648626, 'pct_change_20d': -5.5499212101889235, 'high_52w': 781.6199951171875, 'low_52w': 629.280029296875, 'pct_from_52w_high': -5.91847829566966, 'pct_from_52w_low': 16.857353025046052}
+- Pct change: 0.31241173633611563
+- Intraday/latest price: 735.2899780273438
+- Intraday vs previous close pct: 0.31241173633611563
+- Technical: {'pct_change_5d': -2.7033813406800777, 'pct_change_20d': -5.558912993016429, 'high_52w': 781.6199951171875, 'low_52w': 629.280029296875, 'pct_from_52w_high': -5.927434991334568, 'pct_from_52w_low': 16.846228037606537}
 - Freshness: fresh
 
 ### QQQ
@@ -127,12 +127,12 @@
 - Open: 27.68000030517578
 - High: 27.760000228881836
 - Low: 23.469999313354492
-- Close: 25.6200008392334
+- Close: 25.639999389648438
 - Previous close: 28.18000030517578
-- Pct change: -9.084455068200237
-- Intraday/latest price: 25.6200008392334
-- Intraday vs previous close pct: -9.084455068200237
-- Technical: {'pct_change_5d': 31.925853442749542, 'pct_change_20d': 72.64151331403879, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -27.422092371221275, 'pct_from_52w_low': 91.47982526234775}
+- Pct change: -9.013487892194327
+- Intraday/latest price: 25.639999389648438
+- Intraday vs previous close pct: -9.013487892194327
+- Technical: {'pct_change_5d': 32.028832589693266, 'pct_change_20d': 72.77627443404828, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -27.365439252673774, 'pct_from_52w_low': 91.62929125819221}
 - Freshness: fresh
 
 ### NVDA
