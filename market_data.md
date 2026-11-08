@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-11-08 23:25:03 CST
+- Generated at: 2026-11-09 03:48:55 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -52,7 +52,7 @@
 - Foreign investor buy/sell: -140750
 - Investment trust buy/sell: 1000
 - Margin delta estimated: -429
-- Technical: {'pct_change_5d': -10.423452768729636, 'pct_change_20d': -16.030534351145043, 'high_60d': 33.8, 'low_60d': 27.5, 'pct_from_60d_high': -18.639053254437865, 'pct_from_60d_low': 0.0}
+- Technical: {'pct_change_5d': -10.423452768729636, 'pct_change_20d': -16.030534351145043, 'high_60d': 33.0, 'low_60d': 27.5, 'pct_from_60d_high': -16.666666666666664, 'pct_from_60d_low': 0.0}
 - Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
 
 ## US
