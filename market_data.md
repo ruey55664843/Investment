@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-11-12 16:29:40 CST
+- Generated at: 2026-11-12 18:40:19 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -21,8 +21,8 @@
 - Close: 100.95
 - Spread: -2.25
 - Trading volume: 138078921
-- Foreign investor buy/sell: 22452348
-- Investment trust buy/sell: 4440000
+- Foreign investor buy/sell: -2370638
+- Investment trust buy/sell: 3900000
 - Margin delta estimated: -3061
 - Technical: {'pct_change_5d': 3.9114770972722646, 'pct_change_20d': -10.186832740213525, 'high_60d': 116.5, 'low_60d': 92.5, 'pct_from_60d_high': -13.347639484978535, 'pct_from_60d_low': 9.13513513513513}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
@@ -35,7 +35,7 @@
 - Close: 13.2
 - Spread: -0.28
 - Trading volume: 19388562
-- Foreign investor buy/sell: 5948000
+- Foreign investor buy/sell: 3520657
 - Investment trust buy/sell: 0
 - Margin delta estimated: -229
 - Technical: {'pct_change_5d': 1.1494252873563093, 'pct_change_20d': -20.09685230024213, 'high_60d': 17.69, 'low_60d': 12.21, 'pct_from_60d_high': -25.381571509327316, 'pct_from_60d_low': 8.108108108108091}
@@ -49,8 +49,8 @@
 - Close: 27.4
 - Spread: -0.2
 - Trading volume: 4442778
-- Foreign investor buy/sell: -1047000
-- Investment trust buy/sell: 4000
+- Foreign investor buy/sell: -906371
+- Investment trust buy/sell: 0
 - Margin delta estimated: 99
 - Technical: {'pct_change_5d': -5.025996533795507, 'pct_change_20d': -15.038759689922488, 'high_60d': 33.0, 'low_60d': 27.2, 'pct_from_60d_high': -16.96969696969698, 'pct_from_60d_low': 0.7352941176470562}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
@@ -123,16 +123,16 @@
 - Freshness: fresh
 
 ### ^VIX
-- Date: 2026-11-11
-- Open: 18.809999465942383
-- High: 18.959999084472656
-- Low: 17.329999923706055
-- Close: 17.489999771118164
-- Previous close: 19.459999084472656
-- Pct change: -10.123326855273984
-- Intraday/latest price: 17.49
-- Intraday vs previous close pct: -10.123325679108286
-- Technical: {'pct_change_5d': 5.29800799777318, 'pct_change_20d': 3.675156496986509, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -50.45325736790423, 'pct_from_52w_low': 30.71748596056707}
+- Date: 2026-11-12
+- Open: 18.360000610351562
+- High: 18.469999313354492
+- Low: 18.15999984741211
+- Close: 18.25
+- Previous close: 17.489999771118164
+- Pct change: 4.3453415599058465
+- Intraday/latest price: 18.25
+- Intraday vs previous close pct: 4.3453415599058465
+- Technical: {'pct_change_5d': -35.23775797600667, 'pct_change_20d': 10.874854283654978, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -48.30028216873217, 'pct_from_52w_low': 36.397607204075676}
 - Freshness: fresh
 
 ### NVDA
