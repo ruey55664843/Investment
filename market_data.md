@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-11-15 23:17:39 CST
+- Generated at: 2026-11-16 04:27:04 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -38,7 +38,7 @@
 - Foreign investor buy/sell: 4971222
 - Investment trust buy/sell: 0
 - Margin delta estimated: -417
-- Technical: {'pct_change_5d': 10.155610155610152, 'pct_change_20d': -18.975903614457845, 'high_60d': 17.69, 'low_60d': 12.21, 'pct_from_60d_high': -23.96834369700397, 'pct_from_60d_low': 10.155610155610152}
+- Technical: {'pct_change_5d': 10.155610155610152, 'pct_change_20d': -18.975903614457845, 'high_60d': 17.6, 'low_60d': 12.21, 'pct_from_60d_high': -23.57954545454547, 'pct_from_60d_low': 10.155610155610152}
 - Freshness: {'price': 'weekend_or_holiday_possible', 'institutional': 'weekend_or_holiday_possible', 'margin': 'weekend_or_holiday_possible'}
 
 ### 6005 群益證
