@@ -1,6 +1,6 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-11-19 19:09:14 CST",
+  "generated_at": "2026-11-19 21:37:18 CST",
   "generated_timezone": "Asia/Taipei",
   "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
@@ -10,10 +10,10 @@
     "lookback_start": "2026-08-21",
     "lookback_end": "2026-11-19",
     "market_margin": {
-      "date": "2026-11-18",
-      "today_balance": 508026570000,
-      "yesterday_balance": 508721448000,
-      "delta": -694878000,
+      "date": "2026-11-19",
+      "today_balance": 484368330000,
+      "yesterday_balance": 508026642000,
+      "delta": -23658312000,
       "freshness": "fresh"
     },
     "stocks": {
@@ -31,9 +31,9 @@
         "investment_trust_buy_sell": 5700000,
         "dealer_self_buy_sell": 1368517,
         "dealer_hedging_buy_sell": -184521567,
-        "margin_date": "2026-11-18",
-        "margin_today_balance": 64029,
-        "margin_delta_estimated": 19877,
+        "margin_date": "2026-11-19",
+        "margin_today_balance": 121075,
+        "margin_delta_estimated": 57046,
         "technical": {
           "pct_change_5d": -10.648836057454181,
           "pct_change_20d": -15.897435897435896,
@@ -62,9 +62,9 @@
         "investment_trust_buy_sell": 0,
         "dealer_self_buy_sell": 0,
         "dealer_hedging_buy_sell": 12563000,
-        "margin_date": "2026-11-18",
-        "margin_today_balance": 26576,
-        "margin_delta_estimated": -659,
+        "margin_date": "2026-11-19",
+        "margin_today_balance": 26227,
+        "margin_delta_estimated": -349,
         "technical": {
           "pct_change_5d": -6.212121212121202,
           "pct_change_20d": -17.68617021276595,
@@ -93,9 +93,9 @@
         "investment_trust_buy_sell": 218000,
         "dealer_self_buy_sell": 0,
         "dealer_hedging_buy_sell": 0,
-        "margin_date": "2026-11-18",
-        "margin_today_balance": 4641,
-        "margin_delta_estimated": 8,
+        "margin_date": "2026-11-19",
+        "margin_today_balance": 4569,
+        "margin_delta_estimated": -72,
         "technical": {
           "pct_change_5d": -10.766423357664234,
           "pct_change_20d": -19.83606557377049,
@@ -224,21 +224,21 @@
       "^VIX": {
         "date": "2026-11-19",
         "open": 22.059999465942383,
-        "high": 22.40999984741211,
+        "high": 22.43000030517578,
         "low": 21.84000015258789,
-        "close": 21.940000534057617,
+        "close": 22.219999313354492,
         "previous_close": 24.559999465942383,
-        "pct_change": -10.66774832596371,
+        "pct_change": -9.527688124882882,
         "volume": 0.0,
-        "intraday_or_latest_price": 21.940000534057617,
-        "intraday_vs_previous_close_pct": -10.66774832596371,
+        "intraday_or_latest_price": 22.219999313354492,
+        "intraday_vs_previous_close_pct": -9.527688124882882,
         "technical": {
-          "pct_change_5d": 17.326201277699127,
-          "pct_change_20d": 15.291643417828315,
+          "pct_change_5d": 18.823520891994505,
+          "pct_change_20d": 16.76299795904683,
           "high_52w": 35.29999923706055,
           "low_52w": 13.380000114440918,
-          "pct_from_52w_high": -37.84702263952634,
-          "pct_from_52w_low": 63.97608629597818
+          "pct_from_52w_high": -37.053824947320976,
+          "pct_from_52w_low": 66.0687527900141
         },
         "freshness": "fresh"
       },
