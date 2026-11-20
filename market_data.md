@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-11-20 10:43:11 CST
+- Generated at: 2026-11-20 18:39:41 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -14,45 +14,45 @@
 - Freshness: fresh
 
 ### 0050 元大台灣50
-- Price date: 2026-11-19
-- Open: 94.05
-- High: 94.5
-- Low: 89.8
-- Close: 90.2
-- Spread: -3.9
-- Trading volume: 468405422
-- Foreign investor buy/sell: -58255341
-- Investment trust buy/sell: 5700000
+- Price date: 2026-11-20
+- Open: 87.25
+- High: 88.05
+- Low: 83.95
+- Close: 84.45
+- Spread: -5.75
+- Trading volume: 874056273
+- Foreign investor buy/sell: -110454647
+- Investment trust buy/sell: 4100000
 - Margin delta estimated: 57046
-- Technical: {'pct_change_5d': -10.648836057454181, 'pct_change_20d': -15.897435897435896, 'high_60d': 116.5, 'low_60d': 90.2, 'pct_from_60d_high': -22.575107296137332, 'pct_from_60d_low': 0.0}
+- Technical: {'pct_change_5d': -17.609756097560968, 'pct_change_20d': -21.914008321775313, 'high_60d': 116.5, 'low_60d': 84.45, 'pct_from_60d_high': -27.510729613733908, 'pct_from_60d_low': 0.0}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 00988A 主動統一台股增長
-- Price date: 2026-11-19
-- Open: 12.71
-- High: 12.74
-- Low: 12.36
-- Close: 12.38
-- Spread: -0.04
-- Trading volume: 33926961
-- Foreign investor buy/sell: 10449600
+- Price date: 2026-11-20
+- Open: 11.87
+- High: 11.94
+- Low: 11.64
+- Close: 11.64
+- Spread: -0.74
+- Trading volume: 58289418
+- Foreign investor buy/sell: 14141792
 - Investment trust buy/sell: 0
 - Margin delta estimated: -349
-- Technical: {'pct_change_5d': -6.212121212121202, 'pct_change_20d': -17.68617021276595, 'high_60d': 17.6, 'low_60d': 12.21, 'pct_from_60d_high': -29.659090909090914, 'pct_from_60d_low': 1.3923013923013983}
+- Technical: {'pct_change_5d': -13.45724907063196, 'pct_change_20d': -24.020887728459527, 'high_60d': 17.6, 'low_60d': 11.64, 'pct_from_60d_high': -33.86363636363636, 'pct_from_60d_low': 0.0}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ### 6005 群益證
-- Price date: 2026-11-19
-- Open: 26.0
-- High: 26.0
-- Low: 24.2
-- Close: 24.45
-- Spread: -1.6
-- Trading volume: 11443036
-- Foreign investor buy/sell: -1915833
-- Investment trust buy/sell: 218000
+- Price date: 2026-11-20
+- Open: 23.8
+- High: 23.9
+- Low: 22.05
+- Close: 22.15
+- Spread: -2.3
+- Trading volume: 14211716
+- Foreign investor buy/sell: -2459266
+- Investment trust buy/sell: 6000
 - Margin delta estimated: -72
-- Technical: {'pct_change_5d': -10.766423357664234, 'pct_change_20d': -19.83606557377049, 'high_60d': 33.0, 'low_60d': 24.45, 'pct_from_60d_high': -25.909090909090914, 'pct_from_60d_low': 0.0}
+- Technical: {'pct_change_5d': -20.32374100719425, 'pct_change_20d': -28.548387096774196, 'high_60d': 33.0, 'low_60d': 22.15, 'pct_from_60d_high': -32.87878787878788, 'pct_from_60d_low': 0.0}
 - Freshness: {'price': 'fresh', 'institutional': 'fresh', 'margin': 'fresh'}
 
 ## US
@@ -85,9 +85,9 @@
 
 ### ^IXIC
 - Date: 2026-11-19
-- Open: 24809.052734375
-- High: 24939.623046875
-- Low: 23870.6953125
+- Open: 24809.05078125
+- High: 24939.619140625
+- Low: 23870.69921875
 - Close: 23879.19921875
 - Previous close: 24429.880859375
 - Pct change: -2.2541315031164966
@@ -123,16 +123,16 @@
 - Freshness: fresh
 
 ### ^VIX
-- Date: 2026-11-19
-- Open: 22.059999465942383
-- High: 29.1299991607666
-- Low: 21.84000015258789
-- Close: 28.440000534057617
-- Previous close: 24.559999465942383
-- Pct change: 15.798050295138122
-- Intraday/latest price: 28.440000534057617
-- Intraday vs previous close pct: 15.798050295138122
-- Technical: {'pct_change_5d': 52.08555814832563, 'pct_change_20d': 49.44823703561752, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -19.433424507841902, 'pct_from_52w_low': 112.55605598510101}
+- Date: 2026-11-20
+- Open: 28.6299991607666
+- High: 30.040000915527344
+- Low: 28.3799991607666
+- Close: 29.329999923706055
+- Previous close: 28.440000534057617
+- Pct change: 3.1293930131352843
+- Intraday/latest price: 29.329999923706055
+- Intraday vs previous close pct: 3.1293930131352843
+- Technical: {'pct_change_5d': 51.96891752920665, 'pct_change_20d': 50.79690885972721, 'high_52w': 35.29999923706055, 'low_52w': 13.380000114440918, 'pct_from_52w_high': -16.912179723467947, 'pct_from_52w_low': 119.2077703500947}
 - Freshness: fresh
 
 ### NVDA
@@ -202,15 +202,15 @@
 
 ### META
 - Date: 2026-11-19
-- Open: 625.0
-- High: 630.0112915039062
-- Low: 595.7913208007812
-- Close: None
+- Open: 624.6599731445312
+- High: 630.0599975585938
+- Low: 595.780029296875
+- Close: 596.219970703125
 - Previous close: 616.3800048828125
-- Pct change: None
-- Intraday/latest price: 596.22
-- Intraday vs previous close pct: -3.270710393443954
-- Technical: {'pct_change_5d': -1.9705161288819495, 'pct_change_20d': -11.632643132302567, 'high_52w': 779.8200073242188, 'low_52w': 520.260009765625, 'pct_from_52w_high': -20.958682889172685, 'pct_from_52w_low': 18.475376410439303}
+- Pct change: -3.2707151464980377
+- Intraday/latest price: 596.219970703125
+- Intraday vs previous close pct: -3.2707151464980377
+- Technical: {'pct_change_5d': -4.392170634181925, 'pct_change_20d': -8.111274849827266, 'high_52w': 779.8200073242188, 'low_52w': 520.260009765625, 'pct_from_52w_high': -23.54389921990806, 'pct_from_52w_low': 14.600384329312499}
 - Freshness: fresh
 
 ### AMZN
@@ -231,10 +231,10 @@
 - Open: 59.02000045776367
 - High: 62.25
 - Low: 58.439998626708984
-- Close: None
+- Close: 58.93000030517578
 - Previous close: 54.63999938964844
-- Pct change: None
-- Intraday/latest price: 58.93
-- Intraday vs previous close pct: 7.851392127146162
-- Technical: {'pct_change_5d': -12.56201324687012, 'pct_change_20d': -17.2121221368963, 'high_52w': 96.36000061035156, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -43.29597442553494, 'pct_from_52w_low': 13.126294519117131}
+- Pct change: 7.851392685666991
+- Intraday/latest price: 58.93000030517578
+- Intraday vs previous close pct: 7.851392685666991
+- Technical: {'pct_change_5d': -3.4883737638547463, 'pct_change_20d': -6.6381474930482405, 'high_52w': 96.36000061035156, 'low_52w': 48.29999923706055, 'pct_from_52w_high': -38.84391870910265, 'pct_from_52w_low': 22.008284132557176}
 - Freshness: fresh
