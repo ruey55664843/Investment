@@ -1,6 +1,6 @@
 # Public Market Data
 
-- Generated at: 2026-11-21 06:31:39 CST
+- Generated at: 2026-11-21 08:24:10 CST
 - Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
@@ -139,13 +139,13 @@
 - Date: 2026-11-20
 - Open: 143.57000732421875
 - High: 143.72500610351562
-- Low: 124.51000213623047
+- Low: 124.5
 - Close: 125.52999877929688
 - Previous close: 145.97999572753906
 - Pct change: -14.008766643897296
 - Intraday/latest price: 125.52999877929688
 - Intraday vs previous close pct: -14.008766643897296
-- Technical: {'pct_change_5d': -22.916798234871592, 'pct_change_20d': -40.49583106547876, 'high_52w': 243.3699951171875, 'low_52w': 124.51000213623047, 'pct_from_52w_high': -48.4201005473778, 'pct_from_52w_low': 0.8192085981577613}
+- Technical: {'pct_change_5d': -22.916798234871592, 'pct_change_20d': -40.49583106547876, 'high_52w': 243.3699951171875, 'low_52w': 124.5, 'pct_from_52w_high': -48.4201005473778, 'pct_from_52w_low': 0.8273082564633549}
 - Freshness: fresh
 
 ### TSM
