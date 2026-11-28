@@ -1,7 +1,7 @@
 # Public Market Data
 
-- Generated at: 2026-11-28 11:36:47 CST
-- Market mode: tw_intraday
+- Generated at: 2026-11-28 20:30:44 CST
+- Market mode: full
 - Privacy: market data only; no personal holdings or recommendations.
 
 ## Taiwan
@@ -85,9 +85,9 @@
 
 ### ^IXIC
 - Date: 2026-11-27
-- Open: 23958.462890625
-- High: 24149.0859375
-- Low: 23690.595703125
+- Open: 23958.4609375
+- High: 24149.08984375
+- Low: 23690.599609375
 - Close: 24129.5
 - Previous close: 23585.80078125
 - Pct change: 2.305197198062592

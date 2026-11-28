@@ -1,8 +1,8 @@
 {
   "schema_version": "market-data-v2",
-  "generated_at": "2026-11-28 11:36:47 CST",
+  "generated_at": "2026-11-28 20:30:44 CST",
   "generated_timezone": "Asia/Taipei",
-  "market_mode": "tw_intraday",
+  "market_mode": "full",
   "privacy_note": "This file contains market data only. No personal holdings, cash, target allocation, or buy/sell recommendations are included.",
   "taiwan": {
     "source": "FinMind",
@@ -160,13 +160,13 @@
       },
       "^IXIC": {
         "date": "2026-11-27",
-        "open": 23958.462890625,
-        "high": 24149.0859375,
-        "low": 23690.595703125,
+        "open": 23958.4609375,
+        "high": 24149.08984375,
+        "low": 23690.599609375,
         "close": 24129.5,
         "previous_close": 23585.80078125,
         "pct_change": 2.305197198062592,
-        "volume": 4955552000.0,
+        "volume": 5545100000.0,
         "intraday_or_latest_price": 24129.5,
         "intraday_vs_previous_close_pct": 2.305197198062592,
         "technical": {
